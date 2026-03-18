@@ -1,0 +1,11 @@
+{"type": "startup", "startup_ms": 2.53}
+{"type": "startup", "startup_ms": 3.03}
+{"type": "startup", "startup_ms": 1.18}
+{"type": "rag_init", "duration_ms": 33725.02, "meta_count": 570}
+{"type": "rag_init", "duration_ms": 33725.79, "meta_count": 570}
+{"type": "rag_prewarm", "duration_ms": 611160.47, "ok": true}
+{"type": "qa_request", "action": "message", "total_ms": 325541.1, "rag_ms": 325540.46, "rag_timed_out": true, "rag_errored": false, "rag_error": null}
+{"type": "startup", "startup_ms": 3.46}
+{"type": "rag_init", "duration_ms": 33107.09, "meta_count": 570}
+{"type": "rag_init", "duration_ms": 33107.91, "meta_count": 570}
+{"type": "rag_prewarm", "duration_ms": 610105.61, "ok": true}

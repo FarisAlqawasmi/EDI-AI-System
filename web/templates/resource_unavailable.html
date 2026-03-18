@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block title %}Resource unavailable - EDI Hub{% endblock %}
+
+{% block content %}
+<div class="resource-unavailable-container">
+    <h1>Resource unavailable</h1>
+    <p>This resource is unavailable (it previously failed to fetch or is media-only).</p>
+    <a href="{{ url_for('resources') }}" class="btn btn-primary">Back to resources</a>
+</div>
+{% endblock %}

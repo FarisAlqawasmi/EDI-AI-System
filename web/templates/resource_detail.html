@@ -1,0 +1,313 @@
+{% extends "base.html" %}
+
+{% block title %}{{ resource.title }} - EDI Hub{% endblock %}
+
+{% block content %}
+<div class="resource-detail-container">
+    <div class="resource-header">
+        <h1>{{ resource.title }}</h1>
+        {% if resource.author %}
+        <p class="resource-author">By {{ resource.author }}</p>
+        {% endif %}
+        <div class="resource-header-actions">
+            <a href="{{ url_for('resources') }}" class="btn btn-secondary">Back to resources</a>
+            {% if resource.has_valid_url %}
+            <a href="{{ resource.display_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-primary" title="Open original resource in a new tab" data-original-url="{{ resource.display_url }}">
+                Open Original
+            </a>
+            {% else %}
+            <span class="btn btn-primary btn-disabled" title="No URL available for this resource.">Open Original</span>
+            {% endif %}
+        </div>
+    </div>
+
+    <div class="split-view">
+        <div class="preview-pane">
+            <h2>Preview</h2>
+            {% if preview_type == "pdf" %}
+            <div class="pdf-preview-tabs html-preview-tabs" role="tablist" aria-label="PDF preview type">
+                <div class="preview-tablist">
+                    <button type="button" class="preview-tab active" role="tab" id="tab-pdf-preview" aria-selected="true" aria-controls="panel-pdf-preview" data-tab="pdf">PDF Preview</button>
+                    <button type="button" class="preview-tab" role="tab" id="tab-pdf-extracted" aria-selected="false" aria-controls="panel-pdf-extracted" data-tab="pdf-extracted"{% if not preview_content.extracted_html %} disabled{% endif %}>Extracted text</button>
+                </div>
+                <div id="panel-pdf-preview" class="preview-tabpanel" role="tabpanel" aria-labelledby="tab-pdf-preview">
+                    <div class="pdf-viewer">
+                        <iframe
+                            src="{{ preview_content.pdf_path }}#toolbar=0&navpanes=0&scrollbar=1"
+                            title="PDF Preview"
+                        ></iframe>
+                    </div>
+                </div>
+                <div id="panel-pdf-extracted" class="preview-tabpanel" role="tabpanel" aria-labelledby="tab-pdf-extracted" hidden>
+                    {% if preview_content.extracted_html %}
+                    <div class="extract-search-bar">
+                        <input type="text" id="pdf-extract-search-input" class="extract-search" placeholder="Search within preview…" aria-label="Search within extracted text" autocomplete="off">
+                        <span id="pdf-match-count" class="extract-match-count" aria-live="polite"></span>
+                        <div class="extract-nav-buttons">
+                            <button type="button" id="pdf-prev-btn" class="btn btn-small btn-outline" aria-label="Previous match" disabled>Previous</button>
+                            <button type="button" id="pdf-next-btn" class="btn btn-small btn-outline" aria-label="Next match" disabled>Next</button>
+                        </div>
+                    </div>
+                    <div id="pdf-extracted-text" class="article-content extract-content-inner extract-content-full">{{ preview_content.extracted_html|safe }}</div>
+                    {% else %}
+                    <p class="preview-no-extract-msg">Extracted text unavailable for this resource.</p>
+                    {% endif %}
+                </div>
+            </div>
+            {% elif preview_type == "iframe" or preview_type == "article" %}
+            <div class="html-preview-tabs" role="tablist" aria-label="Preview type">
+                <div class="preview-tablist">
+                    <button type="button" class="preview-tab active" role="tab" id="tab-website" aria-selected="true" aria-controls="panel-website" data-tab="website">Website</button>
+                    <button type="button" class="preview-tab" role="tab" id="tab-extracted" aria-selected="false" aria-controls="panel-extracted" data-tab="extracted"{% if not preview_content.extracted_html %} disabled{% endif %}>Extracted text</button>
+                </div>
+                <div id="panel-website" class="preview-tabpanel" role="tabpanel" aria-labelledby="tab-website">
+                    {% if preview_type == "iframe" %}
+                    <div id="html-iframe-container" class="iframe-wrapper html-iframe-container">
+                        <div id="html-iframe-loading" class="html-iframe-loading" aria-live="polite">Loading preview…</div>
+                        <iframe id="html-preview-iframe" src="{{ preview_content.url }}" title="Page Preview"></iframe>
+                        <div id="html-iframe-fallback" class="iframe-fallback" role="alert" aria-live="polite" hidden>
+                            <h3 class="iframe-fallback-title">Website preview unavailable</h3>
+                            <p class="iframe-fallback-body">This site can't be embedded here (blocked by the publisher).</p>
+                            <div class="iframe-fallback-actions">
+                                {% if resource.has_valid_url %}
+                                <a href="{{ resource.display_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Open original</a>
+                                {% else %}
+                                <span class="btn btn-primary btn-disabled">Open original</span>
+                                {% endif %}
+                                <button type="button" class="btn btn-secondary" id="iframe-fallback-view-extracted">View extracted text</button>
+                            </div>
+                        </div>
+                    </div>
+                    {% else %}
+                    <p class="preview-no-website-msg">No live link for this resource. Use the <strong>Extracted text</strong> tab to read the content.</p>
+                    {% endif %}
+                </div>
+                <div id="panel-extracted" class="preview-tabpanel" role="tabpanel" aria-labelledby="tab-extracted" hidden>
+                    {% if preview_content.extracted_html %}
+                    <div class="extract-search-bar">
+                        <input type="text" id="extract-search-input" class="extract-search" placeholder="Search within extracted text…" aria-label="Search within extracted text" autocomplete="off">
+                        <span id="extract-match-count" class="extract-match-count" aria-live="polite"></span>
+                        <div class="extract-nav-buttons">
+                            <button type="button" id="extract-prev-btn" class="btn btn-small btn-outline" aria-label="Previous match" disabled>Previous</button>
+                            <button type="button" id="extract-next-btn" class="btn btn-small btn-outline" aria-label="Next match" disabled>Next</button>
+                        </div>
+                    </div>
+                    <div id="resource-extracted-text" class="article-content extract-content-inner extract-content-full">{{ preview_content.extracted_html|safe }}</div>
+                    {% else %}
+                    <p class="preview-no-extract-msg">No extracted text available for this resource.</p>
+                    {% endif %}
+                </div>
+            </div>
+            {% elif preview_type == "text" %}
+            <div class="text-preview">
+                <pre class="text-content">{{ preview_content.text }}</pre>
+            </div>
+            {% else %}
+            <div class="no-preview">
+                <p>Preview not available for this resource.</p>
+                <p>{% if resource.has_valid_url %}Please use the <strong>Open Original</strong> button above to view the resource.{% else %}No preview or URL available.{% endif %}</p>
+            </div>
+            {% endif %}
+        </div>
+
+        <div class="summary-pane">
+            <h2>AI Summary</h2>
+            {% if resource.has_summary %}
+            <div class="summary-content">
+                <p>{{ resource.summary }}</p>
+            </div>
+            {% else %}
+            <div class="summary-unavailable">
+                <p>AI summary unavailable for this resource.</p>
+                {% if resource.error %}
+                <p class="error-note"><small>Reason: {{ resource.error }}</small></p>
+                {% endif %}
+            </div>
+            {% endif %}
+
+            <div class="resource-metadata">
+                <h3>Metadata</h3>
+                <dl>
+                    <dt>Type:</dt>
+                    <dd>{{ resource.kind|upper }}</dd>
+                    {% if resource.author %}
+                    <dt>Author:</dt>
+                    <dd>{{ resource.author }}</dd>
+                    {% endif %}
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% if preview_type == "pdf" or preview_type == "iframe" or preview_type == "article" %}
+<script>
+(function() {
+    function initTabs(tab1Id, tab2Id, panel1Id, panel2Id, dataTab1, dataTab2) {
+        var t1 = document.getElementById(tab1Id), t2 = document.getElementById(tab2Id);
+        var p1 = document.getElementById(panel1Id), p2 = document.getElementById(panel2Id);
+        if (!t1 || !t2 || !p1 || !p2) return;
+        function select(tab) {
+            var first = tab.getAttribute('data-tab') === dataTab1;
+            t1.classList.toggle('active', first);
+            t2.classList.toggle('active', !first);
+            t1.setAttribute('aria-selected', first);
+            t2.setAttribute('aria-selected', !first);
+            p1.hidden = !first;
+            p2.hidden = first;
+        }
+        t1.addEventListener('click', function() { select(t1); });
+        t2.addEventListener('click', function() { if (!t2.disabled) select(t2); });
+        t1.addEventListener('keydown', function(e) { if (e.key === 'ArrowRight' || e.key === 'ArrowDown') { e.preventDefault(); t2.focus(); } });
+        t2.addEventListener('keydown', function(e) { if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') { e.preventDefault(); t1.focus(); } });
+    }
+
+    // --- PDF tabs ---
+    initTabs('tab-pdf-preview', 'tab-pdf-extracted', 'panel-pdf-preview', 'panel-pdf-extracted', 'pdf', 'pdf-extracted');
+
+    // --- HTML tabs ---
+    initTabs('tab-website', 'tab-extracted', 'panel-website', 'panel-extracted', 'website', 'extracted');
+
+    // --- Iframe blocked detection (HTML only) ---
+    // Default: show iframe, hide error. Only show error on iframe error event or if load never fires (timeout).
+    // Do NOT read contentDocument after load (cross-origin blocks access and would falsely trigger fallback).
+    var iframe = document.getElementById('html-preview-iframe');
+    var loading = document.getElementById('html-iframe-loading');
+    var fallback = document.getElementById('html-iframe-fallback');
+    var container = document.getElementById('html-iframe-container');
+    if (iframe && loading && fallback && container) {
+        var loadFired = false;
+        var noLoadTimeout = window.setTimeout(function() {
+            if (!loadFired) {
+                loading.hidden = true;
+                iframe.style.display = 'none';
+                fallback.hidden = false;
+                container.classList.add('iframe-fallback-active');
+            }
+        }, 1800);
+        iframe.addEventListener('load', function() {
+            loadFired = true;
+            window.clearTimeout(noLoadTimeout);
+            loading.hidden = true;
+            // Success: keep iframe visible, keep fallback hidden (do not check contentDocument - cross-origin blocks access)
+        });
+        iframe.addEventListener('error', function() {
+            loadFired = true;
+            window.clearTimeout(noLoadTimeout);
+            loading.hidden = true;
+            iframe.style.display = 'none';
+            fallback.hidden = false;
+            container.classList.add('iframe-fallback-active');
+        });
+        document.getElementById('iframe-fallback-view-extracted').addEventListener('click', function() {
+            var tabExtracted = document.getElementById('tab-extracted');
+            if (tabExtracted && !tabExtracted.disabled) tabExtracted.click();
+        });
+    }
+
+    // --- Reusable: search within extracted text (highlight, N matches, next/prev) ---
+    function initExtractedTextSearch(searchInputId, containerId, countId, prevId, nextId) {
+        var searchInput = document.getElementById(searchInputId);
+        var container = document.getElementById(containerId);
+        var matchCountEl = document.getElementById(countId);
+        var prevBtn = document.getElementById(prevId);
+        var nextBtn = document.getElementById(nextId);
+        if (!searchInput || !container) return;
+
+        var currentMatchIndex = -1;
+        var matchElements = [];
+
+        function escapeRegex(s) {
+            return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        }
+
+        function clearMarks(parent) {
+            var marks = parent.querySelectorAll('mark.extract-search-mark');
+            marks.forEach(function(m) {
+                var p = m.parentNode;
+                p.replaceChild(document.createTextNode(m.textContent), m);
+                p.normalize();
+            });
+        }
+
+        function runSearch() {
+            var q = searchInput.value.trim();
+            clearMarks(container);
+            matchElements = [];
+            currentMatchIndex = -1;
+            if (matchCountEl) matchCountEl.textContent = '';
+            if (prevBtn) prevBtn.disabled = true;
+            if (nextBtn) nextBtn.disabled = true;
+            if (!q) return;
+
+            var regex = new RegExp('(' + escapeRegex(q) + ')', 'gi');
+            var walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, null, false);
+            var textNodes = [];
+            while (walker.nextNode()) textNodes.push(walker.currentNode);
+            textNodes.forEach(function(node) {
+                var text = node.textContent;
+                if (!regex.test(text)) return;
+                regex.lastIndex = 0;
+                var frag = document.createDocumentFragment();
+                var lastIdx = 0;
+                var m;
+                while ((m = regex.exec(text)) !== null) {
+                    frag.appendChild(document.createTextNode(text.slice(lastIdx, m.index)));
+                    var mark = document.createElement('mark');
+                    mark.className = 'extract-search-mark';
+                    mark.textContent = m[1];
+                    frag.appendChild(mark);
+                    matchElements.push(mark);
+                    lastIdx = regex.lastIndex;
+                }
+                frag.appendChild(document.createTextNode(text.slice(lastIdx)));
+                node.parentNode.replaceChild(frag, node);
+            });
+            if (matchCountEl) matchCountEl.textContent = matchElements.length === 0 ? 'No matches' : matchElements.length + ' match' + (matchElements.length !== 1 ? 'es' : '');
+            if (matchElements.length > 0) {
+                currentMatchIndex = 0;
+                if (prevBtn) prevBtn.disabled = false;
+                if (nextBtn) nextBtn.disabled = false;
+                scrollToMatch(0);
+            }
+        }
+
+        function scrollToMatch(idx) {
+            if (idx < 0 || idx >= matchElements.length) return;
+            currentMatchIndex = idx;
+            matchElements.forEach(function(el, i) { el.classList.toggle('current', i === idx); });
+            matchElements[idx].scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+
+        searchInput.addEventListener('input', runSearch);
+        searchInput.addEventListener('keydown', function(e) {
+            if (e.key !== 'Enter') return;
+            if (matchElements.length === 0) return;
+            e.preventDefault();
+            if (e.shiftKey) {
+                currentMatchIndex = (currentMatchIndex - 1 + matchElements.length) % matchElements.length;
+                scrollToMatch(currentMatchIndex);
+            } else {
+                currentMatchIndex = (currentMatchIndex + 1) % matchElements.length;
+                scrollToMatch(currentMatchIndex);
+            }
+        });
+        if (prevBtn) prevBtn.addEventListener('click', function() {
+            if (matchElements.length === 0) return;
+            currentMatchIndex = (currentMatchIndex - 1 + matchElements.length) % matchElements.length;
+            scrollToMatch(currentMatchIndex);
+        });
+        if (nextBtn) nextBtn.addEventListener('click', function() {
+            if (matchElements.length === 0) return;
+            currentMatchIndex = (currentMatchIndex + 1) % matchElements.length;
+            scrollToMatch(currentMatchIndex);
+        });
+    }
+
+    // --- Attach search to HTML and PDF extracted text (each only if present) ---
+    initExtractedTextSearch('extract-search-input', 'resource-extracted-text', 'extract-match-count', 'extract-prev-btn', 'extract-next-btn');
+    initExtractedTextSearch('pdf-extract-search-input', 'pdf-extracted-text', 'pdf-match-count', 'pdf-prev-btn', 'pdf-next-btn');
+})();
+</script>
+{% endif %}
+{% endblock %}

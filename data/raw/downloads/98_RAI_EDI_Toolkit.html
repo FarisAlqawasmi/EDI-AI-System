@@ -1,0 +1,615 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+
+    <title>EDI Toolkit &#8211; Responsible AI</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//player.vimeo.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//fonts-api.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Responsible AI &raquo; Feed" href="https://rai.ac.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Responsible AI &raquo; Comments Feed" href="https://rai.ac.uk/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://rai.ac.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frai.ac.uk%2Ftoolkits%2Fedi-toolkit%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://rai.ac.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frai.ac.uk%2Ftoolkits%2Fedi-toolkit%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='vimeo-for-wordpress-public-css' href='https://rai.ac.uk/wp-content/plugins/vimeo/build/style-index.css?ver=1.2.2' media='all' />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='wp-block-library-inline-css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+.has-text-align-justify{text-align:justify;}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style><style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--albert-sans: 'Albert Sans', sans-serif;--wp--preset--font-family--alegreya: Alegreya, serif;--wp--preset--font-family--arvo: Arvo, serif;--wp--preset--font-family--bodoni-moda: 'Bodoni Moda', serif;--wp--preset--font-family--bricolage-grotesque: 'Bricolage Grotesque', sans-serif;--wp--preset--font-family--cabin: Cabin, sans-serif;--wp--preset--font-family--chivo: Chivo, sans-serif;--wp--preset--font-family--commissioner: Commissioner, sans-serif;--wp--preset--font-family--cormorant: Cormorant, serif;--wp--preset--font-family--courier-prime: 'Courier Prime', monospace;--wp--preset--font-family--crimson-pro: 'Crimson Pro', serif;--wp--preset--font-family--dm-mono: 'DM Mono', monospace;--wp--preset--font-family--dm-sans: 'DM Sans', sans-serif;--wp--preset--font-family--dm-serif-display: 'DM Serif Display', serif;--wp--preset--font-family--domine: Domine, serif;--wp--preset--font-family--eb-garamond: 'EB Garamond', serif;--wp--preset--font-family--epilogue: Epilogue, sans-serif;--wp--preset--font-family--fahkwang: Fahkwang, sans-serif;--wp--preset--font-family--figtree: Figtree, sans-serif;--wp--preset--font-family--fira-sans: 'Fira Sans', sans-serif;--wp--preset--font-family--fjalla-one: 'Fjalla One', sans-serif;--wp--preset--font-family--fraunces: Fraunces, serif;--wp--preset--font-family--gabarito: Gabarito, system-ui;--wp--preset--font-family--ibm-plex-mono: 'IBM Plex Mono', monospace;--wp--preset--font-family--ibm-plex-sans: 'IBM Plex Sans', sans-serif;--wp--preset--font-family--ibarra-real-nova: 'Ibarra Real Nova', serif;--wp--preset--font-family--instrument-serif: 'Instrument Serif', serif;--wp--preset--font-family--inter: Inter, sans-serif;--wp--preset--font-family--josefin-sans: 'Josefin Sans', sans-serif;--wp--preset--font-family--jost: Jost, sans-serif;--wp--preset--font-family--libre-baskerville: 'Libre Baskerville', serif;--wp--preset--font-family--libre-franklin: 'Libre Franklin', sans-serif;--wp--preset--font-family--literata: Literata, serif;--wp--preset--font-family--lora: Lora, serif;--wp--preset--font-family--merriweather: Merriweather, serif;--wp--preset--font-family--montserrat: Montserrat, sans-serif;--wp--preset--font-family--newsreader: Newsreader, serif;--wp--preset--font-family--noto-sans-mono: 'Noto Sans Mono', sans-serif;--wp--preset--font-family--nunito: Nunito, sans-serif;--wp--preset--font-family--open-sans: 'Open Sans', sans-serif;--wp--preset--font-family--overpass: Overpass, sans-serif;--wp--preset--font-family--pt-serif: 'PT Serif', serif;--wp--preset--font-family--petrona: Petrona, serif;--wp--preset--font-family--piazzolla: Piazzolla, serif;--wp--preset--font-family--playfair-display: 'Playfair Display', serif;--wp--preset--font-family--plus-jakarta-sans: 'Plus Jakarta Sans', sans-serif;--wp--preset--font-family--poppins: Poppins, sans-serif;--wp--preset--font-family--raleway: Raleway, sans-serif;--wp--preset--font-family--roboto: Roboto, sans-serif;--wp--preset--font-family--roboto-slab: 'Roboto Slab', serif;--wp--preset--font-family--rubik: Rubik, sans-serif;--wp--preset--font-family--rufina: Rufina, serif;--wp--preset--font-family--sora: Sora, sans-serif;--wp--preset--font-family--source-sans-3: 'Source Sans 3', sans-serif;--wp--preset--font-family--source-serif-4: 'Source Serif 4', serif;--wp--preset--font-family--space-mono: 'Space Mono', monospace;--wp--preset--font-family--syne: Syne, sans-serif;--wp--preset--font-family--texturina: Texturina, serif;--wp--preset--font-family--urbanist: Urbanist, sans-serif;--wp--preset--font-family--work-sans: 'Work Sans', sans-serif;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-albert-sans-font-family{font-family: var(--wp--preset--font-family--albert-sans) !important;}.has-alegreya-font-family{font-family: var(--wp--preset--font-family--alegreya) !important;}.has-arvo-font-family{font-family: var(--wp--preset--font-family--arvo) !important;}.has-bodoni-moda-font-family{font-family: var(--wp--preset--font-family--bodoni-moda) !important;}.has-bricolage-grotesque-font-family{font-family: var(--wp--preset--font-family--bricolage-grotesque) !important;}.has-cabin-font-family{font-family: var(--wp--preset--font-family--cabin) !important;}.has-chivo-font-family{font-family: var(--wp--preset--font-family--chivo) !important;}.has-commissioner-font-family{font-family: var(--wp--preset--font-family--commissioner) !important;}.has-cormorant-font-family{font-family: var(--wp--preset--font-family--cormorant) !important;}.has-courier-prime-font-family{font-family: var(--wp--preset--font-family--courier-prime) !important;}.has-crimson-pro-font-family{font-family: var(--wp--preset--font-family--crimson-pro) !important;}.has-dm-mono-font-family{font-family: var(--wp--preset--font-family--dm-mono) !important;}.has-dm-sans-font-family{font-family: var(--wp--preset--font-family--dm-sans) !important;}.has-dm-serif-display-font-family{font-family: var(--wp--preset--font-family--dm-serif-display) !important;}.has-domine-font-family{font-family: var(--wp--preset--font-family--domine) !important;}.has-eb-garamond-font-family{font-family: var(--wp--preset--font-family--eb-garamond) !important;}.has-epilogue-font-family{font-family: var(--wp--preset--font-family--epilogue) !important;}.has-fahkwang-font-family{font-family: var(--wp--preset--font-family--fahkwang) !important;}.has-figtree-font-family{font-family: var(--wp--preset--font-family--figtree) !important;}.has-fira-sans-font-family{font-family: var(--wp--preset--font-family--fira-sans) !important;}.has-fjalla-one-font-family{font-family: var(--wp--preset--font-family--fjalla-one) !important;}.has-fraunces-font-family{font-family: var(--wp--preset--font-family--fraunces) !important;}.has-gabarito-font-family{font-family: var(--wp--preset--font-family--gabarito) !important;}.has-ibm-plex-mono-font-family{font-family: var(--wp--preset--font-family--ibm-plex-mono) !important;}.has-ibm-plex-sans-font-family{font-family: var(--wp--preset--font-family--ibm-plex-sans) !important;}.has-ibarra-real-nova-font-family{font-family: var(--wp--preset--font-family--ibarra-real-nova) !important;}.has-instrument-serif-font-family{font-family: var(--wp--preset--font-family--instrument-serif) !important;}.has-inter-font-family{font-family: var(--wp--preset--font-family--inter) !important;}.has-josefin-sans-font-family{font-family: var(--wp--preset--font-family--josefin-sans) !important;}.has-jost-font-family{font-family: var(--wp--preset--font-family--jost) !important;}.has-libre-baskerville-font-family{font-family: var(--wp--preset--font-family--libre-baskerville) !important;}.has-libre-franklin-font-family{font-family: var(--wp--preset--font-family--libre-franklin) !important;}.has-literata-font-family{font-family: var(--wp--preset--font-family--literata) !important;}.has-lora-font-family{font-family: var(--wp--preset--font-family--lora) !important;}.has-merriweather-font-family{font-family: var(--wp--preset--font-family--merriweather) !important;}.has-montserrat-font-family{font-family: var(--wp--preset--font-family--montserrat) !important;}.has-newsreader-font-family{font-family: var(--wp--preset--font-family--newsreader) !important;}.has-noto-sans-mono-font-family{font-family: var(--wp--preset--font-family--noto-sans-mono) !important;}.has-nunito-font-family{font-family: var(--wp--preset--font-family--nunito) !important;}.has-open-sans-font-family{font-family: var(--wp--preset--font-family--open-sans) !important;}.has-overpass-font-family{font-family: var(--wp--preset--font-family--overpass) !important;}.has-pt-serif-font-family{font-family: var(--wp--preset--font-family--pt-serif) !important;}.has-petrona-font-family{font-family: var(--wp--preset--font-family--petrona) !important;}.has-piazzolla-font-family{font-family: var(--wp--preset--font-family--piazzolla) !important;}.has-playfair-display-font-family{font-family: var(--wp--preset--font-family--playfair-display) !important;}.has-plus-jakarta-sans-font-family{font-family: var(--wp--preset--font-family--plus-jakarta-sans) !important;}.has-poppins-font-family{font-family: var(--wp--preset--font-family--poppins) !important;}.has-raleway-font-family{font-family: var(--wp--preset--font-family--raleway) !important;}.has-roboto-font-family{font-family: var(--wp--preset--font-family--roboto) !important;}.has-roboto-slab-font-family{font-family: var(--wp--preset--font-family--roboto-slab) !important;}.has-rubik-font-family{font-family: var(--wp--preset--font-family--rubik) !important;}.has-rufina-font-family{font-family: var(--wp--preset--font-family--rufina) !important;}.has-sora-font-family{font-family: var(--wp--preset--font-family--sora) !important;}.has-source-sans-3-font-family{font-family: var(--wp--preset--font-family--source-sans-3) !important;}.has-source-serif-4-font-family{font-family: var(--wp--preset--font-family--source-serif-4) !important;}.has-space-mono-font-family{font-family: var(--wp--preset--font-family--space-mono) !important;}.has-syne-font-family{font-family: var(--wp--preset--font-family--syne) !important;}.has-texturina-font-family{font-family: var(--wp--preset--font-family--texturina) !important;}.has-urbanist-font-family{font-family: var(--wp--preset--font-family--urbanist) !important;}.has-work-sans-font-family{font-family: var(--wp--preset--font-family--work-sans) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://rai.ac.uk/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.4' media='all' />
+<link rel='stylesheet' id='developerplugin-css-css' href='https://rai.ac.uk/wp-content/plugins/customsitemap/assets/css/developer.css?ver=1.1' media='all' />
+<link rel='stylesheet' id='wpa-css-css' href='https://rai.ac.uk/wp-content/plugins/honeypot/includes/css/wpa.css?ver=2.3.04' media='all' />
+<link rel='stylesheet' id='rai-style-css' href='https://rai.ac.uk/wp-content/themes/rai/style.css?ver=1.0.1' media='all' />
+<link rel='stylesheet' id='bootstrap-min-css-css' href='https://rai.ac.uk/wp-content/themes/rai/asset/css/bootstrap.min.css?ver=6.9' media='all' />
+<link rel='stylesheet' id='slick-css-css' href='https://rai.ac.uk/wp-content/themes/rai/asset/css/slick.css?ver=6.9' media='all' />
+<link rel='stylesheet' id='slick-theme-css-css' href='https://rai.ac.uk/wp-content/themes/rai/asset/css/slick-theme.css?ver=6.9' media='all' />
+<link rel='stylesheet' id='fancybox-css-css' href='https://rai.ac.uk/wp-content/themes/rai/asset/css/fancybox.css?ver=6.9' media='all' />
+<link rel='stylesheet' id='googleapis-css-css' href='https://fonts-api.wp.com/css2?family=Work+Sans%3Aital%2Cwght%400%2C400%3B0%2C500%3B0%2C600%3B0%2C800%3B0%2C900%3B1%2C700&#038;display=swap&#038;ver=6.9' media='all' />
+<link rel='stylesheet' id='fonts-css-css' href='https://rai.ac.uk/wp-content/themes/rai/asset/css/fonts.css?ver=6.9' media='all' />
+<link rel='stylesheet' id='custom-css-css' href='https://rai.ac.uk/wp-content/themes/rai/asset/css/custom.css?ver=57.99' media='all' />
+<link rel='stylesheet' id='responsive-css-css' href='https://rai.ac.uk/wp-content/themes/rai/asset/css/responsive.css?ver=41.99' media='all' />
+<link rel='stylesheet' id='particale-css-css' href='https://rai.ac.uk/wp-content/themes/rai/asset/css/particale.css?ver=6.9' media='all' />
+<link rel='stylesheet' id='developer-css-css' href='https://rai.ac.uk/wp-content/themes/rai/asset/css/developer.css?ver=105.99' media='all' />
+<link rel='stylesheet' id='dflip-style-css' href='https://rai.ac.uk/wp-content/plugins/3d-flipbook-dflip-lite/assets/css/dflip.min.css?ver=2.4.20' media='all' />
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+/*# sourceURL=jetpack-global-styles-frontend-style-inline-css */
+</style>
+<link rel='stylesheet' id='zotpress.shortcode.min.css-css' href='https://rai.ac.uk/wp-content/plugins/zotpress/css/zotpress.shortcode.min.css?ver=7.4' media='all' />
+<script src="https://rai.ac.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://rai.ac.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://player.vimeo.com/api/player.js?ver=1.2.2" id="vimeo-for-wordpress-player-js"></script>
+<script id="jetpack-mu-wpcom-settings-js-before">
+var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://rai.ac.uk/wp-content/mu-plugins/wpcomsh/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/"};
+//# sourceURL=jetpack-mu-wpcom-settings-js-before
+</script>
+
+<!-- Google tag (gtag.js) snippet added by Site Kit -->
+<!-- Google Analytics snippet added by Site Kit -->
+<script src="https://www.googletagmanager.com/gtag/js?id=GT-PZZHGWG9" id="google_gtagjs-js" async></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["rai.ac.uk"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-PZZHGWG9");
+ window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit" } ); }; 
+//# sourceURL=google_gtagjs-js-after
+</script>
+<link rel="https://api.w.org/" href="https://rai.ac.uk/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://rai.ac.uk/xmlrpc.php?rsd" />
+
+<link rel="canonical" href="https://rai.ac.uk/toolkits/edi-toolkit/" />
+<link rel='shortlink' href='https://rai.ac.uk/?p=146' />
+<meta name="generator" content="Site Kit by Google 1.171.0" />	<style>img#wpstats{display:none}</style>
+		<link rel="icon" href="https://rai.ac.uk/wp-content/uploads/2024/03/cropped-fav-ic-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://rai.ac.uk/wp-content/uploads/2024/03/cropped-fav-ic-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://rai.ac.uk/wp-content/uploads/2024/03/cropped-fav-ic-180x180.png" />
+<meta name="msapplication-TileImage" content="https://rai.ac.uk/wp-content/uploads/2024/03/cropped-fav-ic-270x270.png" />
+<style type="text/css" id="wp-custom-css">.stmap {
+    padding: 50px;
+}
+.wpcf7 form.invalid .wpcf7-response-output, .wpcf7 form.unaccepted .wpcf7-response-output, .wpcf7 form.payment-required .wpcf7-response-output {
+    display: none !important;
+}</style></head>
+
+<body class="wp-singular toolkits-template-default single single-toolkits postid-146 wp-theme-rai">
+    	
+	  <!-- snow-container -->
+ 
+   <!-- snow-container -->
+
+    <header>
+        <div class="main-header">
+            <nav class="navbar navbar-expand-lg">
+                <div class="container header-container ">
+
+
+                    <a class="navbar-brand" href="https://rai.ac.uk">
+                    <img src="https://rai.ac.uk/wp-content/uploads/2024/03/logo.png" alt="Header Logo" loading="lazy"></a>
+
+
+                    <div class="srch_btn mobile_search_form">
+                        <form method="get" action="https://rai.ac.uk/">
+                            <input type="search" name="s" placeholder="Search..." required
+                                value="">
+                            <i class="fa fa-search search" aria-hidden="true"></i>
+                        </form>
+                    </div>
+
+                    <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas"
+                        data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+                        <span class="navbar-toggler-icon">
+                            <i class="fa-solid fa-bars"></i>
+                        </span>
+                    </button>
+
+                    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar"
+                        aria-labelledby="offcanvasNavbarLabel">
+                        <div class="offcanvas-header">
+                            <div class="under-menu-logo">
+                                <a href="#" class="offcanvas-title" id="offcanvasNavbarLabel">
+                                    <img src="https://rai.ac.uk/wp-content/themes/rai/asset/images/logo.png"
+                                        alt="Header Logo" loading="lazy"></a>
+                            </div>
+                            <button type="button" class="btn-close" data-bs-dismiss="offcanvas"
+                                aria-label="Close"></button>
+                        </div>
+                        <div class="offcanvas-body">
+                            <ul id="menu-new-main-menu" class="navbar-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/about-us/" class="nav-link">About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/about-us/" class="nav-link">About Us</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/mission/" class="nav-link">Vision &#038; Mission</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy nav-item"><a href="https://rai.ac.uk/privacy-policy/" class="nav-link">Privacy Policy</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item"><a href="https://rai.ac.uk/accessibility-statement/" class="nav-link">Accessibility statement</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/guiding-principles/" class="nav-link">Guiding Principles</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/media/annual-reports/" class="nav-link">Annual Reports</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="#" class="nav-link">Our People</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/our-teams/leadership-team/" class="nav-link">Leadership Team</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/our-teams/operations-team/" class="nav-link">Operations Team</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/team_category/researchers/" class="nav-link">Our Researchers</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/our-committees/" class="nav-link">Our Pillars</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/our-committees/equities-committee/" class="nav-link">Equities</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/our-committees/peop-committee/" class="nav-link">Public Engagement, Outreach, Policy (PEOP)</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/our-committees/skills-committee/" class="nav-link">Skills</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/our-committees/research-committee/" class="nav-link">Research and Innovation</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/coming-soon/" class="nav-link">Our Initiatives</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/ai-champions/" class="nav-link">AI Champions</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/team_category/ambassadors-council/" class="nav-link">International Ambassadors Council</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/ai-robotics-research-awards/" class="nav-link">Ai &#038; Robotics Awards</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/contact/" class="nav-link">Contact</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/mailing-list-sign-up/" class="nav-link">Mailing list signup</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/research/" class="nav-link">Research</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/all-projects/" class="nav-link">Projects</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/coming-soon/" class="nav-link">Projects Tracker</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/cornerstone/" class="nav-link">Cornerstone</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/research-sandpits/" class="nav-link">Research Sandpits</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/research-publications/" class="nav-link">Research Publications</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/coming-soon/" class="nav-link">Researchers Spotlight</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/skills-and-innovation/" class="nav-link">Skills</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/skills-and-innovation/" class="nav-link">Overview</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/research/skills-project/" class="nav-link">Skills Projects</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/new_projects/ai-law-and-legal-training-aillt-2/" class="nav-link">AI, Law and Legal Training (AILLT)</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/new_projects/ai-in-secondary-schools-resource-development-and-teacher-professional-learning-2/" class="nav-link">AI in Secondary Schools: Resource Development and Teacher Professional Learning</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/new_projects/exploring-ai-from-picture-books-to-epic-games-2/" class="nav-link">Exploring AI: From Picture Books to Epic Games</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/new_projects/generative-artificial-skills-in-schools-genaisis/" class="nav-link">Generative Artificial Intelligence Skills in Schools (GenAISiS)</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/new_projects/misinformation-disinformation-and-generative-ai-building-young-refugees-skills-and-capacities-2/" class="nav-link">Misinformation/Disinformation and Generative AI: Building Young Refugees’ Skills and Capacities</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/new_projects/ways-of-machine-seeing-towards-a-new-visual-literacy-in-ai-2/" class="nav-link">Ways of [Machine] Seeing: Towards a new visual literacy in AI</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/aius-alliance/" class="nav-link">AI+Us Alliance</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/landscape-analysis-of-responsible-ai-educational-resource/" class="nav-link">Landscape Analysis of Responsible AI Educational Resources</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item"><a href="https://rai.ac.uk/resource-review/" class="nav-link">Resource Review</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/enterprise/" class="nav-link">Enterprise</a>
+<ul class="sub-menu">
+	<li class="hidenewmenu menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/coming-soon/" class="nav-link">Overview</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/enterprise-fellowships/" class="nav-link">Enterprise Fellows</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item"><a href="https://rai.ac.uk/air26/" class="nav-link">AIR26</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai-ignition-startup-hackathon.devpost.com/" class="nav-link">Ignition Hackathon</a></li>
+	<li class="hidenewmenu menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/coming-soon/" class="nav-link">Success Stories</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/all-event-section/" class="nav-link">Events</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/all-event-section/" class="nav-link">Events</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/atrass-series/" class="nav-link">ATRASS Series</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item"><a href="https://rai.ac.uk/upcoming-events/rai-chi26/" class="nav-link">RAI @CHI&#8217;26</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/past-events/" class="nav-link">Past Events</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/all-event-section/" class="nav-link">AI &#038; Robotics Awards</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item"><a href="https://rai.ac.uk/ai-robotics-awards-2025/" class="nav-link">AI &#038; Robotics Awards 2025</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item"><a href="https://rai.ac.uk/ukrais/" class="nav-link">UKAIRS</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/media/brand-kit/" class="nav-link">Media</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/media/brand-kit/" class="nav-link">Brand kit</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/media/press-releases/" class="nav-link">Press releases &#038; News</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/newsletter/" class="nav-link">Newsletter</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/newletter-sign-up/" class="nav-link">Newsletter signup</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/blogs/" class="nav-link">Blogs</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/all-gallery/" class="nav-link">Gallery</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/gallery/" class="nav-link">Images</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/expert-interviews/" class="nav-link">Expert Interviews</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/videos/" class="nav-link">Videos</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/gallery/webinar-series/" class="nav-link">Webinar Recordings</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/get-involved/" class="nav-link">Engage with Us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/funding/" class="nav-link">Funding</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/live-calls/" class="nav-link">Live Calls</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/past-calls/" class="nav-link">Past Calls</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/partner-network/" class="nav-link">Partner Network</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/coming-soon/" class="nav-link">Overview</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/coming-soon/" class="nav-link">Our Partners</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/coming-soon/" class="nav-link">Ways to Partner</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/coming-soon/" class="nav-link">Partner sign up</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/working-groups/" class="nav-link">Working Groups</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/working-groups/health-and-social-care/" class="nav-link">Health and Social Care</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/resources/" class="nav-link">Resources</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item nav-item"><a href="https://rai.ac.uk/toolkits/edi-toolkit/" class="nav-link">EDI Toolkit</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/toolkits/rri-toolkit/" class="nav-link">RRI Toolkit</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/toolkits/trusted-research/" class="nav-link">Trusted Research</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/toolkits/public-voices-in-ai/" class="nav-link">Public Voices in AI: Framework &#038; Resources</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/toolkits/teach-ai-literacy-handbook/" class="nav-link">Teach AI Literacy Handbook</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/toolkits/transparency-regulation-toolkits-for-responsible-ai/" class="nav-link">Transparency Regulation Toolkits for Responsible Ai</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item has-children"><a href="https://rai.ac.uk/resources/publications/" class="nav-link">Publications</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/media/reports/" class="nav-link">Reports</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item"><a href="https://rai.ac.uk/whitepaper/" class="nav-link">Whitepaper</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul>     
+                   
+
+                            <div class="srch_btn srch_desktop" id="srchfrm_dsktop">
+                                <form method="get" action="https://rai.ac.uk/">
+                                    <input type="search" name="s" placeholder="Search..." 
+                                        value="" required>
+                                    <i class="fa fa-search search" aria-hidden="true"></i>
+                                </form>
+                            </div>
+
+
+
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+
+    <style>
+		
+		
+    @media (max-width: 991px) {
+        .srch_desktop {
+            display: none;
+        }
+
+    }
+    </style>
+    <style>
+   .inner-banner {
+   background-image: url(https://rai.ac.uk/wp-content/uploads/2024/03/EDI-Toolkit.png);
+   }
+</style>
+<!-- banner -->
+<section class="inner-banner">
+   <div class="container">
+      <div class="banner-text">
+         <h1>EDI Toolkit</h1>
+      </div>
+   </div>
+</section>
+<!-- banner -->
+<section class="post_details ">
+   <div class="tool-peri-top"><img src="PEOP Committeetool-k-r.png" alt=""></div>
+   <div class="tool-left-p">
+      <img src="https://rai.ac.uk/wp-content/themes/rai/asset/images/tool-kit-left.png" alt="">
+   </div>
+   <div class="container">
+      <div class="para">
+         <p>RAi UK is committed to establish an ecosystem that celebrates its diversity of people, diversity of methods and disciplines, and diversity of thoughts and cultures. To deliver our ambition and building on TAS Equality, Diversity and Inclusion (EDI) practices, we have established a set of <a href="https://rai.ac.uk/guiding-principles/">guiding principles</a> that underpin our ways of working and decision making; we focus on openness, representativeness, accessibility, equality of voice, and inclusivity.</p>
+<p>Core to our inclusive vision for the RAi UK ecosystem will be active integration of EDI principles and values in our research teams, in the research culture we promote, and in how we design research responsibly. We firmly believe that instilling EDI at the heart of what we do will enable us to draw more widely on the breadth of UK talent, enhance research quality, and broaden avenues for impact.</p>
+<p>Our <a href="https://rai.ac.uk/edi-framework/">EDI Framework</a> aims to provide clear guidance that enables our leaders and teams to build EDI into all RAi UK activities, consistently and cohesively. It focuses on four key objectives:</p>
+<ul>
+<li>Promoting a happy, healthy research culture</li>
+<li>Creating diverse research teams</li>
+<li>Building EDI into research design</li>
+<li>Communicating our vision to the RAi UK ecosystem.</li>
+</ul>
+<p>Our <a href="https://rai.ac.uk/code-of-conduct/">Code of Conduct</a> applies to all RAi UK activities, including:</p>
+<ul>
+<li>conferences, symposia, workshops, and events sponsored, co-sponsored, or in cooperation with RAi UK</li>
+<li>RAi UK member meetings</li>
+<li>exchanges among committees or other bodies associated with RAi UK activities publications and communications sent through communication channels associated with RAi UK, including social media.</li>
+</ul>
+<p>Please see the <a href="https://rai.ac.uk/new_projects/public-voices-in-ai/">Public Voices in AI</a> project page for more information.</p>
+      </div>
+   </div>
+</section>
+<section class="toolkit_pagination_wrap">
+   <div class="container">
+      <div class="details_pagination">
+                   
+                  <a href="https://rai.ac.uk/toolkits/transparency-regulation-toolkits-for-responsible-ai/"
+            title="Transparency Regulation Toolkits for Responsible AI " 
+            class="p_prev comn_top widget_anim"><span><i class="fa-solid fa-angle-left"></i></span>
+            Transparency Regulation Toolkits for Responsible AI</a>
+                  <a href="https://rai.ac.uk/toolkits/public-voices-in-ai/" 
+            title="Public Voices in AI "  
+            class="p_next comn_top widget_anim">Public Voices in AI<span><i class="fa-solid fa-angle-right"></i></span></a>
+               </div>
+   </div>
+</section>
+
+
+
+
+
+<footer class="main-footer">
+    <div class="container">
+        <div class="upper-footer">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="logo-wrap">
+                        <div class="foot-logo">
+                            <a href="https://rai.ac.uk"><img
+                                    src="https://rai.ac.uk/wp-content/uploads/2025/01/ftr_logo.png" alt="Footer Logo"
+                                    loading="lazy"></a>
+                        </div>
+                        <p>B60, University of Southampton,</p>
+<p>Southampton, SO17 1BJ</p>
+                        <div class="foot-logo-wrap">
+                            <ul>
+                                <li><a target="_blank" href="http://twitter.com/responsibleaiuk"><i
+                                            class="fa-brands fa-x-twitter"></i>
+                                        <span> Twitter</span></a>
+                                </li>
+
+                                <li><a target="_blank" href="https://www.linkedin.com/company/responsibleaiuk/"><i
+                                            class="fa-brands fa-linkedin-in"></i><span>LinkedIn</span></a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="foot-logo">
+                            <img src="https://rai.ac.uk/wp-content/uploads/2025/01/ukftrimg.png" alt="Footer Logo"
+                                loading="lazy">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="company-wrap">
+                        <h5>Company</h5>
+
+                        <ul id="menu-company-menu" class="menu"><li id="menu-item-4897" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4897"><a href="https://rai.ac.uk/our-teams/leadership-team/">Our Team</a></li>
+<li id="menu-item-4898" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4898"><a href="https://rai.ac.uk/working-groups/">Working Groups</a></li>
+<li id="menu-item-4899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4899"><a href="https://rai.ac.uk/all-event-section/">Events</a></li>
+<li id="menu-item-4900" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4900"><a href="https://rai.ac.uk/about-us/">About Us</a></li>
+<li id="menu-item-4901" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4901"><a href="https://rai.ac.uk/team_category/industry-advisory-board/">Industry Advisory Board</a></li>
+<li id="menu-item-4902" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4902"><a href="https://rai.ac.uk/partner-network/">Partner Network</a></li>
+</ul>                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="link-wrap">
+                        <h5>Explore</h5>
+                        <ul id="menu-explore" class="menu"><li id="menu-item-4903" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4903"><a href="https://rai.ac.uk/research/skills-project/">Skills Projects</a></li>
+<li id="menu-item-4904" class="hidenewmenu menu-item menu-item-type-custom menu-item-object-custom menu-item-4904"><a href="#">Enterprise Fellows</a></li>
+<li id="menu-item-4905" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4905"><a href="https://rai.ac.uk/resources/publications/">Publications</a></li>
+<li id="menu-item-4906" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4906"><a href="https://rai.ac.uk/all-projects/">Projects</a></li>
+<li id="menu-item-4907" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4907"><a href="https://rai.ac.uk/media/blog/">Blogs</a></li>
+<li id="menu-item-4908" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4908"><a href="https://rai.ac.uk/contact/">Contact</a></li>
+</ul>
+                    </div>
+                </div>
+
+                <div class="col-md-2">
+                    <div class="link-wrap sec">
+                        <h5>Other LInks</h5>
+                        <ul id="menu-other-links" class="menu"><li id="menu-item-4909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4909"><a href="https://rai.ac.uk/resources/">Resources</a></li>
+<li id="menu-item-4910" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4910"><a href="https://rai.ac.uk/get-involved/">Get Involved</a></li>
+<li id="menu-item-4911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4911"><a rel="privacy-policy" href="https://rai.ac.uk/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-4912" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4912"><a href="#">Terms</a></li>
+<li id="menu-item-4913" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4913"><a href="#">Sitemap</a></li>
+<li id="menu-item-4914" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4914"><a href="#">Search</a></li>
+</ul>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="lower-footer">
+            <p>Copyright 2024 RAi UK . All Rights Reserved</p>
+        </div>
+    </div>
+</footer>
+
+</div><!-- #page -->
+
+<!--  -->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/rai/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<meta id="bilmur" property="bilmur:data" content="" data-customproperties="{&quot;woo_active&quot;:&quot;0&quot;,&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;rai&quot;,&quot;wptheme_is_block&quot;:&quot;0&quot;}" data-provider="wordpress.com" data-service="atomic"  data-site-tz="Asia/Kolkata" >
+<script defer src="https://s0.wp.com/wp-content/js/bilmur.min.js?m=202605"></script>
+    <script>
+// document.addEventListener('DOMContentLoaded', () => {
+//     document.addEventListener('wpcf7mailsent', hideModal);
+//     document.addEventListener('wpcf7mailfailed', hideModal);
+
+//     function hideModal() {
+//         const modal = document.getElementById('popup-form');
+//         if (modal) modal.style.display = 'none';
+//     }
+// });
+
+
+document.addEventListener('DOMContentLoaded', () => {
+    document.addEventListener('wpcf7mailfailed', resetForm);
+
+    function resetForm(event) {
+        const form = event.target; // Target the form that triggered the event
+        if (form && form.reset) {
+            form.reset(); // Reset the form
+        }
+    }
+});
+
+
+
+    </script>
+            <script data-cfasync="false">
+            window.dFlipLocation = 'https://rai.ac.uk/wp-content/plugins/3d-flipbook-dflip-lite/assets/';
+            window.dFlipWPGlobal = {"text":{"toggleSound":"Turn on\/off Sound","toggleThumbnails":"Toggle Thumbnails","toggleOutline":"Toggle Outline\/Bookmark","previousPage":"Previous Page","nextPage":"Next Page","toggleFullscreen":"Toggle Fullscreen","zoomIn":"Zoom In","zoomOut":"Zoom Out","toggleHelp":"Toggle Help","singlePageMode":"Single Page Mode","doublePageMode":"Double Page Mode","downloadPDFFile":"Download PDF File","gotoFirstPage":"Goto First Page","gotoLastPage":"Goto Last Page","share":"Share","mailSubject":"I wanted you to see this FlipBook","mailBody":"Check out this site {{url}}","loading":"DearFlip: Loading "},"viewerType":"flipbook","moreControls":"download,pageMode,startPage,endPage,sound","hideControls":"","scrollWheel":"false","backgroundColor":"#777","backgroundImage":"","height":"auto","paddingLeft":"20","paddingRight":"20","controlsPosition":"bottom","duration":800,"soundEnable":"true","enableDownload":"true","showSearchControl":"false","showPrintControl":"false","enableAnnotation":false,"enableAnalytics":"false","webgl":"true","hard":"none","maxTextureSize":"1600","rangeChunkSize":"524288","zoomRatio":1.5,"stiffness":3,"pageMode":"0","singlePageMode":"0","pageSize":"0","autoPlay":"false","autoPlayDuration":5000,"autoPlayStart":"false","linkTarget":"2","sharePrefix":"flipbook-"};
+        </script>
+      <script src="https://rai.ac.uk/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script src="https://rai.ac.uk/wp-content/plugins/vimeo/build/index.js?ver=075a52cf774c248d3c1753e0e3e5be8e" id="vimeo-for-wordpress-public-js"></script>
+<script src="https://rai.ac.uk/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script src="https://rai.ac.uk/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script src="https://rai.ac.uk/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.4" id="swv-js"></script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/rai.ac.uk\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script src="https://rai.ac.uk/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.4" id="contact-form-7-js"></script>
+<script src="https://rai.ac.uk/wp-content/plugins/honeypot/includes/js/wpa.js?ver=2.3.04" id="wpascript-js"></script>
+<script id="wpascript-js-after">
+wpa_field_info = {"wpa_field_name":"troazh3591","wpa_field_value":961790,"wpa_add_test":"no"}
+//# sourceURL=wpascript-js-after
+</script>
+<script id="zotpress.dl.min.js-js-extra">
+var zpDLAJAX = {"ajaxurl":"https://rai.ac.uk/wp-admin/admin-ajax.php","zpDL_nonce":"c83b63fa38","action":"zpDLViaAJAX"};
+//# sourceURL=zotpress.dl.min.js-js-extra
+</script>
+<script src="https://rai.ac.uk/wp-content/plugins/zotpress/js/zotpress.dl.min.js?ver=7.4" id="zotpress.dl.min.js-js"></script>
+<script id="zotpress.cite.min.js-js-extra">
+var zpCiteAJAX = {"ajaxurl":"https://rai.ac.uk/wp-admin/admin-ajax.php","zpCite_nonce":"41e2bb187c","action":"zpCiteViaAJAX"};
+//# sourceURL=zotpress.cite.min.js-js-extra
+</script>
+<script src="https://rai.ac.uk/wp-content/plugins/zotpress/js/zotpress.cite.min.js?ver=7.4" id="zotpress.cite.min.js-js"></script>
+<script src="https://rai.ac.uk/wp-content/themes/rai/js/navigation.js?ver=1.0.1" id="rai-navigation-js"></script>
+<script src="https://rai.ac.uk/wp-content/themes/rai/asset/js/fontawesome.js" id="fontawesome-js-js"></script>
+<script src="https://rai.ac.uk/wp-content/themes/rai/asset/js/jquery-min.js" id="jquery-min-js-js"></script>
+<script src="https://rai.ac.uk/wp-content/themes/rai/asset/js/bootstrap.bundle.min.js" id="bootstrap-bundle-min-js-js"></script>
+<script src="https://rai.ac.uk/wp-content/themes/rai/asset/js/fancybox.umd.js" id="fancybox-umd-js-js"></script>
+<script src="https://rai.ac.uk/wp-content/themes/rai/asset/js/slick.min.js" id="slick-min-js-js"></script>
+<script src="https://rai.ac.uk/wp-content/themes/rai/asset/js/particles.min.js" id="particles-min-js-js"></script>
+<script src="https://rai.ac.uk/wp-content/themes/rai/asset/js/custom.js?ver=1.11" id="custom-js-js"></script>
+<script src="https://rai.ac.uk/wp-content/themes/rai/asset/js/developer.js?ver=2.38" id="developer-js-js"></script>
+<script src="https://rai.ac.uk/wp-content/themes/rai/asset/js/event_slider.js?ver=1.4" id="eventslider-js-js"></script>
+<script src="https://rai.ac.uk/wp-content/themes/rai/asset/js/aifilter.js?ver=1.4" id="aifilter-js-js"></script>
+<script id="custom-project-pagination-js-extra">
+var ajax_params = {"ajax_url":"https://rai.ac.uk/wp-admin/admin-ajax.php"};
+//# sourceURL=custom-project-pagination-js-extra
+</script>
+<script src="https://rai.ac.uk/wp-content/themes/rai/paginationjs/custom-project-pagination.js?ver=5.29" id="custom-project-pagination-js"></script>
+<script id="events-filter-js-extra">
+var eventsAjax = {"ajaxurl":"https://rai.ac.uk/wp-admin/admin-ajax.php"};
+//# sourceURL=events-filter-js-extra
+</script>
+<script src="https://rai.ac.uk/wp-content/themes/rai/assets/js/events-filters.js" id="events-filter-js"></script>
+<script src="https://rai.ac.uk/wp-content/plugins/3d-flipbook-dflip-lite/assets/js/dflip.min.js?ver=2.4.20" id="dflip-script-js"></script>
+<script src="https://rai.ac.uk/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-contact-form-7-40476021fb6e59177033.js" id="googlesitekit-events-provider-contact-form-7-js" defer></script>
+<script id="jetpack-stats-js-before">
+_stq = window._stq || [];
+_stq.push([ "view", {"v":"ext","blog":"231141796","post":"146","tz":"5.5","srv":"rai.ac.uk","hp":"atomic","ac":"2","amp":"0","j":"1:15.5-a.5"} ]);
+_stq.push([ "clickTrackerInit", "231141796", "146" ]);
+//# sourceURL=jetpack-stats-js-before
+</script>
+<script src="https://stats.wp.com/e-202605.js" id="jetpack-stats-js" defer data-wp-strategy="defer"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://rai.ac.uk/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://rai.ac.uk/wp-includes/js/wp-emoji-loader.min.js
+</script>
+    <script>
+document.addEventListener('DOMContentLoaded', function () {
+    setTimeout(() => {
+        const select = document.querySelector('.zp-List-Tags'); // Using class now
+        console.log(select);
+        if (!select) return;
+
+        const firstOption = select.options[0]; // Preserve the first
+        console.log(firstOption);
+        const rest = Array.from(select.options).slice(1); // Get the others
+        console.log(rest);
+
+        // Sort by text, not value
+        rest.sort((a, b) => a.textContent.localeCompare(b.textContent));
+
+        // Rebuild the select
+        select.innerHTML = '';
+        select.appendChild(firstOption);
+        rest.forEach(option => select.appendChild(option));
+    }, 2000); // 2-second delay
+});
+
+    </script>
+    
+
+</body>
+
+</html>
+
+
+

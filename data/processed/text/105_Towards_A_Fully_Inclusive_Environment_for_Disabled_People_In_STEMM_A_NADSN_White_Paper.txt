@@ -1,0 +1,2039 @@
+NADSN is registered in the UK as a Community Interest Company (CIC) no SC771666 
+Registered address: The Old Schoolhouse, Leslie, Insch, Aberdeenshire, AB52 6PE 
+ 
+ uk.nadsn@gmail.com www.nadsn-uk.org linktr.ee/NADSN 
+ 
+ 
+March 2025 
+Greetings! 
+ 
+We are the National Association of Disabled Staff Networks (NADSN), a super-
+network connecting and representing disabled staff networks. We are a Community 
+Interest Company (CIC) made up of and led by impassioned disabled people; we 
+are non-governmental, independent, and self-determining. We act as a collective 
+platform to share expertise, experience, and good practice. We focus on the tertiary 
+education (i.e. further and higher education) and public sectors and are open to any 
+individual and organisation interested in intersectional equity and the inclusion of 
+disabled staff. We endorse the Social Model of Disability, especially within the social 
+justice and human rights contexts. 
+ 
+The NADSN STEMM Action Group is an active steering group within NADSN 
+comprised of people with experience of disability, chronic illness, and/or 
+neurodivergence, who work in and around the STEMM (science, technology, 
+engineering, mathematics and medicine) disciplines. Since its inception in 2020, 
+members have worked to develop recommendations for funders, institutions, and 
+disciplines to address barriers faced by those who are marginalised due to disability. 
+ 
+NADSN and its STEMM Action Group are proud to present: 
+ 
+Towards a fully inclusive environment for disabled people in STEMM: 
+A NADSN White Paper. 
+ 
+We commend this position paper to all concerned. 
+ 
+Kindest regards, 
+Dr Hamied Haroon, Mrs Jacqueline Nicholson and Mr Stuart Moore 
+Directors, NADSN CIC 
+
+ 
+1 
+Towards a fully inclusive environment for 
+disabled people in STEMM‡: 
+A NADSN White Paper. 
+ 
+ 
+This White Paper has been written by the following authors on behalf of the National Association 
+of Disabled Staff Networks (NADSN) STEMM Action Group (in alphabetical order): 
+Gayle Brewer: University of Liverpool, UK. ORCID§ 0000-0003-0690-4548 
+Yota Dimitriadi: University of Reading, UK. ORCID 0000-0003-3306-3895 
+Francesca Doddato: Lancaster University, UK. ORCID 0000-0002-0968-8011 
+Hamied A. Haroon: The University of Manchester, UK. ORCID 0000-0002-3506-8430 
+Jasleen K. Jolly: Jolly Vision Science, Cambridge, UK. ORCID 0000-0001-9878-4621 
+Jennifer S. Leigh* (Corresponding Author): University of Kent, UK. ORCID 0000-0002-3672-1462 
+Martyn Mahaut-Smith: University of Leicester, UK. ORCID 0000-0001-5357-2350 
+Jennifer Remnant: University of Strathclyde, UK. ORCID 0000-0001-7562-1547 
+Julia P. Sarju: University of York, UK. ORCID 0000-0002-7087-4382 
+ 
+ 
+This White Paper should be cited as: “Towards a fully inclusive environment for disabled people in 
+STEMM: A NADSN White paper” 2025. Brewer, G.; Dimitriadi, Y.; Doddato, F.; Haroon, H.; Jolly, J.; 
+Leigh, J.*; Mahaut-Smith, M.; Remnant, J.; Sarju, J. 
+ 
+ 
+‡ Science, Technology, Engineering, Mathematics, and Medicine 
+ 
+§ ORCID stands for Open Researcher Contributor ID, and is a unique, persistent identifier (PID) to 
+allow individuals to identify their work 
+ 
+* Please direct correspondence to Jennifer Leigh at J.S.Leigh@Kent.ac.uk 
+
+ 
+2 
+Executive Summary 
+This White Paper aims to: 
+● Raise awareness of the inequity and discrimination experienced by disabled people in 
+STEMM; 
+● Highlight the benefits of an inclusive STEMM environment that values disabled people and 
+supports their career development; 
+● Provide short, medium, and long-term recommendations to address systemic ableism in 
+STEMM; and 
+● Promote understanding and transformative change to improve the experiences of disabled 
+people in STEMM including the sharing of good practice. 
+Our recommendations are that funders, learned societies, and higher education and research 
+institutions work together to: 
+In the short-term: 
+1. Recognise the specific challenges and barriers for disabled researchers to enter, remain, 
+and progress in STEMM. 
+2. Improve work-based training for managers and allies around disability, neurodivergence, 
+chronic illness and intersectionality. 
+3. Build inclusivity into operational systems and structures, and provide clear, timely routes 
+for requesting and receiving adjustments/accommodations. 
+4. Ring-fence and publicise specific funds for disability support. 
+5. Budget for and improve physical environments for disabled researchers. 
+6. Provide support for accessing research funding from pre-application to post-award. 
+In the medium-term: 
+7. Endorse an intersectional framework for disability and inclusion in higher education and 
+research. 
+8. Require organisations to be held accountable to their working practice policies; with 
+regular reviews to ensure they are accessible, inclusive, embed meaningful consultation, 
+co-design, Equality Impact Assessments, and Equality/Equity, Diversity, Inclusion and 
+Accessibility (EDIA). 
+9. Establish Access to Work pathways for disabled researchers. 
+10. Reconceptualise the indicators for ‘good’ research, researchers, and environments. 
+11. Stop promoting and funding toxic research cultures. 
+12. Allow disabled academics to work part-time with no detriment to their pension or 
+opportunities for progression. 
+In the long-term: 
+13. Create inclusive research cultures and ecosystems. 
+14. Recognise and reward work in research cultures and ecosystems. 
+15. Change equality law to recognise the impact of intersectional discrimination. 
+
+ 
+3 
+Table of Contents 
+Executive Summary ......................................................................................................................... 2 
+Table of Contents ............................................................................................................................ 3 
+List of Figures ................................................................................................................................... 5 
+List of Vignettes ............................................................................................................................... 5 
+List of Tables .................................................................................................................................... 5 
+The National Association of Disabled Staff Networks .................................................................... 6 
+NADSN STEMM Action Group outputs ........................................................................................ 6 
+Guiding principles ............................................................................................................................ 7 
+Terminology and language ............................................................................................................... 7 
+Why address disability inclusion in STEMM? .................................................................................. 8 
+Disability in society ......................................................................................................................... 9 
+Disability in work ........................................................................................................................... 11 
+Disability in Higher Education ....................................................................................................... 12 
+Equality/Equity, Diversity, Inclusion, and Accessibility (EDIA) in STEMM ................................... 13 
+Burdens .......................................................................................................................................... 15 
+‘Reasonable’ adjustments ......................................................................................................... 15 
+Pressure ..................................................................................................................................... 20 
+Solutions .................................................................................................................................... 23 
+Environmental ............................................................................................................................ 23 
+Inclusion ..................................................................................................................................... 24 
+Recommendations ........................................................................................................................ 25 
+Short-term .................................................................................................................................. 25 
+1. Recognise the specific challenges and barriers for disabled researchers to enter, 
+remain, and progress in STEMM ...................................................................................... 25 
+2. Improve work-based training for managers and allies around disability, 
+neurodivergence, chronic illness and intersectionality .................................................. 25 
+3. Build inclusivity into operational systems and structures, and provide clear, timely 
+pathways for requesting and receiving adjustments/accommodations......................... 25 
+4. Ring-fence and publicise specific funds for disability support ....................................... 26 
+5. Improve physical environments for disabled researchers .............................................. 26 
+6. Provide support for accessing research funding from pre-application to post-award ... 27 
+
+ 
+4 
+Medium term .............................................................................................................................. 28 
+7. Endorse an intersectional framework for disability and inclusion in higher education and 
+research ........................................................................................................................... 28 
+8. Require organisations to be held accountable to their working practice policies; with 
+regular reviews to ensure they are accessible, inclusive, embed meaningful 
+consultation, co-design, Equality Impact Assessments, and Equality/Equity, Diversity, 
+Inclusion and Accessibility (EDIA)................................................................................... 28 
+9. Establish Access to Work pathways for disabled researchers ....................................... 29 
+10. Reconceptualise the indicators for ‘good’ research, researchers, and research 
+environments ................................................................................................................... 29 
+11. Stop promoting and funding toxic research cultures ...................................................... 30 
+12. Allow disabled academics to work part-time with no detriment to their pension or 
+opportunities for progression .......................................................................................... 31 
+Long-term ................................................................................................................................... 32 
+13. Create inclusive research cultures and ecosystems ...................................................... 32 
+14. Recognise, value, and reward EDIA work in research cultures and ecosystems............ 32 
+15. Change equality law to recognise the impact of intersectional discrimination .............. 33 
+Threats ........................................................................................................................................... 34 
+Conclusion ..................................................................................................................................... 37 
+Further resources .......................................................................................................................... 37 
+References ..................................................................................................................................... 38 
+Appendices .................................................................................................................................... 50 
+Appendix 1: Recommendations from the Problem Statement organised thematically .......... 50 
+Appendix 2: Environmental solutions suggested by respondents to the Problem Statement. 51 
+Appendix 3: Table to show suggestions of improvements to increase laboratory accessibility 
+adapted from Egambaram et al (2022). .................................................................................... 52 
+Appendix 4: General solutions for inclusivity suggested by respondents to the Problem 
+Statement. ................................................................................................................................ 54 
+Appendix 5: Harm……………………………………………………………………………………….55 
+ 
+ 
+
+ 
+5 
+List of Figures 
+Figure 1: Venn Diagram showing recommendations and overlapping themes of Enabling accessible 
+digital and physical environments, Enabling inclusive cultures and practices, and Accessible and 
+proactive funding. ................................................................................................................................ 14 
+Figure 2: Word tree from responses to the Problem Statement illustrating the burdens of pressure, 
+job security, and disclosure................................................................................................................. 19 
+Figure 3: Environmental solutions suggested by respondents to the Problem Statement. ................ 51 
+Figure 4: General solutions for inclusivity suggested by respondents to the Problem Statement. ..... 54 
+ 
+List of Vignettes 
+Burdens…………………………………………………………………………………………………………………..……. 15 
+Reasonable adjustments..………………..…… …………………………………………………………………….… 15 
+Pressure…………………………………………………………………………………………………………………..…... 20 
+Solutions………………………………………………………………………………..…………………………………….. 23 
+Threats…………………………………………………………………………………………………………………………. 34 
+Harm……………………………………………………………………………………………………………………………..55 
+ 
+List of Tables 
+Table 1: Recommendations organised thematically. ......................................................................... 50 
+Table 2: Table to show adaptions and improvements to increase accessibility in laboratory spaces by 
+impairment type. Adapted from Egambaram et al (2022). .................................................................. 53 
+ 
+ 
+
+ 
+6 
+The National Association of Disabled Staff Networks 
+The National Association of Disabled Staff Networks (NADSN) is a super-network connecting and 
+representing disabled staff networks. We are a Community Interest Company made up of 
+impassioned people; we are non-governmental, independent, and self-determining. We act as a 
+collective platform to share expertise, experience, and good practice. We focus on the tertiary 
+education sector (i.e. Further and Higher Education) and are open to any individual and 
+organisation interested in intersectional equity and the inclusion of disabled staff. NADSN has been 
+involved in the identification of People, Culture, Environment indicators for the 2029 Research 
+Excellence Framework with Vitae and CRAC, and has contributed to the Good Practice in Research 
+network. 
+The NADSN STEMM Action Group is an active steering group comprised of people with experience 
+of disability, chronic illness, and/or neurodivergence, who are working in and around the STEMM 
+disciplines. Since its inception in 2020, members have worked to develop recommendations for 
+funders, institutions, and disciplines to address barriers faced by those who are marginalised due to 
+disability. 
+NADSN STEMM Action Group outputs 
+ NADSN Response to the Women and Equalities Committee Inquiry to scrutinise the 
+implementation and further development of the National Disability Strategy. Evidence 
+accepted and published by the Women and Equalities Committee March 2023 (Ref: 
+NDS0011). 
+ NADSN response to the Diversity and Inclusion in STEM Inquiry. Written evidence accepted 
+and published by the Science and Technology Committee January 2022 (Ref: DIV0017). Oral 
+evidence presented by NADSN members April 2022 (HC903). Report published March 2023. 
+ NADSN Response to the Public Accounts Committee Inquiry on Revising Health Assessments 
+for Disability Benefits. Evidence submitted June 2023 (Ref: OKC494623). 
+ 
+
+ 
+7 
+Guiding principles 
+We recognise that ableism is endemic in society and that the barriers faced by disabled people in 
+STEMM are extensive and systemic. 
+We aspire to attitudinal and structural transformation, the end to exclusion and discrimination of 
+disabled people, and genuine inclusion and celebration of diversity in all forms. 
+We are mindful that while we are focusing on disability, discrimination is intersectional, and there is 
+great heterogeneity in the experiences of disabled people. 
+To achieve genuine disability inclusion, urgent transformation is needed, and equity, diversity, 
+inclusivity, and accessibility (EDIA) principles must be embedded at the heart of all work. 
+There is an urgent need for funding bodies, Higher Education Institutions (HEIs) and Learned 
+Societies to acknowledge and address the systemic, attitudinal, and physical barriers which exclude 
+and discriminate against disabled people in STEMM. Even within EDIA specific forums, disability is 
+an under-discussed and under-represented issue. 
+While we have focused on recommendations for disabled people, building in inclusivity and 
+accessibility will improve working conditions for everyone. Addressing unrealistic expectations of 
+researchers and normalising adjustments such as working from home, will protect careers for anyone 
+experiencing a temporary change in their circumstances; due to caring responsibilities, an accident, 
+short-term illness, or a consequence of ageing. 
+Terminology and language 
+The language used to describe disability varies across different disabled communities and the 
+world. In this document, we use ‘identity-first’ language consistent with the UK Disability Justice 
+movement. We recognise different language preferences (e.g., identity first or person first 
+language) across individuals and communities and will continue to reflect on and adapt our use of 
+terminology as appropriate. 
+We use ‘equity’ instead of and together with ‘equality’. Equality describes a state in which all 
+people are treated in the same way. Equality does not consider whether some people face greater 
+barriers than others, or do not start from the same place. Equity allows provision of additional 
+support to overcome additional barriers so everyone can arrive in the same place. Equality alone 
+will not remove systemic barriers. 
+ 
+
+ 
+8 
+Why address disability inclusion in STEMM? 
+The proportion of disabled people in the population is increasing; from 16% of the working 
+population in the UK in 2018 to 22% in 2021. In 2024, the proportion of the working age population 
+thought to have a condition that would be recognised as a disability under the 2010 Equality Act is 
+estimated at 30%.1 Yet the proportion of academics known to have a disability according to the UK 
+Higher Education Statistics Authority is just 6.4% (an increase from 3.9% in 2014).2 Statistics 
+generally underestimate disabled populations. They cannot include people who do not have or who 
+are waiting for a diagnosis, people who meet the legal definition of disability but choose not to 
+disclose due to fear of stigma or discrimination, or people who do not identify as disabled.3 
+Many groups are underrepresented in STEMM4,5 including disabled people.6 There are systemic 
+problems of harassment and bullying within scientific research cultures7 which are magnified for 
+disabled scientists; 62% experience bullying or harassment compared to ‘only’ 43% across all 
+scientists.7 Unsurprisingly, the numbers of people sharing their disability are lower in STEMM than 
+other disciplines, with declaration rates lowest where there is a pronounced gender imbalance.8 
+Disabled scientists face barriers due to ableism, discrimination, a lack of accessibility, and a lack of 
+awareness, which combine to create a hostile and unsupportive working environment that makes it 
+harder for them to progress.9–12 They are underrepresented in the membership and committees of 
+Learned Societies. Less than 1% of applications for UKRI† research funding are from researchers 
+disclosing a disability,5,13–16 and when they do apply, disabled researchers are awarded less than 
+half the amount compared to non-disabled researchers.17 
+Disabled people are less likely to become leaders in science,18 and as a result, disabled people have 
+little visible influence over research. These factors are intersectional,19‡ which means they 
+compound for those who are further marginalised for example due to their race or ethnicity, 
+gender, or sexuality,20–25 and contribute to the lack of diversity within the scientific community. 
+Diversity is crucial to ensure the best people, culture, and environments for scientific research.7,26 
+Diversity helps build public trust in science27 and health research.28 When there is diversity 
+throughout every level of the scientific community, a scientific career becomes more accessible.29 
+Diversity helps prevent the epistemic injustice that excludes disadvantaged communities from 
+contributing to research and research agendas.30 
+Disabled people are often positioned as participants in or subjects of research and innovation; 
+excluded from meaningful participation or seen as an underutilised epistemic resource for 
+scientists.31 In contrast, this White Paper sets out the conditions needed to promote inclusive and 
+accessible environments that will support disabled scientists to achieve success and mean their 
+unique perspectives, expertise, and innovative approaches contribute to scientific progress. 
+ 
+† United Kingdom Research and Innovation 
+‡ Intersectionality is a term developed by Kimberlé Crenshaw to describe the compounding barriers Black women faced 
+due to sexism and racism. It is used here to describe the compounding barriers an individual may face if they are 
+disabled and also identify with one (or more) other protected characteristic(s) such as race, ethnicity, religion, sexuality, 
+or gender. 
+
+ 
+9 
+Disability in society 
+The Equality Act (2010)32 considers a person to be disabled if they have a physical or mental 
+impairment that has a ‘substantial’ and ‘long-term’ negative effect on their ability to perform 
+normal daily activities. Disability has traditionally been framed as a consequence of physical disease 
+or injury that must be repaired to restore ‘normal’ function. This ‘medical model’ of disability is 
+focused at the level of the individual and disability is seen as an impairment.33 By implication, the 
+medical model positions disabled people as ‘less than’ their non-disabled peers. The medical model 
+amplifies misconceptions about disabled people’s capabilities, performance, and ability to 
+contribute to society and the economy. It feeds into the idea that disabled people are outsiders, 
+that they suffer or are victims of their disability and require ‘fixing’ by expert medical professionals. 
+This ableism, or pejorative view of disabled people contributes to the stigma around being disabled 
+as well as the discrimination, barriers, and microaggressions so many disabled people face every 
+day.34,35 
+In contrast, the social model of disability, as developed by Michael Oliver,36 makes a clear 
+distinction between the physical, mental, or sensory experience associated with a condition and the 
+disabling impact of the social, physical, and cultural environment. The social model places the 
+emphasis on society and societal change in order to ‘fix’ the issues of disability. It moves 
+responsibility for access and engagement from individual disabled people and makes it collective. It 
+recognises that excluding disabled people is a social choice. The social model is inclusive by design, 
+recognising everyone who is disabled by exclusion and inaccessibility, whether they identify as 
+disabled or not. This means that proponents of the model acknowledge that anyone can become 
+disabled in any sphere of their life, including work, at any time. The social model differentiates 
+between how people can be disabled by their environment and society and the impairment 
+experiences caused by their condition. It frames disabled people rather than medical professionals 
+as the experts of their experience. Other models such as the Capability Model37 and Affirmation 
+Model38 place a greater emphasis on contextual factors and positive social identity, though both 
+reject the idea that disability is an individual deficit. 
+Most disabilities are not visible, and not all disabilities are physical.39 Disability encompasses mental 
+health conditions, neurodivergences (including Autism, Attention Deficit Hyperactivity Disorder 
+(ADHD), Dyslexia, and Epilepsy), long term physical health conditions, mobility impairments, brain 
+injuries, and symptoms without diagnosis. Disability may exist throughout a person’s life or be 
+acquired at any age through illness or accident. The symptoms and impact of a condition on daily 
+life may fluctuate. Many effects of disability are not apparent externally such as chronic pain, 
+mental health conditions, and autoimmune conditions. Disabilities can be subject to a ‘hierachy’40 
+that deems some more or less socially acceptable or subject to stigma and discrimination than 
+others. Some chronic illnesses are seen as being more worthy of support or understanding (for 
+example cancer vs fibromyalgia).39 Many disabilities, chronic illnesses or neurodivergences are not 
+visible to others, yet they still impact day-to-day life.39 Disability is intersectional.19 Systemic health 
+inequalities41 compounded by poorer health outcomes for disabled people42 impact diagnosis,43,44 
+
+ 
+10 
+healthcare,45 and the prevalence and severity of disability. The incidence of disability varies with 
+ethnicity. The 2021 UK Census recorded the highest proportions§ of disabled people within the 
+“White: Gypsy or Traveller” (33.2% in England; 39.1% in Wales) and "Mixed or Multiple ethnic 
+groups: White and Black Caribbean" (22.4% in England; 26.7% in Wales) categories.46 
+In line with the World Health Organisation,42 and the United Nations Convention on the Rights of 
+Persons with Disabilities47 NADSN endorses and supports the social model of disability in all of its 
+work. We stand by the ideology “nothing about us without us”. 
+ 
+ 
+§ age-standardised rates of disability 
+
+ 
+11 
+Disability in work 
+Employers have a legal responsibility to make reasonable adjustments for disabled employees.48 In 
+addition, the government complements employer adjustments or accommodations and provides 
+additional support for disabled people to get into or stay in work and overcome workplace barriers 
+through the Access to Work scheme.49 The Department for Work and Pensions highlighted that 
+investing in and supporting disabled people to gain and retain employment “makes economic 
+sense” in 2011.50 Adaptations developed specifically for disabled people can be of substantial 
+benefit to the wider population, as seen with the technological solutions for remote working for 
+disabled employees prior to the COVID-19 pandemic which became a standard working solution 
+during lockdowns.51 Money spent through Access to Work was estimated to yield a 1.5 greater 
+return for the Exchequer, with the social benefit even higher.50 However, the Office for National 
+Statistics reported 2023 employment rates for disabled people52 of only 53.0% compared to an 
+employment rate of 81.6% for non-disabled people. 
+There is a significant disability pay gap. The median rate of pay for disabled people was just £13.69 
+per hour compared to £15.69 per hour for non-disabled people.53 Occupation was one of the 
+factors contributing to the overall disability pay gap of 12.7%. However, the two highest occupation 
+categories had high levels of uncertainty as fewer people were employed at these levels. Senior 
+leaders/managers/directors had a pay gap of 11.1% (confidence interval 4.5 - 17.3 percentage 
+points) and professionals had a pay gap of 8.4% (confidence interval 4.8 – 11.9 percentage points). 
+The disability pay gap is affected by gender (narrower for men), full-time/part-time status 
+(narrower for part-time), severity of disability (narrower for those less impacted in their day-to-day 
+life), and type of disability. Autistic people experience the highest disability pay gap at 27.9%.53 In 
+comparison, the pay gap for Epileptics is 26.9%, and for people with severe or specific learning 
+difficulties is 20.3%.53 When the data are controlled for occupation by adjusting pay levels to those 
+working in professional occupations such as scientists, the pay gap for Autistic employees narrowed 
+to 15.3 percentage points.53 Where there is a greater share of employees in a professional 
+occupation this would tend to equate to a higher level of pay, so the narrowing of the gap implies 
+there is a smaller proportion of Autistic people working at this occupational level. The 2024 
+Buckland review highlighted only 36% of autistic graduates were likely to be employed 15 months 
+after graduation. It reported: “Autistic graduates are most likely to be overqualified for the job they 
+have, most likely to be on zero-hours contracts, and least likely to be in a permanent role.”54 
+Neurodivergences such as ADHD and Autism are often trivialised as being ‘overdiagnosed,’55 with 
+‘sufferers’ seen as broken.56,57 Neurodivergent people with physical health conditions can find their 
+concerns and needs dismissed due to a lack of awareness and understanding of comorbidity.58,59 It 
+is likely the stigma and discrimination faced by Autistic people contribute to their low employment 
+rates and the large pay gap. 
+ 
+
+ 
+12 
+Disability in Higher Education 
+Disabled people are less likely to attain the level of qualification necessary for a career in STEMM. 
+In 2021 only 24.9% of disabled people aged 21-64 had a degree as their highest qualification 
+compared to 42.7% of non-disabled people.60 The proportion of undergraduates declaring a 
+disability increased in the period 2014 - 2023; from 11.6 to 18.9% overall and in STEMM subjects 
+from 11.1% to 19.4%).61(p44) For postgraduate research students (MRes/PhD) over the same period 
+the overall proportion of disabled students grew from 7.0% to 16.0% and in STEMM from 6.2% to 
+14.6%.61(p44) The proportion of disabled students accessing funded adjustments is low; only 24% of 
+doctoral students with a declared disability are in receipt of Disabled Students Allowance.62 
+Despite the prevalence of disability increasing with age which might lead us to expect an increase in 
+numbers of disabled staff compared to students,46 the number of academics known to have a 
+disability according to the UK Higher Education Statistics Authority is just 6.4% (an increase from 
+3.9% in 2014).2 The Higher Education Statistics Authority do not break down disability according to 
+disciplines. Drawing on data from Learned Societies, we can see the proportions of disabled people 
+in STEMM are lower than those in the wider population. The Royal Society of Chemistry surveys its 
+members regularly and reported 4% as disabled in 2022, though up to 10% potentially met the 
+2010 Equality Act definition of disability as they described experiencing barriers or limitations in 
+their day-to-day activities.63 According to analysis by the Lighthouse Foundation, the proportion of 
+disabled physicists has fallen from 14% to 7.7% in recent years.64 The proportion of disabled staff in 
+Higher Education falls with seniority; from 6.7% at the most junior level of academic contract, to 
+5.8% at a senior level and only 4.5% at professorial level, demonstrating the endemic ableism or 
+discrimination against disabled people in academia.65–67 When line managers are ableist they act as 
+career blockers, preventing their progression and scapegoating their success.68 Diversity data for 
+science demonstrate that the STEMM workforce has fewer women and other minoritised genders, 
+LGBTQIA+** people, Black, and other marginalised race and ethnic groups, and that the proportions 
+and numbers of marginalised individuals decreases with seniority.5,16,20,23,24 As such, any actions 
+taken to address ableism in STEMM must also consider the broader lack of diversity.27 
+EDIA in Higher Education and academia is largely leveraged through sector initiatives such as 
+Advance-HE’s Athena SWAN69,70 and Race Equality Charter Mark71,72 which have at times been 
+linked to research funding incentives. Such schemes are thought to have contributed to improved 
+research culture73 though are not without criticism of being too policy focused to bring about real 
+change.74,75 In comparison, there is often less emphasis placed on disability within institutional 
+strategies76 and very little evidence that voluntary initiatives aimed at employers such as Disability 
+Confident or Two Ticks have had any impact for disabled people.77,78 Without a legal or financial 
+incentive it can be challenging to address institutional ableism. 
+ 
+** Lesbian, Gay, Bisexual, Trans, Queer, Questioning, Intersex, Asexual, with the + holding space for other identities 
+including Two-Spirit and Pansexual. 
+
+ 
+13 
+Equality/Equity, Diversity, Inclusion, and Accessibility (EDIA) 
+in STEMM 
+The NADSN STEMM Action Group conducted a collaborative autoethnography79–81 over four years 
+to capture lived experiences of disabled scientists. This did not need ethical approval, as all those 
+involved in data gathering were also involved in the analysis and dissemination of findings and 
+chose to be named as an author (or not). As a collective we analysed our data thematically 
+identifying areas in need of reform to create an initial problem statement. In this we identified 
+three overlapping themes of areas in need of reform to fully include disabled scientists (see Figure 1 
+and Appendix 1): 
+ Enabling inclusive cultures and practices; 
+ Enhancing accessible physical and digital environments; and 
+ Accessible and proactive funding. 
+We then consulted with a wider network of scientists and EDIA specialists. The responses illustrate 
+how disabled scientists experienced the burdens of pressure, lack of job security, disclosure, and 
+the impact on mental health. After further analysis of the collaborative autoethnographic data and 
+consultation responses, we identified common burdens, suggested solutions, and formulated short, 
+medium, and long-term evidence-based recommendations for funders, Learned Societies, and 
+institutions. These are presented below, organised into two core themes; ‘Burdens’ and ‘Solutions’, 
+which are illustrated with quotes from respondents to the problem statement. Burdens 
+incorporates the sub-themes ‘‘Reasonable’ adjustments’ and ‘Pressure’. Solutions incorporates the 
+sub themes ‘Environmental’, ‘Recognition’, and ‘Inclusion’. 
+We synthesised research-based, creative, non-fictional vignettes82 to illustrate disabled scientists’ 
+experiences; sharing “true but not real”83 stories. This strategy was successfully used to highlight 
+the embodied and emotive experiences of women and other marginalised groups in STEMM by the 
+award-winning International Women in Supramolecular Chemistry Network.25 Audiences respond 
+differently to creative research outputs.84 They are a means to humanise stories so they resonate 
+with people who have similar experiences, reassuring them their voices are being heard, and allow 
+emotional connection so those who have not are able to relate and understand the impact. 
+There is limited literature on the human impact of the specific barriers faced by disabled staff in 
+STEMM.9,10,18,35 This White Paper and our recommendations add to that. They are intentionally 
+intersectional and incorporate the awareness that lived experiences of disability are diverse and 
+intersect with other minorities and marginalised identities. They are made in the context of the 
+Social Model of Disability,36 the UN Convention on the Rights of Persons with Disabilities,47 the 
+ideology Nothing About Us Without Us85, and incorporating the recommendations made in Ableism 
+in Academia66 and Disability in Higher Education.67 
+
+ 
+14 
+Figure 1: Venn Diagram showing recommendations and overlapping themes of Enabling accessible digital and physical environments, Enabling inclusive cultures and practices, and 
+Accessible and proactive funding.
+
+ 
+ 15 
+Burdens 
+Just because I am disabled, it does not mean I am not capable. No, it is not 
+true that my [visual impairment / hearing impairment / physical disability / 
+neurodivergence / mental health / chronic pain*] means that I do not belong 
+in science. Yes, I can still do my job. No, I cannot work the 70+ hours a week 
+that seems to be necessary in academia right now, but that is because it is 
+inhumane. Not because I am disabled. 
+*please delete as applicable 
+ 
+A consistent theme identified in the problem statement and responses was the positioning of the 
+disabled researcher as ‘the problem’. This resonates with the medical model of disability, which 
+sees the disabled person as an ‘impaired’ person, and situates the problem in them rather than 
+recognising the systemic barriers in the policies, practices, and physical environment around them. 
+‘Reasonable’ adjustments 
+Looking at me you might think that I’ve made it. I’m here. I’ve even got the 
+Nature papers and the funding. I’m doing things that will help make the world 
+a better place. I just wish it all came with an instruction manual. But the 
+moment I disclose my disability it is weaponised against me. I have to 
+“disclose” like it’s something to be ashamed of. Like my gender. My ethnicity. 
+Sexuality. Then I’m accused of playing the diversity card as though that’s the 
+only reason I am here. Disability is not the ‘sexy’ face of EDI. Everyone is 
+playing Oppression Olympics. I could go to any number of networks for 
+marginalised women, or any number of acronyms: LGBT, BME, BAME, BIPOC 
+whatever you want to call it. But there’s not even an ‘A’ for Accessibility. 
+Disability rarely gets a look in or when it does it’s only students who are 
+allowed to be disabled. Succeeding in education means you must be 
+‘normal’. I am that definition of a driven, ambitious, and hyper-productive 
+academic. But what is the cost? The worst leaders I have known have been 
+like that. They expect everyone to work long and punishing hours. To follow 
+the same path. I don’t want to be like that. I’m lucky because I thrive on 
+pressure. All I want to do is science. This is my happy place. What I never 
+realised is that the skills I need to be a researcher, to be a scientist, are not 
+the same as the ones I need to deal with this toxic culture. I can do the 
+science no problem, but that doesn’t mean that I know how to manage 
+people or the never-ending politics and people-pleasing I never knew I 
+would have to do just to get access to facilities, let alone help. 
+ 
+
+ 
+ 16 
+Resources and policies invariably designed to provide a route to accessibility and inclusion were 
+described as being weaponised and used as barriers to exclude disabled people, for example health 
+and safety initiatives in laboratories.86 Although employers have a legal duty to provide reasonable 
+adjustments, the definition of what is ‘reasonable’ or not can be disputed.87 Reasonable 
+adjustments could include provision of specialist or adaptive equipment such as large screens, 
+ergonomic chairs, or speech-to-text software. It might also include installing visible alarms, wider 
+walkways, or powered doors. Although retro-fitting a laboratory for accessibility might be 
+prohibitively expensive compared to designing in inclusivity to a new-build, there are many small 
+and inexpensive adaptations that improve accessibility in laboratory environments.86 One of the 
+most effective in terms of cost and impact is to fund highly qualified laboratory technicians and 
+managers. Lab technicians and managers would be able to support disabled researchers with 
+physical tasks such as placing samples in a nuclear magnetic resonance (NMR) machine, pipetting, 
+carrying large flasks of solvent, preparing experiments, running experiments where the primary 
+researcher is offsite, and maintaining equipment which would help reduce noise within the lab. In 
+doing so, all researchers would be supported, not just disabled ones. Disabled researchers would 
+have support so their ideas and research design were the primary drivers of their work, rather than 
+having to ‘make do’ with what was accessible to them. Disabled researchers should not be put in a 
+situation where a physical limitation, a need to work remotely to protect their health, or any 
+disability-related reason shapes or stops their science. 
+There are significant costs associated with disability; such as specialist equipment and assistance. 
+While universities have structures in place to support disabled students, there are typically less well 
+developed or less well funded equivalents for academic, professional services, and technical staff: 
+“The university funds services for students but not for staff and that means we have hosts of 
+staff who are struggling to get the correct support” 
+“It is important to recognise [that] the need for such support applies to postgraduate 
+students who are employed to support teaching and learning.” 
+This lack of support can be particularly challenging for scientific researchers, who are often 
+employed on successions of short-term contracts lasting around three months to three years when 
+they are early-career.88 Expectations that researchers are able to move to a new location regularly 
+are challenging for people with complex medical or care needs who are not easily able to leave the 
+support they have in place. Access to Work is not designed for this work environment as support is 
+specific to a job rather than an individual and does not automatically move with them to a new 
+position even if the role is similar. Numbers asking for help from Access to Work have increased in 
+line with the numbers of disabled people in employment;52 yet they still support less than 1.5% of 
+employed disabled people.89 Backlogs mean that although Access to Work states it fast-tracks new 
+employees within six weeks, wait-times in December 2024 were around nine months. Disabled 
+researchers on short term contracts find themselves without support or unable to work for the 
+majority or entirety of their contract. In addition, changes to the staff guidance in May 2024 
+impaired the service Access to Work is offering to customers. New practices and policies appear 
+ableist and assume disabled people are incapable of working at senior levels or understanding the 
+
+ 
+ 17 
+nature of the tasks they do. Advisors and case managers appear to be focused on saving costs 
+rather than supporting individual needs above and beyond employers’ reasonable adjustments or 
+facilitating economic growth. Disabled scientists are finding their support cut, and being allocated 
+administrative rather than scientific support, putting their work and livelihoods at risk. Rather than 
+breaking down barriers for disabled people in work, Access to Work is now introducing additional 
+obstructions through confusing categories and limitations of both hours and wages for support 
+workers and job aides. The scheme no longer appears to be able to adequately support disabled 
+people with professional or highly skilled careers earning significantly above the £13.69 median 
+wage for disabled people. 
+Reasonable adjustments are not just for physical environments. Accommodations can be used to 
+ensure that documents and agendas are shared ahead of meetings, or to account for the additional 
+time it takes disabled people to carry out specific tasks. For example, lectures are commonly 
+allocated 50 minutes for content delivery with 10 minutes to move between rooms or sites. If it 
+takes a person with a mobility impairment 20 minutes to walk to the allotted lecture theatre and 
+back, the one-hour slot will in reality take up 1 hour 30 minutes of their time. Similarly, if there is an 
+expectation that academics mark four assignments per hour and because of a disability they can 
+only mark two and a half in that time, marking a cohort of 20 would take eight hours instead of five. 
+Reasonable adjustments in workload allocation models could be applied to account for such 
+discrepancies so that disabled people are not further disadvantaged in comparison to their peers. 
+Reasonable adjustments can also provide flexibility around activities that contribute towards cases 
+for promotion and allow for differences in communication styles. For example, an Autistic person 
+might find the ‘political’ aspects of academia more challenging because they are misread or 
+struggle to read others easily. An accommodation might be for written communication rather than 
+in-person meetings without an agenda. 
+Barriers to reasonable adjustments are often due to opaque systems coupled with those with 
+budgetary responsibility and decision-making power having a lack of training and knowledge about 
+disability in STEMM. Increased awareness and designated contacts would help: 
+“Better understanding of STEMM specific access solutions including assistive technology 
+specific to tasks and systems required for a particular field.” 
+“Having a specific resource and a contact to advise individuals and their employers on what 
+is available seems to be very much needed.” 
+Disability without adequate support extracts emotional and health tolls. Disabled researchers 
+shared feeling increased stress, depression, and low self-esteem over and above the low mental 
+health experienced by the majority of academics from the start of their career.90,91 Disclosure92 was 
+particularly challenging due to fears around discrimination, being seen as less valuable, productive, 
+or less value for money by funders and employers because of additional disability-related costs. 
+Disabled researchers fear being seen as uncompetitive due to lower productivity than their non-
+disabled peers: 
+
+ 
+ 18 
+“Acknowledge the impact of productivity-limiting disabilities in academia, such as not having 
+the energy to work extra hours to write up papers, attend optional lectures, or engaging in 
+CV-boosting volunteer work.” 
+“It would be nice if these limitations were explicitly acknowledged, so that candidates were 
+judged more fairly compared to their non-disabled peers.” 
+Disabled academics often experience cumulative fatigue which cannot be overcome through 
+standard annual leave, and find it necessary to shift to part-time contracts or take extended periods 
+of unpaid leave.93 Disability is not a “sickness” and disability-related leave should be separated from 
+standard sickness leave. Many disabled people require planned treatments and recovery time to 
+manage the effects of their disability. Extended periods of leave can impact career progression. 
+Institutional policies and practices need to be flexible, recognise the additional challenges faced by 
+disabled staff, that disabilities can change over time, and that disability is not a monolith: 
+“With regards [to] disability, it is pervasive, but also a catch-all, so experienced in very 
+different ways.” 
+There is an expectation that researchers travel and disseminate their research. However, travelling 
+as a disabled person might necessitate additional nights before and after an event to prevent pain 
+or injury, incurring extra costs for subsistence and a longer time away from home and the 
+laboratory or workplace, decreasing the amount of time available for research. Such additional 
+expenses are not routinely recognised or approved leaving disabled researchers having to choose to 
+self-fund or being excluded and isolated. Without access to support, it is harder for a disabled 
+researcher to demonstrate their standing within the scientific community and further their career 
+as expected. As a result, securing promotion can be a struggle and careers can plateau. This 
+contributes to the lack of visibly disabled researchers at the most senior levels.18 We heard from 
+disabled people being forcibly ‘encouraged’ onto less prestigious career paths, working part-time to 
+manage their condition, or exiting the workforce prematurely because there were no real 
+alternatives: 
+“Need to make sure diverse career paths can be recognized through promotion processes, 
+with emphasis on quality rather than quantity.” 
+“Expansion of job roles and career prospects to include a broader range of permanent 
+positions with exclusively research or teaching focus (or a hybrid with greater flexibility than 
+the current options) is essential if universities hope to retain or attract staff that simply 
+cannot remain in academia under the current conditions.” 
+Decisions like these have short and long-term financial consequences. Many pension schemes will 
+offer incapacity or ill-health benefits, but there is no legal requirement to accommodate the 
+financial implications of working part-time due to disability. A consideration of the effects of 
+disability on long-term employment should be embedded within any proposed overhaul of pension 
+systems. 
+
+ 
+ 19 
+ 
+Figure 2: Word tree from responses to the Problem Statement illustrating the burdens of pressure, job security, and disclosure .
+
+ 
+ 20 
+Pressure 
+How can I compete with you? I will never provide as good ‘value for money’ 
+because I have to cost in every single extra line-by-line in each funding 
+application to make sure that my lab, that my travel, that everything I do, is 
+accessible to me. Every time I go to a conference I am away longer from the 
+lab because I can’t travel and talk on the same day. I haven’t got a 
+research record as impressive as yours. I haven’t brought in as much money, 
+published as much, or worked abroad. My parents didn’t have the 
+knowledge and networks yours did that gave you opportunities and 
+internships before I even started to think about research. They could tell you 
+about how the system works. I bet you weren’t dismissed by your research 
+manager as not being capable though. You didn’t have to consider how 
+being in a different country from the only specialist who actually understands 
+your condition would impact your health before you moved away. You 
+haven’t had to spend months working from a hospital bed every year of your 
+life. Even when I am not in hospital my life is impacted though. Every time I 
+push myself too hard my body literally breaks down. That cough you had 
+when you came into the office? I was bed-ridden for three weeks. I 
+scratched my leg in the garden. Ended up with sepsis. Because I rarely ask to 
+be signed off and just keep working as much as I can around the pain and 
+the drips and the trolleys and the pain and the every-four-hour OBS it doesn’t 
+count as the clock stopping for funding applications. So you are my direct 
+competition. And it just looks like I haven’t done as much. As though I haven’t 
+put in as much effort. I’m not as good. Is it too much to ask that these 
+limitations be explicitly acknowledged so I am judged more fairly? Of course 
+it is. God forbid I should want a life outside of science and dealing with the-
+every-day ableism as well. I should probably get back in my box and 
+remember that disabled people are supposed to be the subject of research; 
+not the researcher. 
+ 
+The Higher Education sector and context for research has been negatively affected by the 
+pandemic.94,95 COVID-19 had an adverse impact on the mental health of the scientific 
+community.96,97 The sudden closure of laboratories and pressures of caring responsibilities 
+impacted many scientists.98 Women academics responsible for children were particularly 
+affected.99–101 The higher risk of serious illness and death for disabled people102 meant that some 
+who had previously not disclosed their health conditions at work had to do so in order to ensure 
+they were adequately protected.103 Difficulty and delays accessing health services impacted some 
+disabled people’s health.104 The longer-term career implications of breaks or slow-downs in 
+productivity due to COVID are yet to be fully accounted.105 While all members of a department may 
+have been denied access to laboratory facilities during lockdown period, an immunocompromised 
+
+ 
+ 21 
+disabled person would have had to isolate away from face-to-face meetings, conferences, and 
+restrict their activities for much longer. The shift to remote working demonstrated that remote 
+working could be put into place relatively quickly and easily and would benefit many people, 
+demonstrating the power of inclusive design.51 However, many workplaces quickly reverted back to 
+cultures of presenteeism under the guise of returning to “normality”. 
+Financial pressures across the higher education sector have led to cost-cutting initiatives such as a 
+move towards large open-plan workspaces.106 Open plan offices prevent individual ability to control 
+the environment around them and adjust lighting, sound, and the like, creating barriers for disabled 
+and neurodivergent people. When finances are stretched, individual needs and accommodations 
+can easily be overlooked or dismissed, particularly if they are requested by people otherwise 
+presenting as highly functional or do not always identify as disabled: 
+“A trend towards vast open-space working areas. This may be believed to boost productivity 
+in general, but for a sizeable minority of neurodivergent people (for example with ASD or 
+with general anxiety) it can become a serious challenge.” 
+Increasing competition between and financial pressures on institutions have led to a tsunami of 
+restructuring and redundancies across the sector.107,108 Consequently, the pressures on academics 
+and researchers to be hyperproductive and superhuman109,110 just to maintain job security have 
+increased. Admitting vulnerability due to a disability111 becomes harder when disability is equated 
+with a lack of competence. Overt discussions of the value of a disabled life in COVID112 heightened 
+longstanding hostilities and negative perceptions of disabled people as less important, less 
+employable, and less able to contribute to society than their non-disabled peers.34 These ableist 
+discourses also result in disabled scientists being considered too ‘high functioning’ or ‘not disabled 
+enough’ to actually deserve support. When directed internally, this becomes internalised ableism.92 
+Many respondents to the original Problem Statement shared systematic issues that prevented an 
+equitable playing field and made it harder to compete against their peers: 
+“I think one of the biggest barriers for disabled people is also about insecurity and time - so 
+much of academia requires people to work very long and punishing hours for very little 
+money which keeps not only disabled people out but others as well.” 
+Differences in productivity are perceived as a lack of effort instead of being due to physical 
+difficulties: 
+“[Disabled researchers] do not have the energy to work extra hours to write up papers, 
+attend optional lectures, or engage in CV-boosting volunteer work. [They need to] accept 
+meeting pre-agreed objectives without additional work.” 
+People also shared issues around holding institutions accountable despite laws and protections. 
+Currently the law does not recognise the impact of caring responsibilities or coming from a lower 
+socioeconomic background, nor intersectionality and the compounding of barriers due to multiple 
+protected characteristics. A Black, queer, woman disclosing a disability would face the combined 
+and compounded barriers of prejudice due to racism, sexism, and ableism compared to a white, 
+able-bodied man.113 
+
+ 
+ 22 
+“I have lost count of the number of times that I have attended an equality and diversity 
+meeting that is primarily or exclusively around women and, to a lesser extent, early career 
+researchers and sexuality without mention of disability.” 
+Where research is externally funded, funders have a duty to use their power and influence to 
+ensure that host institutions have policies in place that support EDIA. Application processes are one 
+way to support inclusion: 
+“There is a move to narrative CVs so that the badge collecting by hyper-productivity is 
+removed from the proposal and focus is on science questions and skills of the team.” 
+Funders have a responsibility to check grant holders and their teams are benefiting in practice, with 
+reasonable adjustments in place in a timely manner, and enforcing this through sanctions where 
+necessary. Best practice has to embed reasonable adjustments throughout the research ecosystem, 
+from pre-award support, to ring-fenced pots designed to ensure that accommodations can be put 
+in place for the grant holder or one of their team at no detriment to the grant holder. Learned 
+Societies can actively support this work through advocating for underrepresented groups and 
+demonstrating best practice with inclusive events and representative committees. 
+At present EDIA work is underfunded and undervalued. The bulk of EDIA work in STEMM happens 
+because of impassioned researchers who devote time and labour over and above their paid work to 
+advocating for and supporting others at detriment to their own careers: 
+“Need to recognise and make time and reward for this extra labour in doing this.” 
+There needs to be recognition of, and value attached to, time dedicated to EDIA initiatives so that 
+no-one is left in the position where they are lauded for their EDIA work yet remain without secure 
+employment or opportunities for progression. 
+Dedicated money for research on EDIA in research culture is scarce and rarely includes full 
+economic costing or buyout for staff time. It is not recognised as fundamental research. When EDIA 
+work is included within a funding application it is often positioned as an add-on to a scientific 
+programme. This confirms its low status, with the assumption that the only qualification a 
+researcher needs is proficiency in their own disciplinary area. This contributes to a wider research 
+environment where small scale unsuccessful initiatives propagate due to a lack of expertise and 
+knowledge. Without the accolade of external funding, EDIA work is often overlooked in 
+assessments for promotion or progression. We know several researchers who were advised to 
+remove EDIA publications from their portfolio, as including them would lead to them not being 
+taken seriously as scientific researchers. EDIA work in scientific journals is challenging, because it is 
+not always recognised as ‘proper science’. 
+ 
+
+ 
+ 23 
+Solutions 
+What amazed me is how little it took. It started with just one question: ‘How 
+can I help?’ There were other little things just there as a matter-of-course – I 
+didn’t have to ask for accessible versions of forms – they just were. Paperwork 
+was sent round before meetings, meetings were scheduled in core hours (10-
+2) and there was always a hybrid option. They don’t use heavy air fresheners 
+or cleaning chemicals. The lifts work, and there is automatic door access 
+everywhere. I had a mentor who knew about disability, and what they didn’t 
+know they went away and found out. They made sure that I wasn’t left out of 
+the ‘politicking’ in the department and at a disadvantage. They checked I 
+had recognition for the extra labour I put in mentoring others and chairing 
+the disability staff network. I was consulted before equipment and software 
+were ordered to check accessibility. Everyone has access to a quiet space if 
+they don’t want to work in the hot-desk area. Everyone can work from home. 
+You might need to take care of yourself or someone else. You don’t have to 
+say why or justify it and you’re never asked to justify a disability. For the first 
+time I wasn’t scared to disclose or ask for reasonable adjustments. It’s as 
+though they trust us! And you know what? It means that we work harder. 
+Everyone is more productive. We care more, because it feels like they care 
+about us too. 
+ 
+Environmental 
+Respondents to the Problem Statement proposed small, relatively inexpensive solutions applicable 
+for researchers in all disciplines that could be implemented quickly and easily to improve the work 
+experience for people with sensory sensitivities or health needs affected by their environment (see 
+Appendix 2): 
+“I strongly recommend when planning new developments, that for each large open-space 
+area, there should also be a couple of old-fashioned small offices, without large glass panels 
+everywhere.” 
+“I think having 'well-being rooms' in offices would be helpful for people who need to take 
+breaks from their desks/working spaces (due to pain/fatigue etc). Ensure these are sensory 
+safe, so free from heavy air fresheners and perfumes, (also a problem for allergies), and that 
+fabrics on chairs / places to lie down are not in itchy, scratchy fabrics. Sadly, fire retardant 
+coatings on fabrics can also smell. Hypoallergenic cleaning products should be used.” 
+“Perhaps provide a few spare pairs of noise-cancelling headphones just in case they are 
+needed but someone doesn’t have any.” 
+
+ 
+ 24 
+“Kitchenette / hot drinks making facilities nearby to hand so that (hot) drinks and water can 
+be easily sorted out and easily transported into the room.” 
+“Ensure the room has good sound insulation.” 
+Policies should protect the most vulnerable, for example a policy to use a face mask when ill with a 
+mild cough or cold would help protect staff and students with immune system disorders from any 
+respiratory infections and generally reduce sickness across a workplace at little cost.114 These would 
+be in addition to more specific solutions to increase inclusivity and accessibility within laboratories 
+(see Appendix 3).86 
+Respondents to the Problem Statement also suggested more general solutions for higher education 
+institutions, funders and Learned Societies (see Appendix 4). These fell into two broad categories of 
+recognising the specific challenges of being disabled in science and promoting inclusivity. 
+Inclusion 
+In order to effect change, inclusion must be meaningful and intersectional rather than 
+performative.75 This is achieved by embedding inclusivity, ensuring representative consultation, and 
+encouraging a culture of collaboration rather than competition; embodying the principle of ‘nothing 
+about us without us’: 
+“Collaboration and support are the ways forward.” 
+“Move away from individualism and ensure that this is a community/not individual effort.” 
+“Go beyond including disabled people in consultation, and make sure they are involved from 
+the start on teams and committees driving change.” 
+Inclusion and meaningful consultation is essential to create and implement policies that protect and 
+support disabled researchers through specific initiatives or wider changes: 
+“Emphasise the need for change in working conditions and policies.” 
+“A funding pot only for disabled academics” 
+Respondents to the Problem Statement spoke more broadly about inclusivity and considerations of 
+how research could be judged to include its impact on participants and society: 
+“Funding applications might be restructured to take into account whether a particular 
+proposal carries potential positive or negative outcomes for particular groups. For example, 
+is it disability liberation for more disabled people to be employed within/researching for the 
+benefit of corporations which contribute to the global disablement of millions?” 
+“Requiring the relative 'value' of research to be determined, in some way and to some 
+degree, by its ethics as relates to disabled people and other marginalised groups.” 
+These suggestions speak to a more decolonised view of higher education and research115 that 
+incorporates and embeds axiology116 as well as ethics. 
+
+ 
+ 25 
+Recommendations 
+All funding bodies, learned societies, and organisations working in and around higher education and 
+research must work together to implement the following recommendations. We have grouped 
+them into short, medium, and long term to signify which are the ‘low hanging fruit’ and 
+acknowledge some will require sustained effort and resources. However, all the recommendations 
+are linked and necessary to achieve a fully inclusive environment for disabled people in STEMM. 
+ 
+Short-term 
+1. Recognise the specific challenges and barriers for disabled researchers to 
+enter, remain, and progress in STEMM 
+Addressing the underrepresentation of disabled people in STEMM requires full recognition of the 
+impact of intersectional obstacles in education, in wider society, and of the systemic ableism 
+endemic in academic and research cultures. This can be achieved through Recommendation 2. 
+2. Improve work-based training for managers and allies around disability, 
+neurodivergence, chronic illness and intersectionality 
+Funders and institutions must mandate training for all staff and ensure that it is high-quality, 
+informed, and fit for purpose. Training should be created and delivered by experts who have 
+knowledge of STEMM and lived experience of disability, neurodivergence, and/or chronic illness. 
+Improving the quality of training will help raise awareness of intersectional and specific challenges 
+and barriers due to disability. This will help create a culture in which disability is not stigmatised or 
+seen as a liability, and negative discourses, assumptions, and stereotypes about disability are not 
+allowed to propagate. Training will also help the implementation of policies, systems, and 
+structures that build in inclusivity. 
+3. Build inclusivity into operational systems and structures, and provide clear, 
+timely pathways for requesting and receiving adjustments/accommodations 
+All systems and structures within an organisation should build in inclusivity and protect the most 
+vulnerable. Designing systems and structures to be inclusive removes the burden of declaration or 
+disclosure from disabled people and supports people who acquire disability later in life. Systems 
+and structures that are inclusive by design embody the ethos of the social model of disability by 
+removing barriers and obstacles as a matter of course. Non-disabled people will benefit from 
+clearer, fairer, more equitable systems and structures. Inclusive design committees and teams 
+should include disabled people from the start of a project and not fit it in as a tickbox exercise at 
+the end. Disability Representatives or Officers should be present in all departmental / senior 
+management planning meetings. The time and extra labour for this should be recognised. 
+Where individuals require further support, the pathway for provision of reasonable adjustments 
+and accommodations in the workplace must be clear, timely, and easy to navigate. Workplace 
+
+ 
+ 26 
+policies should also be inclusive and designed with in conjunction with disabled people in order to 
+provide a safe and inclusive workplace. 
+Recruitment and application processes should be accessible as a matter of course, with clear 
+questions provided in advance to all candidates and transparency about availability of support. 
+4. Ring-fence and publicise specific funds for disability support 
+Employing a disabled member of staff should be income neutral or preferably have a positive 
+incentive. Organisations should ring-fence funds specifically for disability support in research and 
+publicise them effectively. Where funds are held should be clear, and they should be supported 
+centrally so individual departments are not penalised for employing a higher proportion of disabled 
+workers. Disability support could include specialist technology, software, extra equipment, support 
+workers, job aides, or conference attendance for example. When funds are held by funders it is vital 
+that disabled researchers and research developers are aware of them at application so disability-
+related costs are not included within a proposal making an application less competitive in value-for-
+money terms. Ring-fenced funds would encourage host institutions and departments to support 
+disabled people’s research bids without fear of incurring unbudgeted costs for necessary 
+accommodations. Ring-fencing money would also encourage Principal Investigators to employ 
+disabled team members at no detriment to their research budget. 
+Staff should not be asked to justify their disability in order to benefit from ring-fenced funds. 
+Eligibility could be confirmed through provision of a letter from a medical or health professional, a 
+representative or advocate, confirmation of an Access to Work award, Personal Independence 
+Payment, or prior award of Disabled Students Allowance. 
+5. Improve physical environments for disabled researchers 
+Improving physical environments for disabled researchers includes improving the general office 
+space and work environment and removing potential sensory triggers. This can be achieved by 
+using unperfumed cleaning products and discouraging strong perfumes, avoiding rough fabrics and 
+surfaces, using sound insulation and providing noise cancelling headphones, and individual control 
+of light and heat levels in working spaces. Large open plan offices should be avoided where 
+possible,106 and if unavoidable people should be encouraged to choose a comfort zone based on 
+noise or light levels rather than being allocated a space. Individual offices should be available as a 
+reasonable adjustment. There should be designated quiet areas for people who need to take a 
+break from their desk or working space. Staff should have access to a facility to make hot and cold 
+drinks. A culture of presenteeism should be avoided, with hybrid and flexible working options 
+available and staff encouraged to alter their working hours and work from home if they need to 
+accommodate their health, caring, or disability needs. Reasonable adjustments should be offered 
+proactively, with named contacts able to advise on options. 
+All laboratory and experimental spaces should be designed with inclusivity and accessibility in mind 
+or adapted to increase accessibility for common impairments using best practices and discipline 
+
+ 
+ 27 
+specific recommendations (please see Appendix 4 and further resources). Departments / Schools / 
+Areas of work should establish a set of best practices, with regular checks from those responsible 
+for overall Health and Safety to ensure they are implemented. This will enable prospective disabled 
+researchers to know they are welcome in the laboratory environment, and it is ready for them to 
+work there even before there are visible role models. 
+6. Provide support for accessing research funding from pre-application to post-
+award 
+Pre-application support should be specific and appropriate to an individual’s needs. If a disabled 
+researcher is putting together a multi-million pound bid they will require support from providers 
+with experience working at this level; it is not comparable to the services offered to undergraduate 
+or post-graduate students. For example, neurodivergent researchers may need support from 
+people experienced at writing or reviewing successful funding applications to translate three-
+dimensional ideas into the format expected in a two-dimensional application form. This might 
+include understanding what is meant by the questions, or what is relevant in a narrative CV. 
+Funds that allow time to develop a proposal would support disabled researchers with heavy 
+workloads and/or caring responsibilities. Low application rates from disabled researchers14,17 
+indicate their lack of capacity to develop research proposals whilst managing their disability, 
+workload, and other responsibilities. Until workloads are routinely adjusted to accommodate 
+disabled researchers and ensure they are not having to work additional hours (or go part-time), 
+funding to cover a replacement for teaching or other duties would be equitable. Care is difficult to 
+arrange on an adhoc or one-off basis, so should be available to supplement or extend existing 
+arrangements rather than for specific events. 
+Post-award, establishing a research team and project can be daunting for any new Principal 
+Investigator. Mentors are particularly valuable for people who are underrepresented within the 
+scientific community.117,118 A dedicated mentor would help navigate challenges such as hiring team 
+members, ensuring host institutions fulfil their obligations, and development through the grant. 
+Leadership development programmes support new Principal Investigators to transition into the role 
+of a manager and leader; however, they are rarely aimed at disabled, neurodivergent, or 
+marginalised leaders. Establishing oneself as a leader where very few others look like you or have 
+your experiences demands specific coaching and support throughout the life of a grant. Funders 
+need to be proactive and ensure disabled and marginalised grant holders do not have to deal with 
+additional barriers and obstacles and can focus on their research. 
+ 
+
+ 
+ 28 
+Medium term 
+7. Endorse an intersectional framework for disability and inclusion in higher 
+education and research 
+A meaningful framework that includes incentives and sanctions, is grounded in actions rather than 
+performativity or data collection and is a condition for research funding would encourage 
+institutions to improve provision and practices around disability and inclusion. Similar schemes such 
+as Athena Swan and the Race Equality Charter are helping to improve research environments.72,73 A 
+meaningful framework for higher education and researcher should be developed from a robust 
+model such as the Disability Employment Charter119 with disabled people, advocates, and activists, 
+and improve on existing schemes.77 A dedicated framework endorsed by funders and linked to 
+eligibility for funding would help place disability on a more equal footing with other protected 
+characteristics such as gender and race. 
+8. Require organisations to be held accountable to their working practice 
+policies; with regular reviews to ensure they are accessible, inclusive, 
+embed meaningful consultation, co-design, Equality Impact 
+Assessments, and Equality/Equity, Diversity, Inclusion and Accessibility 
+(EDIA) 
+All funders and research institutions should be held accountable to the legal requirement to 
+provide reasonable adjustments for disabled people. They should be required to review all working 
+practice policies and have robust practices and monitoring processes in place to embed EDIA 
+throughout. 
+A system of peer reviews and checks, potentially linked to the dedicated disability framework, 
+would ensure that from the outset of any policy review or design underrepresented groups have 
+contributed to meaningful consultations, are represented on teams and committees driving 
+change, that the practices laid out within policies are upheld on a day-to-day basis, that equality 
+impact assessments are consultative and thorough, and that protected characteristics data for 
+employees, funding applicants, and funding successes are reported publicly. 
+Policy frameworks should include accountability for disability discrimination. Promotion and 
+progression policies must include mitigation for the impact of limitations on working hours, 
+mitigation for the lack of freedom to move for work, and mitigation for lower productivity due to 
+disability. Where possible, individuals should be able to discuss their disability, opportunities for 
+development, seek approvals and the like from more than the one person responsible for allocating 
+work to them to avoid personal bias or personality clashes acting as career blockers.68 There should 
+be clear pathways for individuals to seek redress if they feel they have been subject to ableism, 
+particularly in situations where there is a power imbalance. Policy and practice should acknowledge 
+the impact of productivity-limiting disabilities in academia for progression and promotion. 
+
+ 
+ 29 
+9. Establish Access to Work pathways for disabled researchers 
+Access to Work (ATW) aims to remove the barriers, obstacles, and additional costs disabled people 
+face when in work. In addition to the general reforms required to ensure ATW functions to achieve 
+this,120 disabled researchers require a dedicated pathway that recognises and accommodates the 
+prevalence and challenges of short-term contracts and is compatible with research funding. This 
+should also reflect the unique relationship with the employer of grant employees compared to 
+other jobs, or those with split contracts between multiple organisations (such as a hospital and 
+university). Respondents to the problem statement recommended reframing ATW support from 
+‘getting disabled people into work’ to ‘addressing the inequalities experienced by disabled people 
+and the ‘disability tax’’. Assessors would need training to understand health and safety assessments 
+and reasonable adjustments within a laboratory environment and provide options for the 
+specialised environments/equipment/types of support needed to remove additional barriers. The 
+pathway would need to have realistic fast-tracking and include options for awards to remain with 
+an individual as they move role and/or employer. Assessors and case managers would also need 
+implicit bias training to remove the misconception that educated people cannot be disabled which 
+is a frequent attitude encountered by our respondents. 
+10. Reconceptualise the indicators for ‘good’ research, researchers, and research 
+environments 
+As People, Culture, and Environment Indicators are piloted and developed as part of the 2029 
+Research Excellence Framework,121 the sector has the opportunity to formally change what is 
+measured as a metric of good research, and what constitutes a good researcher and supportive 
+research environment. Funders and institutions should capitalise on this and establish systems that 
+reward collaboration rather than competition and move away from individualism. Making STEMM 
+inclusive for all is a community endeavour not an individual effort. 
+Reviewers and panels for funding decisions should be encouraged to consider the values-based and 
+ethical approach of a proposal, and how marginalised groups might be impacted by a project’s 
+success. Funding application processes should acknowledge and recognise academic-related staff 
+who have contributed to a bid’s development as a way to gain context for the amount of 
+institutional support an applicant has had. This would avoid penalising applicants from host 
+institutions with little experience or research support and avoid concentrating funds in the same 
+researchers and institutions which are known to lack diversity.7 Within applications there should be 
+capacity to include staff in academic-related roles and encouragement for costing in technicians, 
+laboratory managers, and administrative support as a means of building in inclusivity and diversity. 
+Additional consideration should be given to interdisciplinary research and the value it can offer to a 
+discipline, field, or community. If an element of EDIA or research culture is a requirement for an 
+application, then reviewers and panels should assess how an applicant has planned to gain skills or 
+collaborate with an expert to avoid tick-box activities and replication of unsuccessful initiatives. In 
+health research, patient and public involvement and engagement should be meaningful and 
+address the lack of diversity and representation endemic in the sector.122 Similarly, public 
+
+ 
+ 30 
+engagement should be inclusive and accessible, incorporating academic-related experts and 
+consultation with marginalised groups.123 Public engagement can change people’s perspectives on 
+who can engage with and pursue careers in STEMM. 
+Panel members and reviewers of funding and promotion applications should undertake enhanced 
+training so they understand the limitations and barriers for disabled researchers and other 
+underrepresented groups, and to help eliminate negative perceptions and bias. The expectation 
+that a successful academic has to have worked across different institutions and countries should be 
+discarded, as should ideals of hyperproductivity and unrealistic expectations of output. 
+Interdisciplinary researchers should not be penalised for falling between disciplinary silos. Markers 
+of success should be extended to recognise outputs other than publications and funding. All 
+decisions judging the quality of a researcher should take into account the context in which they are 
+or have been working e.g. percentage of time allocated for research and teaching, access to 
+research development support, and previous opportunities to apply for funding or be recognised as 
+Principal Investigator. Promotions processes should allow for diverse career paths and hybrid 
+academic/academic-related roles to offset the challenges of precarity which are more often 
+experienced by underrepresented researchers. 
+11. Stop promoting and funding toxic research cultures 
+Our Problem Statement and respondents did not mention issues of bullying and harassment 
+directly. However, they are prevalent within toxic research cultures. Institutions, as the employers, 
+are responsible for investigating claims of bullying or harassment and sanctioning perpetrators, the 
+majority of whom are in positions of power responsible for managing, supporting, or blocking the 
+careers of others.7 When a perpetrator is a ‘superstar’ researcher bringing in large amounts of 
+funding, often institutional ranks close in to provide protection from sanctions even if a complaint is 
+upheld. Too often the guilty party receives a slap on the wrist while victims and their supporters are 
+asked to leave.124 It is hardly surprising that people experiencing abuse are reluctant to formally 
+complain for fear of damaging their career.25 Those who do can be subject to Non-Disclosure 
+Agreements or privacy clauses that prevent them from speaking out. Funders are more likely to 
+keep records of and blacklist institutions for submitting too many applications, or applications 
+deemed to be of low quality, than for failing to deal appropriately with cases where there has been 
+proven bullying and harassment. Without reprisal for bad behaviour and apathetic responses, 
+nothing will change. 
+Funders should make a contractual condition for host institutions that allows them as funders to 
+conduct investigations or appoint an independent proxy to do so on their behalf if they are 
+contacted with serious issues of complaints or cases of misconduct. 
+Funders should instigate sanctions for individuals and institutions found guilty of misconduct. 
+Where serious complaints of harassment have been made about an individual, investigated by an 
+independent body (the funder or their proxy) and upheld, funders should sanction them 
+appropriately so as to discourage others from such behaviour. 
+
+ 
+ 31 
+Where an institution has failed to sanction an employee found guilty of harassment or misconduct, 
+funders should step in and sanction them for a time limited period. If the institution repeats the 
+behaviour, the time should be lengthened. 
+Funders should sanction individuals and institutions that do not have or adhere to inclusive policies 
+that embed EDIA. 
+Funders should hold institutions accountable to their promises, letters of support, and 
+requirements of a grant. If an individual they fund or one of their team is being discriminated 
+against or subject to un-inclusive policies, they should act as mediators to try and find a way 
+forward, and if unsuccessful should support them and their team to move to a different host. They 
+should then blacklist the original host institution for a time limited period, and if the situation is 
+repeated the period should be lengthened. 
+12. Allow disabled academics to work part-time with no detriment to their pension 
+or opportunities for progression 
+Disabled academics are more likely to be employed on successive short-term contracts and remain 
+at more junior levels. Precarity and employment at lower grades impact finances negatively, 
+contributing to the ‘disability tax’. If a disabled academic has to reduce their hours and work part-
+time to manage their health, they will also negatively impact their long-term financial security due 
+to reduced productivity compared to full-time colleagues, and a drop in pensions contributions. 
+Disabled people are more likely to work part-time and leave the work force than non-disabled 
+people.52 
+Funders and institutions should ensure that before reducing hours, a disabled academic has 
+adjustments in place and their workload accommodates their needs and is reasonable. Without 
+these adjustments, a disabled academic’s health might be impacted because rather than working a 
+‘normal’ week they are having to overwork just in order to keep up. If, once these adjustments are 
+in place, they still need to reduce hours because of their disability, they should not be penalised 
+when there are opportunities for promotion, and they should have no detriment when it comes to 
+their pension. 
+ 
+
+ 
+ 32 
+Long-term 
+13. Create inclusive research cultures and ecosystems 
+The research ecosystem currently privileges certain groups over others.113 According to the 
+Wellcome Trust “disabled researchers and other members of underrepresented groups feel the 
+effects of bad research cultures disproportionately.”7 
+Changing culture requires buy-in from early adopters, visible leads in senior positions to leverage 
+support from others. Funders will need to utilise their power to encourage and reward positive 
+changes. Institutions will need to implement processes that recognise researchers more holistically, 
+and move away from previous models of success. Sanctions should discourage and disincentivise 
+unhealthy or toxic behaviours. 
+14. Recognise, value, and reward EDIA work in research cultures and ecosystems 
+Funders and institutions should recognise, make time for, and reward the labour that 
+underrepresented researchers devote to EDIA activities, often over and above their paid work and 
+at detriment to their own careers and health. 
+Funders should consider including full economic costings for research, and mandating their 
+expectations for how ‘buyout’ is implemented. The current funding climate in higher education has 
+placed most institutions in deficit. Restructures and redundancies have increased workloads and 
+decreased available support and time for research. Funders should consider reviewing full 
+economic costings for research so that it is not seen as a loss-making activity or luxury only open to 
+‘some’ researchers and ‘some’ institutions. When funding includes the time for researchers to carry 
+out the research in the form of buyout, there are already discrepancies over how it works in 
+practice. It is already common to hear of buyout being awarded while workloads remain the same. 
+Some institutions allocate externally funded buyout of time on top of any internal allocation of time 
+for research. Others use external funding to ‘pay for’ the internal allocation of research time, 
+meaning that bringing in funds can increase workload yet offer no relief. The tasks included in 
+internal allocations for research time vary, as do applications of FTE (full time equivalent) in 
+allocating externally funded time.** Research funding is already highly competitive and disabled 
+researchers and other marginalised groups are at a huge disadvantage when it comes to applying 
+for and winning awards. Increasing expectations and competition while reducing the gains in the 
+form of time to do a project will further disadvantage disabled and underrepresented researchers. 
+ 
+** If a researcher has costed in 0.2 FTE for an externally funded research project and 1.0 FTE = 37.5 hours/week, the 
+expectation might be that they spend 0.2 FTE or 7.5 hours/week of their time on that project with their workload 
+adjusted to accommodate this. However, some institutions would calculate the same externally funded buyout as 0.2 of 
+time allocated for teaching rather than the full working week. If a researcher has a contract specifying 60% teaching, 
+20% research, 20% service and the institutional allocation is 0.2 of 22.5 hours/week. Their workload would only be 
+adjusted to allow for 4.5 hours/week to be spent on the project. If the institution treated external funds as ‘paying for’ 
+any allocated research time, a researcher on the same contract would not be given an adjustment of workload at all. 
+
+ 
+ 33 
+There should be funding available for all institutions to dedicate to research culture, research 
+environment, and EDIA activities. Concentrating it within institutions that are already successful at 
+securing large funding awards will ultimately damage the sector and decrease diversity in STEMM. 
+15. Change equality law to recognise the impact of intersectional discrimination 
+Changing equality law is a large undertaking, and the specifics of this will be the subject of a 
+separate NADSN White Paper. With regard to establishing inclusive environments for disabled 
+people in STEMM, we recommend funders, learned societies, higher education and research 
+institutions work together across political parties and support changes to equality law so it is 
+inclusive and intersectional, and recognise that intersectional discrimination is greater than the 
+sum of its parts. 
+ 
+
+ 
+ 34 
+Threats 
+This creative non-fictional vignette, as indicated by the citations included throughout, is derived from 
+wider experiences of disabled people as well as our collaborative autoethnography. Together with the 
+vignette ‘Harm’ (see Appendix 5) it illustrates new threats to establishing fully inclusive environments 
+for disabled people in STEMM. 
+Threats to progress and inclusion can arise quickly and unexpectedly. They result from malicious 
+intent or as the unintended consequences of seemingly unrelated decisions; underlying the need for 
+embedded Equality Impact Assessments, accountability, and a holistic strategic approach to policies 
+and practices. 
+You would think that given who I am and what I have been through that I 
+would define the greatest threat to my existence the Do Not Resuscitate 
+order given to me without my knowledge when I had COVID-19.125 If you 
+were disabled, actually; if you were anyone with an ‘underlying’ or ‘pre-
+existing’ medical condition, you were suddenly disposable.126 It was 
+impossible to ignore just how little our so-called society valued your life. 
+Literally, if they could give that ventilator to someone else they would and 
+hang it being discrimination.127,128 
+I know anti-disability rhetoric is not new.129 Disabled people are dangerous,130 
+sub-human or monstrous. Anyone who does not try to mask their differences is 
+a pariah.131 We are ‘undeserving’ and out to ‘cheat the system’.132 Nothing 
+but a drain on the economy.133 To use the rhetoric of 1930s Germany we are 
+‘useless eaters’.134 A burden.135,136 It is hardly surprising that we become 
+victims of hate crime137–140 so easily. We are infantilised141 and vilified. Either 
+that or we are held up for titillation as ‘inspiration’ which is equally 
+dehumanising.142 
+More than 200,000 people (by their count) are on disability benefits and want 
+to work.143 If governments want to reduce economic inactivity144 and support 
+disabled people to get and keep employment145 they need to make the 
+systems add up. Yes we need reform, but they need to consult with and listen 
+to disabled people as they do this. What happened to ‘Nothing About Us 
+Without Us?85 
+
+ 
+ 35 
+PIP [Personal Independence Payments] has nothing to do with work, it is 
+supposed to help offset some of the additional costs that come with being 
+disabled. The assessments are already needlessly traumatic, degrading,146 
+and overwhelmingly WRONG.147–149 The majority of decisions are overturned; 
+but apparently they want to ‘tighten up’ and start to use PIP as a gateway 
+for work-based benefits. How much more time, energy, and money will this 
+waste? 
+Access to Work was a lifeline originally;120 supporting disabled people over 
+and above employers’ reasonable adjustments.150 Even though the numbers 
+of people being approved for support grew to 67,720 in 2024;89 that is still only 
+1% of the 5.5 million employed disabled people in the UK.52 Rather than 
+extending something which is working though, recent unpublished changes 
+seem aimed at “equitable distribution of resources” a.k.a. [alternatively 
+known as] cutting people’s support for no apparent reason. 
+There were 5.5 million disabled people in the UK in 202452 and the 
+government is failing us badly.151 Disabled people are less likely to be 
+recruited.152 There has been little positive impact from schemes like ‘Disability 
+Confident’ or ‘Two Ticks.’77,78 
+It’s not rocket science. 
+Except when rocket science is actually your job… Why aren’t disabled 
+scientists being funded?11 Why are there so few disabled medical doctors153 
+and academics?65 Why do disabled people face career blocking,68 bullying,7 
+and fail to progress?18 People are scared of saying they are disabled.154 
+Coming out as a neurodivergent scholar56 becomes infinitely more risky when 
+autism is seen as a danger to society.130,155 
+If your job is stacking boxes and you have a physical disability, it is easy to 
+imagine how a support worker could help. Stacking boxes is something you 
+can do, but it is harder. It takes you longer and will hurt you in a way that it 
+doesn’t hurt other people. I have nothing against anyone stacking boxes, but 
+I am a scientist. I am a disabled scientist.10 When I need a support worker they 
+
+ 
+ 36 
+have to be able to handle scientific equipment that my disability prevents 
+me from using as quickly or as easily. My support worker doesn’t do my job for 
+me – it is very clearly MY work. MY research. They enable me to do MY job. 
+Academic work is complex at the best of times.156,157 It is not like stacking 
+boxes.110,158 If you are neurodivergent you might need support with logistics, 
+understanding sub-texts in conversations, or opaque university systems to 
+book diaries and handle travel. Just like the box stacker, it’s not that they 
+can’t do it, just that their disability means they spend a disproportionate 
+amount of time and energy doing so, and they pay a cost others don’t. 
+Disabled academics are disadvantaged and blocked at every turn, 
+particularly if they are women or part of another marginalised group.109 This 
+government seems to be deciding what work disabled people can do. I think 
+they are happier with them stacking boxes than doing science or anything 
+professional. The job market was already tough.159–161 Now there are so many 
+academic careers at risk from restructuring and redundancies in the UK it will 
+only get worse.162 
+With support I can thrive and pay taxes. Not only is my health better when I 
+am working,163 but because of the kind of work I do, I am also making a 
+contribution and helping to solve global challenges.30 
+Arbitrary and unexplained reductions in that support have impacted my 
+ability to perform, be productive, and have put my job in jeopardy. The stress 
+of dealing with it all has taken a toll on my physical and mental health. I was 
+put on medical leave and subjected to performance management 
+processes. Given the university needs to cut staff costs I have no confidence 
+at all that I will be able to retain my employment despite my award-winning 
+teaching and research. Ironically, just last year I was named by the Shaw Trust 
+as one of the 100 most influential disabled people in the UK. Now I am at risk 
+of joining those despised as ‘economically inactive’. 
+It’s easier to ‘other’ us than include us.164 
+
+ 
+ 37 
+Conclusion 
+Without addressing threats and implementing strategies to retain a diverse STEMM workforce, the 
+UK will lose talent and economic viability. It is more critical than ever to ensure all staff are 
+welcomed and all talents are encouraged. Inclusion is an action that will help secure future 
+economic growth. As such, it should not have to be justified. Although this White Paper focusses on 
+research and the higher education sector, the recommendations we have formulated apply equally 
+to the private sector, the healthcare sector such as the National Health Service, and the civil 
+service. 
+Further resources 
+● https://disc.hw.ac.uk/ 
+● https://www.scope.org.uk/campaigns/disability-perception-gap/ 
+● https://www.nao.org.uk/report/supporting-disabled-people-to-work/ 
+● https://royalsociety.org/topics-policy/diversity-in-science/disability-reports/ 
+● https://www.uclpress.co.uk/products/123203 
+● https://www.nadsn-uk.org/immune-system-disorders-in-the-workplace/ 
+ 
+ 
+
+ 
+ 38 
+References 
+1. Employment of disabled people 2022. GOV.UK. Accessed August 14, 2023. 
+https://www.gov.uk/government/statistics/the-employment-of-disabled-people-
+2022/employment-of-disabled-people-2022 
+2. Who’s working in HE?: Personal characteristics | HESA. Accessed December 7, 2024. 
+https://www.hesa.ac.uk/data-and-analysis/staff/working-in-he/characteristics#acempfunchar 
+3. Ferrey AE, Moore L, Jolly JK. Renegotiating identity: The cognitive load of evaluating identity and self-
+presentation after vision loss. SSM - Qual Res Health. 2024;5:100372. 
+doi:10.1016/j.ssmqr.2023.100372 
+4. Diversity and inclusion in STEM - Science and Technology Committee. Accessed March 24, 2023. 
+https://publications.parliament.uk/pa/cm5803/cmselect/cmsctech/95/summary.html 
+5. Royal Society. A Picture of the UK Scientific Workforce: Diversity Data Analysis for the Royal Society. 
+Royal Society; 2014. https://royalsociety.org/-
+/media/Royal_Society_Content/policy/projects/leading-way-diversity/picture-uk-scientific-
+workforce/070314-diversity-report.pdf 
+6. Joice W, Tetlow A. Disability STEM Data for Students and Academic Staff in Higher Education 
+2007/08 to 2018/19. Royal Society; 2021. https://royalsociety.org/-/media/policy/topics/diversity-
+in-science/210118-disability-STEM-data-for-students-and-staff-in-higher-education.pdf. 
+7. Wellcome. What Researchers Think about the Culture They Work In. Wellcome; 2020. 
+8. HESA. Who’s Working in HE? Higher Education Statisticts Authority; 2022. Accessed December 15, 
+2022. https://www.hesa.ac.uk/data-and-analysis/staff/working-in-he/characteristics 
+9. Vasquez K. Disabled scientists excluded from the lab | Opinion | Chemistry World. R Soc Chemstiry. 
+Published online 2020. https://www.chemistryworld.com/opinion/disabled-scientists-excluded-
+from-the-lab/4012695.article 
+10. Sarju J. Nothing About Us Without Us – Towards Genuine Inclusion of Disabled Scientists and 
+Science Students Post Pandemic. Chem Eur J. Published online 2021. 
+doi:https://doi.org/10.1002/chem.202100268 
+11. Brock J. “Textbook case” of disability discrimination in grant applications. Nat Index. Published 
+online 2021. https://www.natureindex.com/news-blog/textbook-case-of-disability-
+discrimination-in-research-grant-applications 
+12. Leigh J, Sarju J, Slater A. Can science be inclusive? Belonging and identity when you are disabled, 
+chronically ill, or neurodivergent. In: Kandiko-Smith C, Kingsbury M, eds. Belonging in STEM. UCL 
+Press; 2024. 
+13. UKRI. Diversity Results for UKRI Funds. UK Research and Innovation; 2020. 
+14. UKRI. UKRI Diversity Data for Funding Applicants and Awardees 2020-21 Update. UKRI; 2021. 
+Accessed February 4, 2025. https://www.ukri.org/wp-content/uploads/2022/12/UKRI-151222-
+Main-report-UKRI-diversity-data-for-funding-applicants-and-awardees-2020-to-2021-update.pdf 
+
+ 
+ 39 
+15. Royal Society of Chemistry. Diversity Landscape of the Chemical Sciences. Royal Society of 
+Chemistry; 2018. 
+16. McWhinne S. The Demographics and Research Interests of the UK Astronomy and Geophysics 
+Communities 2016. The Royal Astronomical Society; 2017. 
+17. TigerInSTEMM. Accessibility in STEM: Barriers facing disabled individuals in research funding 
+processe. Published online 2019. Accessed September 6, 2021. 
+https://osf.io/preprints/osf/uzsdk_v1 
+18. CRAC. Qualitative Research on Barriers to Progression of Disabled Scientists. Careers Research & 
+Advisory Centre; 2020. 
+19. Crenshaw K. Demarginalizing the Intersection of Race and Sex: A Black Feminist Cririquw of 
+Antidiscrimination Doctrine, Feminist Theory, and Antiracist Politics. University of Chicago Legal 
+Forum; 1989. 
+20. Menon B. The missing colours of chemistry. Nat Chem. 2021;13:101-106. 
+21. McGee E, Robinson W, eds. Diversifying STEM: Multidisciplinary Perspectives on Race and Gender. 
+Rutgers University Press; 2020. 
+22. Acheampong A. Inequality of Gender Participation of Females in STEM Disciplines in Higher 
+Education, A Case Study of KNUST: Ghana. University of Oslo, Norway; 2014. 
+23. Royal Society of Chemistry. Breaking the Barriers: Women’s Retention and Progression in the 
+Chemical Sciences. Royal Society of Chemistry; 2019. 
+24. Institute of Physics, Royal Astronomical Society, Royal Society of Chemistry. EXPLORING THE 
+WORKPLACE FOR LGBT+ PHYSICAL SCIENTISTS. IOP, RAS, RCS; 2019. 
+25. Leigh J, Hiscock J, Haynes C, et al. Women In Supramolecular Chemistry: Collectively Crafting the 
+Rhythms of Our Work and Lives in STEM. Policy Press; 2022. 
+https://policy.bristoluniversitypress.co.uk/women-in-supramolecular-chemistry 
+26. Medin D, Lee C. Diversity Makes Better Science. APS Obs. 2012;25. Accessed July 20, 2023. 
+https://www.psychologicalscience.org/observer/diversity-makes-better-science 
+27. APPG. All-Party Parliamentary Group on Diversity and Inclusion in STEM: Equity in STEM. British 
+Science Association; 2021. 
+https://www.britishscienceassociation.org/Handlers/Download.ashx?IDMF=3d51130a-458b-
+4363-9b2b-d197afc8382a 
+28. APPG. Health Disaparities: Why Medical Research Is a Crucial Tool for Change. All Party 
+Parliamentary Group on Medical Research; 2023. Accessed February 20, 2024. 
+https://www.amrc.org.uk/Handlers/Download.ashx?IDMF=455298b8-fc5d-4eb5-99a7-
+23da2c690489 
+29. Anand P, Bots P, Gagnon J, et al. You Can’t Climb a Broken Ladder: Examining Underrepresentation 
+of Multiply-Disadvantaged Groups in Secure and Senior Roles in UK Geochemistry. Earth Sci Syst 
+Soc. 2024;4:10098. doi:10.3389/esss.2024.10098 
+
+ 
+ 40 
+30. Sikimić V. Epistemic Inclusion as the Key to Benefiting from Cognitive Diversity in Science. Soc 
+Epistemol. 2023;37(6):753-765. doi:10.1080/02691728.2023.2258831 
+31. Monteleone R. Forgotten publics: considering disabled perspectives in responsible research and 
+innovation. J Responsible Innov. 2020;7(sup1):84-91. doi:10.1080/23299460.2020.1831366 
+32. Participation E. Equality Act 2010. Accessed July 27, 2023. 
+https://www.legislation.gov.uk/ukpga/2010/15/contents 
+33. Brandsma JW, Lakerveld-Heyl K, Van Ravensberg CD, Heerkens YF. Reflection on the definition of 
+impairment and disability as defined by the World Health Organization. Disabil Rehabil. 
+1995;17(3-4):119-127. doi:10.3109/09638289509166706 
+34. Turner D. Super Humans or Scroungers.; 2012. http://www.historyandpolicy.org/opinion-
+articles/articles/superhumans-or-scroungers-disability-past-and-present 
+35. Harris L. Exploring the Effect of Disability Microaggressions on Sense of Belonging and Participation 
+in College Classrooms. School of Psychology, Utah State University; 2017. 
+36. Oliver M. The social model of disability: Thirty years on. Disabil Soc. 2013;28(7):1024-1026. 
+37. Mitra S. The Capability Approach and Disability. J Disabil Policy Stud. 2006;16(4):236-247. 
+doi:10.1177/10442073060160040501 
+38. Swain J, French S. Towards an Affirmation Model of Disability. Disabil Soc. 2000;15(4):569-582. 
+doi:10.1080/09687590050058189 
+39. Finesilver C, Leigh J, Brown N. Invisible disability, unacknowledged diversity. In: Brown N, Leigh J, 
+eds. Ableism in Academia: Theorising Experiences of Disabilities and Chronic Illnesses in Higher 
+Education. UCL Press; 2020:143-160. 
+40. Deal M. Disabled people’s attitudes toward other impairment groups: a hierarchy of impairments. 
+Disabil Soc. 2003;18(7):897-910. doi:10.1080/0968759032000127317 
+41. Kapadia D, Zhang J, Salway S, Nazroo J, Booth A. Ethnic Inequalities in Healthcare: A Rapid 
+Evidence Review. 
+42. WHO. Global report on health equity for persons with disabilities. 2023. Accessed June 2, 2024. 
+https://www.who.int/publications-detail-redirect/9789240063600 
+43. Allan J, Harwood V. The Risk Factors For Psy-Diagnosis? Gender, Racialization and Social Class. In: 
+Bendix Petersen E, Millei Z, eds. Interrupting the Psy-Disciplines in Education. Palgrave Macmillan 
+UK; 2016:185-202. doi:10.1057/978-1-137-51305-2_11 
+44. Mandell DS, Wiggins LD, Carpenter LA, et al. Racial/Ethnic Disparities in the Identification of 
+Children With Autism Spectrum Disorders. Am J Public Health. 2009;99(3):493-498. 
+doi:10.2105/AJPH.2007.131243 
+45. Lindsay S, Fuentes K, Ragunathan S, Lamaj L, Dyson J. Ableism within health care professions: a 
+systematic review of the experiences and impact of discrimination against health care providers 
+with disabilities. Disabil Rehabil. 2023;45(17):2715-2731. doi:10.1080/09638288.2022.2107086 
+
+ 
+ 41 
+46. Protected characteristics by disability status, England and Wales: Census 2021 - Office for 
+National Statistics. Accessed December 5, 2024. 
+https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/disability/articles
+/protectedcharacteristicsbydisabilitystatusenglandandwalescensus2021/2023-05-17 
+47. UN. Convention on the Rights of Persons with Disabilities (CRPD). Published online 2006. 
+48. What reasonable adjustments are - Reasonable adjustments at work. Acas. August 13, 2024. 
+Accessed December 11, 2024. https://www.acas.org.uk/reasonable-adjustments 
+49. Access to Work: staff guide. GOV.UK. Accessed December 10, 2024. 
+https://www.gov.uk/government/publications/access-to-work-staff-guide/access-to-work-staff-
+guide 
+50. Sayce L. Getting in, Staying in and Getting on: Disability Employment Support Fit for the Future. A 
+Review to Government. UK GOV; 2011. 
+51. Shew A. Let COVID-19 expand awareness of disability tech. Nature. 2020;581(7806):9-9. 
+doi:10.1038/d41586-020-01312-w 
+52. The employment of disabled people 2024. GOV.UK. Accessed December 5, 2024. 
+https://www.gov.uk/government/statistics/the-employment-of-disabled-people-2024/the-
+employment-of-disabled-people-2024 
+53. Disability pay gaps in the UK - Office for National Statistics. Accessed December 6, 2024. 
+https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/disability/articles
+/disabilitypaygapsintheuk/2014to2023 
+54. The Buckland Review of Autism Employment: report and recommendations. GOV.UK. Accessed 
+December 5, 2024. https://www.gov.uk/government/publications/the-buckland-review-of-
+autism-employment-report-and-recommendations/the-buckland-review-of-autism-employment-
+report-and-recommendations 
+55. Abdelnour E, Jansen MO, Gold JA. ADHD Diagnostic Trends: Increased Recognition or 
+Overdiagnosis? Mo Med. 2022;119(5):467-473. 
+56. Bertilsdotter Rosqvist H, Hultman L, Österborg Wiklund S, Nygren A, Storm P, Sandberg G. Naming 
+ourselves, becoming neurodivergent scholars. Disabil Soc. 0(0):1-20. 
+doi:10.1080/09687599.2023.2271155 
+57. Garcia E. We’re Not Broken: Changing the Autism Conversation. Houghton Mifflin Harcourt; 2021. 
+58. Stickley A, Koyanagi A, Takahashi H, Ruchkin V, Inoue Y, Kamio Y. Attention-deficit/hyperactivity 
+disorder and physical multimorbidity: A population-based study. Eur Psychiatry. 2017;45:227-
+234. doi:10.1016/j.eurpsy.2017.07.010 
+59. Rydzewska E, Dunn K, Cooper SA. Umbrella systematic review of systematic reviews and meta-
+analyses on comorbid physical conditions in people with autism spectrum disorder. Br J 
+Psychiatry. 2021;218(1):10-19. doi:10.1192/bjp.2020.167 
+60. Outcomes for disabled people in the UK - Office for National Statistics. Accessed December 7, 
+2024. 
+
+ 
+ 42 
+https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/disability/articles
+/outcomesfordisabledpeopleintheuk/2021 
+61. Table 44 - HE student enrolments by subject of study and disability marker 2014/15 to 2022/23 | 
+HESA. Accessed December 7, 2024. https://www.hesa.ac.uk/data-and-analysis/students/table-
+44#notes 
+62. Pugh E. Assessment of UKRI’s Terms and Conditions of Training Grants from an Equality, Diversity 
+and Inclusion Perspective. Prepared for UKRI. Advance-HE; 2023. 
+63. Disability in the chemical sciences. Royal Society of Chemistry. Accessed December 7, 2024. 
+https://www.rsc.org/policy-evidence-campaigns/inclusion-diversity/surveys-reports-
+campaigns/disability-in-the-chemical-sciences/ 
+64. Hiscott L. Percentage of disabled physicists in the UK has halved in one year, finds survey. Physics 
+World. September 22, 2023. Accessed December 7, 2024. https://physicsworld.com/percentage-
+of-disabled-physicists-in-the-uk-has-halved-in-one-year-finds-survey/ 
+65. Brown N, Leigh J. Ableism in academia: Where are all the disabled and ill academics? Disabil Soc. 
+2018;33(6):985-989. 
+66. Brown N, Leigh J. Ableism in Academia: Theorising Experiences of Disabilities and Chronic Illnesses 
+in Higher Education. (Brown N, Leigh J, eds.). UCL Press; 2020. 
+67. Disability in Higher Education: Investigating Identity, Stigma and Disclosure amongst Academics: 
+Amazon.co.uk: Brewer, Gayle: 9780335250318: Books. Accessed December 7, 2024. 
+https://www.amazon.co.uk/Disability-Higher-Education-Gayle-Brewer/dp/0335250319 
+68. Bonsall A, Pickard-Smith K, Spaeth E, Alexis-Martin B, Leigh J. Stranger than fiction: that lying, 
+conniving, disabled snitch … burn, burn, burn the witch! Fem Rev. 2024;(136):1-7. doi:DOI: 
+10.1177/01417789241232664 
+69. Tsouroufli M. An examination of the Athena SWAN initiatives in the UK: A critical reflection. In: 
+Crimmins G, ed. Strategies for Resisting Sexism in the Academy: Higher Education, Gender and 
+Intersectionality. Palgrave Macmillan; 2019:35-54. 
+70. Ovseiko PV, Taylor M, Gilligan RE, et al. Effect of Athena SWAN funding incentives on women’s 
+research leadership. BMJ. 2020;371:m3975. doi:10.1136/bmj.m3975 
+71. Bhopal K, Pitkin C. Investigating Higher Education Institutions and Their Views on the Race Equality 
+Charter. UCU; 2018. https://www.ucu.org.uk/HEIs-and-the-Race-Equality-Charter 
+72. Campion K, Clark K. Revitalising race equality policy? Assessing the impact of the Race Equality 
+Charter mark for British universities. Race Ethn Educ. Published online May 2021:1-20. 
+doi:10.1080/13613324.2021.1924133 
+73. McKinnon C. How Athena SWAN has improved research culture. The Biochemist. 2020;42(3):6-10. 
+doi:10.1042/BIO20200019 
+74. Henderson H, Bhopal K. Advancing Equality in Higher Education: An Exploratory Study of the Athena 
+SWAN and Race Equality Charters. University of Birmingham Centre for Research in Race and 
+Education; 2019. 
+
+ 
+ 43 
+75. Ahmed S. On Being Included: Racism and Diversity in Institutional Life. Duke University Press; 
+2012. 
+76. Wolbring G, Lillywhite A. Equity/Equality, Diversity, and Inclusion (EDI) in Universities: The Case of 
+Disabled People. Societies. 2021;11(2):49. doi:10.3390/soc11020049 
+77. Hoque K, Bacon N, Allen D. Do employers’ equality certifications improve equality outcomes? An 
+assessment of the United Kingdom’s Two Ticks and Disability Confident schemes. Br J Ind Relat. 
+2024;62(4):734-759. doi:10.1111/bjir.12799 
+78. Hoque K, Bacon N, Parr D. Employer disability practice in Britain: assessing the impact of the 
+Positive About Disabled People ‘Two Ticks’ symbol. Work Employ Soc. 2014;28(3):430-451. 
+doi:10.1177/0950017012472757 
+79. Bochner A, Ellis C. Evocative Autoethnography: Writing Lives and Telling Stories. Routledge; 2016. 
+80. Chang H, Ngunjiri F, Hernandez KA. Collaborative Autoethnography. Routledge; 2016. 
+81. Allen-Collinson J, Hockey J. Autoethnography: self indulgence or rigourous methodology? In: 
+McNamee M, ed. Philosophy and the Sciences of Exercise, Health and Sport: Critical Perspectives 
+on Research Methods. Routledge; 2005:187-202. 
+82. Leavy P. Fiction as Research Practice: Short Stories, Novellas, and Novels. Routledge; 2016. 
+83. Leigh J. The Borders of Qualitative Research: Navigating the Spaces Where Therapy, Education, Art, 
+and Science Connect. Bristol University Press; 2024. 
+https://policy.bristoluniversitypress.co.uk/borders-of-qualitative-research 
+84. Wilson S. Haunting and the knowing and showing of qualitative research. Sociol Rev. Published 
+online 2018. doi:10.1177/0038026118769843 
+85. Charlton JI. Nothing About Us Without Us: Disability Oppression and Empowerment. 1st ed. 
+University of California Press; 1998. Accessed August 15, 2023. 
+https://www.jstor.org/stable/10.1525/j.ctt1pnqn9 
+86. Egambaram O, Hilton K, Leigh J, et al. The Future of Laboratory Chemistry Learning and Teaching 
+Must be Accessible. J Chem Educ. 2022;99(12):3814-3821. 
+doi:https://doi.org/10.1021/acs.jchemed.2c00328. 
+87. Inckle K. Unreasonable adjustments: the additional unpaid labour of academics with disabilities. 
+Disabil Soc. 2018;33(8):1372-1376. doi:10.1080/09687599.2018.1480263 
+88. Spina N, Harris J, Bailey S, Goff M. “Making It” as a Contract Researcher: A Pragmatic Look at 
+Precarious Work. Routledge; 2020. 
+89. Access to Work statistics: April 2007 to March 2024. GOV.UK. Accessed February 18, 2025. 
+https://www.gov.uk/government/statistics/access-to-work-statistics-april-2007-to-march-
+2024/access-to-work-statistics-april-2007-to-march-2024 
+90. Ayres Z. Managing Your Mental Health during Your PhD. Springer; 2022. Accessed January 17, 2023. 
+https://link.springer.com/book/10.1007/978-3-031-14194-2 
+
+ 
+ 44 
+91. Evans TM, Bira L, Gastelum JB, Weiss LT, Vanderford NL. Evidence for a mental health crisis in 
+graduate education. Nat Biotechnol. 2018;36(3):282-284. doi:10.1038/nbt.4089 
+92. Leigh J, Brown N. Internalised ableism: Of the political and the personal. In: Brown N, Leigh J, eds. 
+Ableism in Academia: Theorising Experiences of Disabilities and Chronic Illnesses in Higher 
+Education. UCL Press; 2020:164-181. 
+93. The Experience of Academics in STEM Subjects.; 2021. Accessed December 7, 2024. 
+https://www.youtube.com/watch?v=UnHTb1JxKS8 
+94. Estermann T, Bennetot Pruvot E, Kupriyanova V, Stoyanova H. The Impact of the Covid-19 Crisis on 
+University Funding in Europe Lessons Learnt from the 2008 Global Financial Crisis. European 
+University Association; 2020. https://eua.eu/resources/publications/927:the-impact-of-the-
+covid-19-crisis-on-university-funding-in-europe.html 
+95. Nature Editorial. A pandemic is no time to cut the European Research Council’s funding. Nature. 
+2020;585(323-4). https://www.nature.com/articles/d41586-020-02620-x 
+96. Dougall I, Weick M, Vasiljevic M. Inside UK Universities: Staff Mental Health and Wellbeing during 
+the Coronavirus Pandemic. Durham University; 2021. 
+97. Abbott A. COVID’s mental-health toll: how scientists are tracking a surge in depression. Nature. 
+https://www.nature.com/articles/d41586-021-00175-z. February 3, 2021. 
+98. Leigh JS, Hiscock JR, Koops S, et al. Managing research throughout COVID-19: Lived experiences of 
+supramolecular chemists. CHEM. 2022;8(2):299-311. 
+99. Flaherty C. Inside Higher Education.; 2020. 
+https://www.insidehighered.com/news/2020/04/21/early-journal-submission-data-suggest-
+covid-19-tanking-womens-research-productivity 
+100. Gabster BP, van Daalen K, Dhatt R, Barry M. Challenges for the female academic during the 
+COVID-19 pandemic. Lancet Lond Engl. 2020;395(10242):1968-1970. doi:10.1016/S0140-
+6736(20)31412-4 
+101. Kovarovic K ‘Fire’, Dixon M, Hall K, Westmarland N. The Impact of Covid-19 on Mothers Working in 
+UK Higher Education Institutions. University of Durham; 2021. 
+https://www.dur.ac.uk/resources/lets.network/MothersinHEandCovid-
+19ReportbyMAMSNetworkJune2021.pdf 
+102. Ministry of Health, New Zealand Government. COVID-19 Risk Among Disabled People. Ministry of 
+Health; 2023. Accessed February 4, 2025. https://www.health.govt.nz/system/files/2023-
+03/covid-19-risk-among-disabled-people-15-mar.pdf 
+103. Lund EM, Forber-Pratt AJ, Wilson C, Mona LR. The COVID-19 pandemic, stress, and trauma in the 
+disability community: A call to action. Rehabil Psychol. 2020;65(4):313-322. 
+doi:10.1037/rep0000368 
+104. McBride-Henry K, Nazari Orakani S, Good G, Roguski M, Officer TN. Disabled people’s 
+experiences accessing healthcare services during the COVID-19 pandemic: a scoping review. 
+BMC Health Serv Res. 2023;23(1):346. doi:10.1186/s12913-023-09336-4 
+
+ 
+ 45 
+105. Brown N, Nicholson J, Campbell FK, Patel M, Knight R, Moore S. COVID-19 Post-lockdown: 
+Perspectives, implications and strategies for disabled staff. Alter. 2021;15(3):262-269. 
+doi:10.1016/j.alter.2020.12.005 
+106. Marrewijk AV, Ende LV den. Changing academic work places: the introduction of open-plan 
+offices in universities. J Organ Change Manag. 2018;31(5):1119-1137. doi:10.1108/JOCM-02-
+2017-0039 
+107. Bodin M. University redundancies, furloughs and pay cuts might loom amid the pandemic, survey 
+finds. Nature. Published online July 2020. 
+108. Anon. “I have been cowed into silence”: An academic speaks out against redundancy. Univ Bus 
+Staff. Published online August 2020. https://universitybusiness.co.uk/comment/covid-19-
+redundancies-in-higher-education-an-academic-speaks-out/ 
+109. Sang K. The ideal academic: the intersections of disability and gender in academic careers. In: 
+10th International Critical Management Studies Conference, Liverpool, 3-5 July. ; 2017. 
+https://www.edgehill.ac.uk/business/files/2017/06/Conference-Programme-5-June.pdf%0A%0A 
+110. Sang K, Finkel R, Richards J. ‘Being an academic is not a 9–5 job’: long working hours and the 
+‘ideal worker’ in UK academia. Labour Ind. 2015;25(3):235-249. 
+111. Academics Anonymous. If I tell my university about my disability will I be seen as the weakest 
+link? The Guardian. https://www.theguardian.com/higher-education-network/2017/dec/08/if-i-
+tell-my-university-about-my-disability-will-i-be-seen-as-a-weak-link. 2017. 
+112. Thomas R. Covid patients wrongly issued with ‘do not resuscitate’ orders, watchdog finds. The 
+Independent. https://www.independent.co.uk/news/health/do-not-resuscitate-patients-
+pandemic-covid-b2512054.html. March 14, 2024. Accessed April 25, 2024. 
+113. Cech EA. The intersectional privilege of white able-bodied heterosexual men in STEM. Sci Adv. 
+2022;8(24):eabo1558. doi:10.1126/sciadv.abo1558 
+114. Immune System Disorders in the Workplace. NADSN. January 14, 2021. Accessed December 11, 
+2024. https://www.nadsn-uk.org/immune-system-disorders-in-the-workplace/ 
+115. Thomas D, Jivraj S. Towards decolonising the university: A kaleidoscope for empowered action. 
+September 29, 2020. Accessed July 5, 2023. https://counterpress.org.uk/publications/towards-
+decolonising-the-university/ 
+116. Kara H. Research Ethics in the Real World: Euro-Western and Indigienous Perspectives. Policy 
+Press; 2018. 
+117. Chapman D, Wilkerson A, eds. From Student to Scholar: Mentoring Underrepresented Scholars in 
+the Academy. Palgrave Macmillan; 2020. 
+118. Laube H. Building connections across differences: Faculty mentoring as institutional change. In: 
+Crimmins G, ed. Strategies for Resisting Sexism in the Academy: Higher Education, Gender and 
+Intersectionality. Palgrave Macmillan; 2019:95-113. 
+119. Disability Employment Charter. The Disability Employment Charter. 2016. Accessed January 9, 
+2025. https://www.disabilityemploymentcharter.org 
+
+ 
+ 46 
+120. Hemsworth O. Jacqueline Winstanley calls for a Paradigm Shift. Disability Power 100. December 
+4, 2024. Accessed January 9, 2025. https://disabilitypower100.com/2024/12/04/jacqueline-
+winstanley-calls-for-a-paradigm-shift/ 
+121. Panellists confirmed for REF People, Culture and Environment pilot – REF 2029. Accessed 
+December 12, 2024. https://2029.ref.ac.uk/news/panellists-confirmed-for-ref-people-culture-
+and-environment-pilot/ 
+122. Varkonyi-Sepp J. Setting up and Initiating Patient Public Involvement (PPI) as a Collaborative 
+Process Benefits Research in Its Early Stages - PDF Free Download.; 2017. Accessed September 
+22, 2022. https://docplayer.net/224637044-Setting-up-and-initiating-patient-public-involvement-
+ppi-as-a-collaborative-process-benefits-research-in-its-early-stages.html 
+123. Watermeyer R. Lost in the “third space”: the impact of public engagement in higher education on 
+academic identity, research practice and career progression. Eur J High Educ. 2015;5(3):331-347. 
+124. Ahmed S. Complaint! Duke University Press; 2021. 
+125. Bledsoe TA, Jokela JA, Deep NN, Snyder Sulmasy L. Universal Do-Not-Resuscitate Orders, Social 
+Worth, and Life-Years: Opposing Discriminatory Approaches to the Allocation of Resources 
+During the COVID-19 Pandemic and Other Health System Catastrophes. Ann Intern Med. 
+2020;173(3):230-232. doi:10.7326/M20-1862 
+126. Butler-Warke A, Hood C. Disposable Humans?; 2020. https://www.cost-ofliving.net/disposable-
+humans/?fbclid=IwAR1y8oOgXB9BHffATv7YJfT7Exg3Xp3uJijXB5fIFuCeYdCQND8e_MaG2B4 
+127. Powell RM. Applying the Health Justice Framework to Address Health and Health Care Inequities 
+Experienced by People with Disabilities during and after COVID-19. Wash Law Rev. 2021;96:93. 
+128. Bagenstos SR. Who Gets the Ventilator? Disability Discrimination in COVID-19 Medical-Rationing 
+Protocols. Yale Law J Forum. 2020;130:1. 
+129. Dolmage JT. Disability Rhetoric. Syracuse University Press; 2014. Accessed February 18, 2025. 
+https://www.jstor.org/stable/j.ctt1j2n73m 
+130. Diament M. Trump Establishes Commission Targeting Autism, Other Conditions. Disability Scoop. 
+February 18, 2025. Accessed February 18, 2025. 
+https://www.disabilityscoop.com/2025/02/18/trump-establishes-commission-targeting-autism-
+other-conditions/31304/ 
+131. Romanska M. The Bionic Body: Disability, Technology and Posthumanism. Body Space Technol. 
+2024;23(1). doi:10.16995/bst.11480 
+132. Johnson E, Nettle D. Fairness, generosity and conditionality in the welfare system: the case of UK 
+disability benefits. Published online September 1, 2023. 
+doi:10.1332/204378920X15989751152011 
+133. The cost of working age ill-health and disability that prevents work. GOV.UK. Accessed March 21, 
+2025. https://www.gov.uk/government/statistics/the-cost-of-working-age-ill-health-and-
+disability-that-prevents-work/the-cost-of-working-age-ill-health-and-disability-that-prevents-
+work 
+
+ 
+ 47 
+134. Pring J. DWP figures on total cost of disabled people who cannot work are ‘chilling’ echo of 
+‘useless eaters’ propaganda. Disability News Service. March 20, 2025. Accessed March 21, 2025. 
+https://www.disabilitynewsservice.com/dwp-figures-on-total-cost-of-disabled-people-who-
+cannot-work-are-chilling-echo-of-useless-eaters-propaganda/ 
+135. Bixby LE. Disability Is Not a Burden: The Relationship between Early Childhood Disability and 
+Maternal Health Depends on Family Socioeconomic Status. J Health Soc Behav. 2023;64(3):354-
+369. doi:10.1177/00221465231167560 
+136. Holly. Dear fellow disabled people: You are not a burden. Life of a Blind Girl. February 26, 2023. 
+Accessed March 21, 2025. https://lifeofablindgirl.com/2023/02/26/dear-fellow-disabled-people-
+you-are-not-a-burden/ 
+137. Burch L. Understanding Disability and Everyday Hate. Springer International Publishing; 2021. 
+doi:10.1007/978-3-030-86818-5 
+138. Disability hate crimes rise to record levels | Leonard Cheshire. October 6, 2022. Accessed April 
+25, 2024. https://www.leonardcheshire.org/about-us/our-news/press-releases/disability-hate-
+crimes-rise-record-levels 
+139. Alhaboby ZA, Al-Khateeb HM, Barnes J, et al. Cyber-Disability Hate Cases in the UK: The 
+Documentation by the Police and Potential Barriers to Reporting. In: Jahankhani H, Jamal A, 
+Lawson S, eds. Cybersecurity, Privacy and Freedom Protection in the Connected World. Springer 
+International Publishing; 2021:123-133. doi:10.1007/978-3-030-68534-8_8 
+140. Beagan BL, Mohamed T, Brooks K, Waterfield B, Weinberg M. Microaggressions experienced by 
+LGBTQ academics in Canada: “just not fitting in… it does take a toll.” Int J Qual Stud Educ. 
+2021;34(3):197-212. doi:10.1080/09518398.2020.1735556 
+141. Grant A. Miscarriage and Curtains: A phenomenological autoethnography of curtains, privacy, and 
+loss in an Early Pregnancy Unit in the UK. Geoforum. 2023;143:103786. 
+doi:10.1016/j.geoforum.2023.103786 
+142. Grue J. The problem with inspiration porn: a tentative definition and a provisional critique. Disabil 
+Soc. 2016;31(6):838-849. doi:10.1080/09687599.2016.1205473 
+143. New survey suggests benefits system is letting down people with mental health conditions who 
+want to work. GOV.UK. Accessed February 18, 2025. https://www.gov.uk/government/news/new-
+survey-suggests-benefits-system-is-letting-down-people-with-mental-health-conditions-who-
+want-to-work 
+144. Wilkie R, Haighton C, Bambra C, Lloyd S, Gray J, Crawshaw P. The effectiveness of interventions in 
+reducing economic inactivity for people with long term health conditions and disabilities in the UK 
+(with a focus on areas of deprivation and the North of England): Protocol for a scoping review. 
+Published online October 24, 2023. doi:10.17605/OSF.IO/AUCZ9 
+145. Wegscheider A, Guével MR. Employment and disability. Alter Eur J Disabil Res. 2021;(15-1):2-7. 
+doi:10.1016/j.alter.2020.12.001 
+146. Roberts H, Stuart SR, Allan S, Gumley A. ‘It’s Like the Sword of Damocles’ – A Trauma-Informed 
+Framework Analysis of Individuals’ Experiences of Assessment for the Personal Independence 
+Payment Benefit in the UK. J Soc Policy. 2024;53(4):997-1015. doi:10.1017/S0047279422000800 
+
+ 
+ 48 
+147. PIP0013 - Evidence on Personal Independence Payment. Accessed February 19, 2025. 
+https://committees.parliament.uk/writtenevidence/80012/html/ 
+148. DWP admits wrongly refusing PIP to record number of Disabled people | Disability Rights UK. 
+Accessed March 21, 2025. https://www.disabilityrightsuk.org/news/2022/february/dwp-admits-
+wrongly-refusing-pip-record-number-disabled-
+people?srsltid=AfmBOopgNO8Z9ZOWeL20TcO7UAKqJcmX-ZhUNO0lzyQZj7PdCoSUg_Mn 
+149. PEA0217 - Evidence on PIP and ESA assessments. Accessed March 21, 2025. 
+https://committees.parliament.uk/writtenevidence/82994/html/ 
+150. Chandola T, Rouxel P. The role of workplace accommodations in explaining the disability 
+employment gap in the UK. Soc Sci Med. 2021;285:114313. 
+doi:10.1016/j.socscimed.2021.114313 
+151. Charlton-Dailey R. BREAKING: UN announces UK government has FAILED disabled people. 
+Canary. April 24, 2024. Accessed April 26, 2024. https://www.thecanary.co/global/world-
+analysis/2024/04/24/uncrpd-report-april-2024/ 
+152. Disability Discrimination: Employer Considerations of Disabled Jobseekers in Light of the Ideal 
+Worker - Kaja Larsen Østerud, 2023. Accessed February 18, 2025. 
+https://journals.sagepub.com/doi/full/10.1177/09500170211041303 
+153. ‘We’re a rare breed’ – the challenges facing a disabled doctor embarking on a medical career. 
+Supporting good, safe patient care across the UK. August 6, 2021. Accessed February 18, 2025. 
+https://gmcuk.wordpress.com/2021/08/06/were-a-rare-breed-the-challenges-facing-a-disabled-
+doctor-embarking-on-a-medical-career/ 
+154. Academics Anonymous. If I tell my university about my disability will I be seen as the weakest 
+link? The Guardian. The Guardian. https://www.theguardian.com/higher-education-
+network/2017/dec/08/if-i-tell-my-university-about-my-disability-will-i-be-seen-as-a-weak-link. 
+2017. 
+155. Establishing the President’s Make America Healthy Again Commission. The White House. 
+February 13, 2025. Accessed February 18, 2025. https://www.whitehouse.gov/presidential-
+actions/2025/02/establishing-the-presidents-make-america-healthy-again-commission/ 
+156. Malcolm J, Zukas M. Making a mess of academic work: experience, purpose and identity. Teach 
+High Educ. 2009;14(5):495-506. doi:10.1080/13562510903186659 
+157. Davies B, Bansel P. The time of their lives? Academic workers in neoliberal time(s. Health Sociol 
+Rev. 2005;14(1):47-58. 
+158. Fitzgerald T, White J, Gunter H. Hard Labour? Academic Work and the Changing Landscape of 
+Higher Education. Emerald Group; 2012. 
+159. Post HG. The employment of PhD graduates in the UK: what do we know? HEPI. February 17, 
+2020. Accessed December 10, 2023. https://www.hepi.ac.uk/2020/02/17/the-employment-of-
+phd-graduates-in-the-uk-what-do-we-know/ 
+160. nsf.gov - NCSES Unemployment among Doctoral Scientists and Engineers Increased but 
+Remained Below the National Average - US National Science Foundation (NSF). Accessed 
+December 10, 2023. https://www.nsf.gov/statistics/infbrief/nsf14310/ 
+
+ 
+ 49 
+161. Sassler S, Michelmore K, Smith K. A Tale of Two Majors: Explaining the Gender Gap in STEM 
+Employment among Computer Science and Engineering Degree Holders. Soc Sci. 2017;6(3):69. 
+doi:10.3390/socsci6030069 
+162. UCUQM. UK HE shrinking: Live page of redundancies, restructures, reorganisations and closures 
+across the sector. 2024. Accessed February 5, 2025. https://qmucu.org/qmul-transformation/uk-
+he-shrinking/ 
+163. Crawshaw P, Gray J, Haighton C, Lloyd S. Health inequalities and health-related economic 
+inactivity: Why good work needs good health. Public Health Pract. 2024;8:100555. 
+doi:10.1016/j.puhip.2024.100555 
+164. Aromolaran B, Wilson E. Exploring ‘othering’ and personhood as an antidote to power and 
+privilege: Going beyond the ‘tick-box’. In: Social Justice, Social Discrimination, and Mental Health. 
+Routledge; 2024. 
+ 
+
+ 
+ 50 
+Appendices 
+Appendix 1: Recommendations from the Problem Statement organised 
+thematically 
+Enabling inclusive cultures and 
+practices 
+Enhancing accessible physical 
+and digital environments 
+Accessible and 
+proactive funding 
+Consultation – Listen to disabled 
+scientists and ensure intersectional 
+narratives are heard which include 
+multiple minoritised voices. 
+Consultation – accessible 
+procedures for consultation as 
+well as representative 
+consultation 
+Consultation with 
+disabled people as 
+researchers not just 
+participants 
+Working Conditions and Policies – 
+including health and safety, flexible 
+and/or part-time working options 
+and assurances, and designing, 
+building, and adapting accessible 
+physical spaces 
+Working Conditions and Policies Funding policies and 
+resources that improve 
+working conditions 
+Meaningful and effective training 
+for all staff 
+Training e.g. for managers, 
+Human Resources staff 
+Training e.g. for panels 
+and reviewers 
+Encourage and provide 
+opportunities for inclusive 
+mentoring and networking 
+Networking Specific opportunities 
+for disabled people 
+Visibility Meetings Visibility 
+EDIA expertise Clear and transparent processes 
+e.g. around procurement, 
+estates management, parking, 
+internal and external 
+applications for funding 
+EDIA expertise 
+recognised as a 
+speciality, not expected 
+as an add-on 
+Leadership Workplace accommodations Workplace 
+accommodations 
+Cultural Change; challenging ableist 
+attitudes and enabling inclusive 
+cultures and practices 
+Digital Accessibility (including 
+websites, applications, 
+collaborative tools) 
+Research and 
+researchers 
+Influence, lobbying, accreditation, 
+and award 
+Access to Work 
+Recruitment, reward, progression, 
+and promotion 
+ 
+Declaration, trust, and transparency 
+Decision-making 
+Table 1: Recommendations organised thematically.
+
+ 
+ 
+ 51 
+Appendix 2: Environmental solutions suggested by respondents to the Problem Statement. 
+ 
+Figure 3: Environmental solutions suggested by respondents to the Problem Statement. 
+.
+
+ 
+ 52 
+Appendix 3: Table to show suggestions of improvements to increase laboratory accessibility adapted from 
+Egambaram et al (2022). 
+Laboratory Improvement Who Is It a Problem for? Inaccessible Lab Feature 
+Install automatic lighting inside cupboards Visually Impaired Dark cupboards 
+Ensure provision of portable and desk lamps Dark workspaces 
+Use matte white bench covers to aid visibility Old wooden benchtops 
+Ensure clear access routes Visually + Mobility Impaired Cluttered walkways and trailing leads 
+Install ramps at all entrances and into rooms with a 
+step/sill (ramps must have 1 in 12 gradients) 
+Mobility Impaired Steps and changes in level 
+Ensure that access routes are free of clutter; these 
+need to be at least 81 cm wide 
+ Narrow walkways and doors 
+Install automatic door openers to every door (not just 
+main entrances to buildings) 
+ Push/Pull doors 
+Fit convex mirrors in ceiling corners, and cover sharp 
+corners 
+ Sharp corners/high shelves reducing visibility 
+Use hanging plug sockets which can be moved as 
+needed 
+ Electrical switches difficult to reach 
+Install lever action taps rather than twist action taps Taps difficult to reach or turn 
+Install handles on doors (not knobs or finger indents) Fridges or cupboards difficult to open 
+Providing simple equipment to ease bottle/tube 
+opening and stabilize pouring 
+ Challenges opening and pouring or pipetting 
+Ensure at least 81 cm gaps are left in key places such 
+as under sinks, under benches, and under fume hoods 
+ No space under the bench for a wheelchair user to 
+pull in close, or a stool user to sit comfortably 
+
+ 
+ 53 
+Laboratory Improvement Who Is It a Problem for? Inaccessible Lab Feature 
+Store principal chemicals at between 100 and 150 cm 
+height in bottles that are not excessively large 
+ Chemicals stored on high shelfs or in very low 
+cupboards 
+Install visual alarms such as flashing or red lights (that 
+are LED-based and do not flicker) throughout the 
+building 
+deaf/Deaf/Hard of hearing 
+(d/D/HH)†† 
+Solely audio alarms and signals 
+Move loud machinery to support rooms or 
+laboratories, or seek to minimize its use. 
+d/D/HH + Neurodivergence Excessive machinery noise from sonicators and 
+vacuum pumps 
+Regularly maintain equipment to prevent excessive 
+noise. 
+ 
+Minimize unnecessary noise where possible and allow 
+the use of noise-cancelling headphones (allowing for 
+impact on buddy-safety) 
+ Loud radios and music 
+Upgrade from fluorescent lighting to LEDs to prevent 
+flickering 
+Neurodivergence Flickering lights 
+Provide zoned or separate work spaces, delineating 
+these by colour/texture on the floor 
+ Fully open plan layout 
+Clear bench tops and have marked out areas for 
+different activities 
+ Cluttered work areas 
+Ensure that there are neutral and restful colours 
+throughout 
+ Excessively colourful wall decor 
+Table 2: Table to show adaptions and improvements to increase accessibility in laboratory spaces by impairment type. Adapted from Egambaram et al (2022). 
+ 
+ 
+†† deaf” refers to anyone with a severe hearing problem; “Deaf” refers to people who have been deaf from before they could talk. 
+
+ 
+ 54 
+Appendix 4: General solutions for inclusivity suggested by respondents to the Problem Statement. 
+ 
+Figure 4: General solutions for inclusivity suggested by respondents to the Problem Statement. 
+
+ 
+ 55 
+Appendix 5: Harm 
+Sometimes the things that are supposed to help actually do the most harm. 
+Right now, the biggest threat I face is from Access to Work. 
+I don’t even want to get started on PIP [Personal Independence Payments]. 
+Surely the damage done by that has been documented enough? 
+This feels worse, because up until now the support I have had from Access to 
+Work has been incredible. From the moment I put in my application, just as I 
+started a new job, it was great. I got a response well within the six weeks they 
+promise for new starts. I had a positive chat with my case manager who kept 
+in touch with me with email answering any questions I had. He set me up with 
+holistic assessments of my work environment and my home office. In addition 
+to the equipment my employer provided over the years, at renewals or if I 
+asked, the assessor was able to suggest new software and new tech that I 
+hadn’t even heard of before that made a real difference. They can help with 
+training, coaching, even travel costs. 
+It is no wonder Access to Work was described as the government’s best kept 
+secret. No-one seemed to know about it at all. I told everyone I could 
+because I wanted them to have the same opportunity for support that I did. If 
+you were a disabled student you could get Disabled Students’ Allowance, 
+but support just seemed to disappear when you entered the workforce as a 
+disabled person. 
+The aspect of Access to Work that was absolutely transformational for me 
+was gaining a specialist support worker. I know that when people think about 
+support workers they think about care work. Access to Work isn’t about care. 
+It’s about support to do your job. 
+Well, it used to be. 
+My recent Access to Work award renewal was downright abusive. I was 
+shaking afterwards. It was not the discussion about my needs the customer 
+factsheet promises. It was an attack. An ableist attack. 
+
+ 
+ 56 
+The guy I spoke to asked me to rewrite the table of tasks I provided – the tasks 
+and duties that MAKE UP MY JOB. I am a scientist and an academic. But he 
+seemed to know better than I do what my job entails, and according to him I 
+just need admin support from an unqualified non-specialist. He didn’t like the 
+fact I worked so many hours. Neither do I all the time, but I work a lot less with 
+a specialist support worker than I did when I was struggling on my own. He 
+didn’t want to hear that the support I have had in place for years is working. 
+This guy wanted to talk to my line manager and discuss my disability without 
+me there. This guy, without any explanation, justification, or assessment of 
+needs, decided to reduce my support. First, he suggested to me that my 
+employer should provide an employee to support me as part of their 
+reasonable adjustments. The Access to Work budget for the whole institution 
+is £2000. Now they are in financial crisis and need to lose £15 million from the 
+pay budget, workloads are increasing daily and you think they will be able to 
+just allocate someone to support me and my work? Are you having a laugh? 
+My employers have always supported me through reasonable adjustments. 
+Access to Work says they support above and beyond. 
+Well, now Access to Work is going above and beyond to highlight and 
+increase my vulnerability. 
+Despite their customer factsheet which says “If you know what 
+support you need, you do not need to have an 
+assessment. An Access to Work case manager will discuss 
+the award with you and develop a tailored package of 
+support” this guy just ignored what I know about the support I need and 
+without discussion with me or my employer he slashed my hours of support. 
+Worse, he slashed the rate of pay. I need scientific knowledge and skills – 
+offering minimum wage will not and should not secure that. 
+Then, he said that rather than select and contract someone of my choosing 
+as a support worker, the university should appoint someone for me. The 
+
+ 
+ 57 
+Access to Work guy actually did his best to put pressure on my line manager 
+to hire someone in-house rather than work with the agency I have always 
+used. The thing about using the agency, about having autonomy over who I 
+hire to support ME, is that all my line manager needs to do is to approve my 
+support. She doesn’t need to know how or what they are doing – she doesn’t 
+need detailed information on exactly which aspects of my disability I need 
+my support worker for. The support worker is there based on the 
+recommendation of my assessors who have access to all that information 
+and spent a long time with me to find out how and where I could be 
+supported. 
+But oh no, this guy wanted to speak to my line manager and share all the 
+information he had asked me to give him about my disability and how it 
+affects me at work. Sharing information with an independent assessor is very 
+different from exposing my vulnerabilities to my line manager. Forcing me to 
+disclose sensitive and personal details is not okay. I’m fairly sure it would count 
+as disability discrimination. If this guy had had his way, he would have forced 
+me to expose myself to my line manager, to the recruitment team in HR, and 
+to any of my colleagues who looked at the job advert. There is so much 
+stigma around disability. I could do without being laid bare. Access to Work 
+are supposed to work according to the social model of disability – this should 
+not include listing my impairments and disclosing them to the world at their 
+whim. I suppose I could have soft-soaped things, but then I would risk ending 
+up with a support worker unable to do what I need or having my approval for 
+support rescinded. 
+This guy was bad. Worse still though, is that he is no longer my case manager. 
+I do not have a case manager now. If I have a question – any question – I 
+have to call up the helpline and wait. Generally I’m on hold for an hour. Then 
+I ask my question and it gets sent to a pool of case managers. Who should 
+get back to me. Hopefully with the right information. This isn’t always the case 
+though. I know of far too many people who have been given incorrect 
+information or been told lies about their own case. New applications might 
+wait a year to be assessed even if they are ‘fast-tracked’. If you are self-
+
+ 
+ 58 
+employed apparently you go into a ‘different pile’ and you can find your 
+business plan subject to more stringent assessment criteria than any bank 
+would employ. 
+Case managers are making arbitrary decisions in direct contradiction to their 
+own staff guidance. And of course there is no right to appeal. You can ask for 
+a ‘reconsideration’ but that can take months, and there is no more 
+transparency or explanation for decisions. There isn’t even an easy way to 
+complain. 
+Because this is an award not a benefit I was told. Disabled people have no 
+right to support I was told. Any award is discretionary I was told. 
+Access to Work seem to have stopped supporting disabled people to work, 
+and instead are deciding what work disabled people can do. 
+Not science it seems. Not anymore.

@@ -1,0 +1,431 @@
+Gary Loke, Head of Policy 
+info@ecu.ac.uk
+Contact
+This briefing sets out the main issues higher education 
+institutions (HEIs) in England, Wales and Scotland may 
+experience by the application of the Equality Act 2010 to the 
+provision of bursaries, scholarships and prizes. In particular, 
+it identifies the key risks faced by HEIs and steps that should 
+be taken to avoid engaging in unlawful discrimination when 
+providing bursaries, scholarships and prizes. 
+This briefing replaces previous guidance on bursaries from 
+Equality Challenge Unit (ECU). It has been developed in 
+response to the many queries ECU has received about the 
+legality and appropriateness of bursary and scholarship 
+schemes. 
+The application of the law to a specific bursary or scholarship 
+is complex and must be undertaken in the context of both the 
+bursary and the institution offering it. This briefing provides 
+an outline of the legal issues involved and how they may be 
+applied to bursaries and scholarships. An HEI should seek legal 
+advice if it has concerns about its bursaries and scholarships.
+The Equality Act 2010:
+ Positive action through bursaries, scholarships and prizes
+Prepared by Mills & Reeve 
+LLP with additional input by 
+Anderson Strathern LLP
+Contents
+Background 2
+Using the institution’s 
+own resources 6
+Third party donations 9
+Charities 11
+Issues to consider 13
+Conclusion 14
+Further reading 15
+
+2 The Equality Act 2010: positive action, bursaries and scholarships
+Background
+Bursaries, scholarships 
+and prizes
+Bursaries, scholarships and prizes take many forms and are 
+awarded or granted on a wide variety of selection criteria. For 
+example, they may be awarded or granted on the basis of a 
+student’s means (or the student’s family’s means), or on the basis 
+of the student’s sporting or academic ability. Often the student 
+may need to satisfy a residence criterion of some sort – that they 
+have been ordinarily resident in a particular country, county or 
+town, or that they attended a particular school. Some awards 
+are available to students of one sex or the other, while others are 
+offered only to students on certain courses or programmes. 
+Just as the criteria upon which a bursary, scholarship or prize 
+are awarded vary, so do the bases upon which the award is 
+established – the funding arrangements. Sometimes, the 
+funding for the award will come from within the institution’s own 
+resources, sometimes a third party will provide a capital sum 
+from which the award is to be made in the future. Sometimes, 
+a third party will sponsor an award for a defined period of time 
+having been provided with the student’s name by the institution. 
+The nature of the award will also differ. The award might be a 
+sum of money (whether cash or vouchers), or books. It could take 
+the form of remission from, or discount of, certain fees. It could 
+be a benefit in kind, for example free accommodation and meals. 
+Whatever the nature of the award, it is likely to be viewed as 
+a ‘benefit, facility or service’ for the purposes of the Equality 
+Act. The basis upon which the award is established will have a 
+bearing on whether the HEI is liable for discrimination that may 
+occur. The selection criteria for choosing who will receive the 
+award would form the basis of any discrimination claim that 
+could arise. 
+
+3July 2012
+The Equality Act 2010 The Equality Act identifies nine protected characteristics, which 
+are the grounds upon which discrimination is unlawful. The 
+provisions in the Equality Act that relate to higher and further 
+education prohibit discrimination on eight of the nine grounds:
+ = age
+ = disability
+ = gender reassignment
+ = pregnancy and maternity
+ = race (including colour, nationality and ethnic or national origin)
+ = religion or belief (including lack of belief)
+ = sex
+ = sexual orientation
+The Act prohibits discrimination against applicants, current 
+students and former students in connection with the terms upon 
+which they are admitted and the availability of ‘benefits, facilities 
+or services’ . This will include the provision and availability of 
+bursaries, scholarships and prizes. 
+ECU’s briefing, Equality Act 2010: implications for higher education 
+institutions sets out what is unlawful discrimination under 
+the Act. Of particular relevance in the context of bursaries, 
+scholarships and prizes are direct and indirect discrimination. 
+Direct discrimination arises where a person is subject to less 
+favourable treatment because of a protected characteristic. 
+There is no justification defence for direct discrimination for any 
+protected characteristic other than age. 
+Indirect discrimination arises where a policy, criterion or practice 
+which appears to be neutral and is applied equally to all puts 
+people who share a protected characteristic at a particular 
+disadvantage. In limited cases, indirect discrimination can be 
+justified.
+Justification is a defence that arises where the discriminatory 
+actions can be shown to be a proportionate means of achieving a 
+legitimate aim. 
+
+4 The Equality Act 2010: positive action, bursaries and scholarships
+It is not unlawful to treat a disabled person more favourably than 
+a person who does not have that disability. This is a consequence 
+of the duty to make reasonable adjustments to enable disabled 
+people overcome substantial disadvantage.
+HEIs also need to comply with the public sector equality duty, 
+which requires HEIs, in carrying out their functions, to have due 
+regard to the need to:
+ = eliminate unlawful discrimination
+ = promote equality of opportunity between people with different 
+protected characteristics
+ = foster good relations between people with different protected 
+characteristics
+The Equality Act (in section 158) also allows positive action in 
+certain circumstances. The Act sets out that an HEI does not 
+engage in unlawful discrimination if it takes action that is a 
+proportionate means of achieving the following:
+ = enabling people sharing a particular protected characteristic to 
+overcome the disadvantage which the HEI reasonably believes 
+they suffer, where the disadvantage is connected with that 
+protected characteristic
+ = meeting the different needs of those sharing a protected 
+characteristic where the HEI reasonably believes that people 
+sharing that particular protected characteristic have needs 
+different to those who do not share that characteristic
+ = enabling or encouraging participation in an activity by those 
+sharing a protected characteristic where the HEI reasonably 
+believes that participation in the activity by people sharing a 
+particular protected characteristic is disproportionately low
+There is also a narrow set of circumstances set out in schedule 
+23 of the Act which permits ‘ancillary benefits’ to education 
+or training to be provided only to students from outside the 
+European economic area (EEA). As a result, a student from 
+within the EEA will not be able to claim discrimination based on 
+
+5July 2012
+nationality where a bursary, scholarship or prize is reserved for 
+students from outside the EEA whom the HEI ‘thinks … [do] not 
+intend to exercise in Great Britain skills … obtained as a result’ of 
+the education or training. 
+The belief that the student will not exercise the skills gained in 
+Great Britain will require some evidence. Care will need to be 
+taken that the bursary, scholarship or prize does not constitute 
+discrimination on some other ground – for example between 
+nationals of different non-EEA states or other protected 
+characteristics. 
+
+6 The Equality Act 2010: positive action, bursaries and scholarships
+Using the institution’s own resources
+An HEI that applies its own resources to funding a bursary, 
+scholarship or prize will need to be particularly alert to the risk of 
+engaging in unlawful discrimination.
+Where the selection criteria for the bursary, scholarship or prize 
+are not directly related to a protected characteristic, there is a risk 
+that it will have an indirectly discriminatory impact. It would be 
+good practice in all circumstances, and would identify a defence 
+to a claim of indirect discrimination, for the HEI to:
+ = identify the particular purpose or aim of any bursary, scholarship 
+or prize 
+ = show that making the award (and the particular amount or 
+nature of that award) is a proportionate means of achieving that 
+aim
+In doing this, the HEI will have taken steps to justify the bursary, 
+scholarship or prize in advance of there being any suggestion of 
+a discrimination claim. 
+Direct discrimination may occur where the selection criteria 
+for the award use protected characteristics. If an HEI proposes 
+to have a bursary, scholarship or prize that is confined only to 
+individuals of a particular protected characteristic (for example, 
+only women), it will need to ensure it falls within the scope of 
+positive action under the Equality Act. The exception is where the 
+protected characteristic is disability – a bursary available only to 
+disabled students would not be unlawfully discriminatory against 
+students not having a disability.
+Evidence In order to demonstrate that the bursary, scholarship or prize is 
+positive action, the HEI will need to have evidence of one of the 
+following:
+ = disadvantage that is linked to the protected characteristic
+ = a particular need of those sharing the protected characteristic 
+ = low participation by people sharing the protected characteristic
+
+7July 2012
+The evidence will need to be more than supposition or anecdotal 
+and it is likely that statistical evidence will be needed. The HEI 
+will also need to be able to show that the bursary, scholarship or 
+prize is a proportionate means of overcoming that disadvantage, 
+providing for that need or promoting participation. This is 
+likely to involve showing how the bursary, scholarship or prize 
+specifically addresses the issue. The HEI should also monitor the 
+impact of the bursary, scholarship or prize both to ensure that it 
+is having the intended impact and to ensure that the need for it 
+remains.
+HEI’s must also meet the public sector duty that they are under. 
+A possible way to help meet this, and one that would assist the 
+HEI in identifying that its bursary, scholarship or prize both had 
+a legitimate aim and was proportionate, would be to undertake 
+an equality impact assessment (EIA). There is no obligation to 
+undertake EIAs in England, but there are specific requirements to 
+do so in Scotland and Wales. 
+Since opening in the 19th century, an HEI has offered a prize 
+of book tokens for the highest performing Methodist student. 
+The funding for the prize comes from the HEI’s budget. 
+This is likely to be unlawful direct discrimination since the 
+benefit (the prize) is not available to non-Methodists, therefore 
+subjecting them to less favourable treatment because of their 
+religion. 
+Since opening in the 19th century, an HEI has offered a 
+scholarship to the offspring of agricultural workers from within 
+the county in which the institution lies. The funding for the 
+scholarship comes from the HEI’s budget. 
+The geographical restriction on the scholarship means that it 
+is potentially indirect racial discrimination since it is likely that 
+non-British students are at a disadvantage in connection with 
+the benefit. If challenged, the HEI will need to show that the 
+geographical restriction is a proportionate means of achieving 
+a legitimate aim. The HEI should also review the scholarship’s 
+selection criteria through an EIA. 
+Equality impact 
+assessment
+
+8 The Equality Act 2010: positive action, bursaries and scholarships
+In undertaking an EIA, there are five key points for the HEI to 
+consider: 
+ = is the purpose for the bursary, scholarship or prize clearly set out?
+ = have those affected by the proposed action been involved?
+ = have potential positive and negative impacts of the bursary or 
+scholarship been identified?
+ = are there plans to alleviate any negative impacts?
+ = are there plans to monitor the actual impact of the bursary, 
+scholarship or prize?
+Review The need to keep any bursary, scholarship or prize under 
+review cannot be overstated. Where the purpose of the bursary, 
+scholarship or prize is to overcome a particular hardship or 
+encourage participation, should that hardship diminish or 
+participation increase, the bursary, scholarship or prize may no 
+longer serve its purpose and may then no longer be justified.
+
+9July 2012
+HEIs will often receive money from a benefactor or commercial 
+organisation which the donor wishes to have passed to students. 
+The donor may wish to set the selection criteria to be used in 
+deciding how to make the award. Although the money for the 
+bursary, scholarship or prize comes from the third party (ie the 
+HEI is not using its own resources for the award) there remains a 
+possibility that the institution will be liable for discrimination. 
+First, the HEI will need to bear in mind its public sector duty, 
+as agreement to having the bursary, scholarship or prize given 
+to its students is likely to be one of the HEI’s functions and 
+the institution is to have due regard to the need to eliminate 
+unlawful discrimination. 
+Third party donations
+An HEI receives an offer from a company to provide an annual 
+amount to fund a student to pursue postgraduate studies in 
+a particular field of study. The company wishes to restrict the 
+funding to a male student. 
+The funding could amount to direct discrimination on grounds 
+of sex. The HEI will need to review the offer carefully in light 
+of the public sector duties, particularly those concerning 
+preventing unlawful discrimination and promoting equality of 
+opportunity. 
+Also, the Equality Act prohibits acts that aid or assist another in 
+engaging in unlawful discrimination. 
+In the example above, the company wants the funding to go 
+to the male student scoring highest in the HEI’s admission 
+process for the field of study. 
+In order for the company to identify the student who will 
+receive the award, the HEI will need to provide it with 
+information as to who the highest scoring male applicant was. 
+Before agreeing to do so, the HEI will need to consider the 
+extent to which it will be assisting with, or aiding any unlawful 
+discrimination undertaken by the company. 
+
+10 The Equality Act 2010: positive action, bursaries and scholarships
+Continuing the example above, the company and the HEI 
+identify through data that male students are significantly 
+underrepresented in the particular field of study and surveys 
+reveal that the reason for the underrepresentation is the 
+perception that study is expensive and the diversion of male 
+potential students to industry. 
+The company and HEI conclude that providing the funding 
+will encourage the participation of greater numbers of male 
+students in the field of study, and therefore the funding 
+amounts to positive action, within the meaning of the 
+Equality Act. 
+Accordingly, an HEI will want to ensure that the selection criteria 
+being used by the third party donor do not themselves amount 
+to unlawful discrimination. Considerations similar to those set 
+out in connection with the HEI’s own resources arise.
+
+11July 2012
+Charities
+In some cases either or both an HEI or a donor commit a 
+significant sum of money to a bursary, scholarship or prize. 
+The sum of money would then fund the award for a number of 
+years. In doing that, a separate charity may be established (even 
+though the HEI itself may be a charity). The Equality Act does 
+not make it unlawful for a charity to exist to support groups of 
+individuals that are defined by protected characteristics (with the 
+exception of colour). As a result, for example, it is neither sex nor 
+religious discrimination for a charity to be established to support 
+female Muslims.
+Accordingly, it is possible for a donor or an HEI to endow a 
+charity in order to provide support for individuals based on their 
+protected characteristics. 
+However, the charity created will need to meet the requirements 
+of the Charities Act 2011, and, in Scotland, the Charities and 
+Trustee Investment (Scotland) Act 2005 as well. The restriction 
+will need to be set out in the charity’s ‘charitable instrument’ , 
+which is its governing document; the charity will need to be for 
+charitable purposes (within the meaning of the Charities Acts) 
+and those charitable purposes will need to satisfy the Charities 
+Commission, HMRC and, in Scotland, the Office of the Scottish 
+Charity Regulator. It is observed by the Equality and Human 
+Rights Commission (EHRC) that seeking to restrict a charity to 
+people with particular protected characteristics is ‘a difficult legal 
+question’ (see EHRC’s online resource, Exceptions: charities and 
+religion or belief organisations) and it is recommended that legal 
+advice is obtained. 
+
+12 The Equality Act 2010: positive action, bursaries and scholarships
+Inevitably, any restriction on the beneficiaries of the charity that 
+is based on a protected characteristic will need to be shown to 
+be a proportionate means of achieving a legitimate aim or for the 
+purpose of preventing or compensating for a disadvantage that 
+is linked to the protected characteristic.
+For the HEI, it will still need to be satisfied that accepting or 
+endorsing the support provided by the separate charity meets its 
+public sector duties, which include a duty to promote equality of 
+opportunity and eliminate unlawful discrimination.
+An HEI (which is itself a charity) receives a significant gift 
+from an overseas donor who wishes a proportion of it to be 
+committed to providing a fixed annual payment to nationals 
+of the donor’s home country studying a subject of the donor’s 
+choice. After receiving the gift, the HEI will put some of it into 
+a charitable trust with the object of funding a student in line 
+with the donor’s wishes.
+As a separate charity will be formed, it could contain a 
+provision restricting its recipients to a nationality without 
+contravening the Equality Act. The HEI should take advice on 
+whether the trust will be charitable as a matter of law and that 
+will include considering the justification for the restriction on 
+nationality. The HEI must also have due regard to the matters 
+set out in the public sector equality duty. 
+Accordingly, the HEI would be advised to undertake an EIA 
+before agreeing to endorse the charity’s award.
+
+13July 2012
+Issues to consider 
+To assist HEIs in thinking through selection criteria for a 
+bursary, scholarship or prize, the following questions should be 
+considered.
+ = Is there a particular need or disadvantage among a group that 
+the HEI wishes to address?
+ = What is the evidence of that need or disadvantage?
+ = What is the cause of that need or disadvantage?
+ = Is there underrepresentation in a particular area by a 
+particular group? Is there evidence of the cause of that 
+underrepresentation?
+ = How will the bursary, scholarship or prize address the particular 
+need, disadvantage or underrepresentation?
+ = Is there another, more effective, way for the HEI to address that 
+need, disadvantage or underrepresentation?
+ = For what period of time will the bursary, scholarship or prize be in 
+place?
+ = What arrangements will be made for the review of the bursary, 
+scholarship or prize and its need?
+ = Will there be an adverse impact on other groups as a result of the 
+provision of the bursary, scholarship or prize?
+ = What steps can be taken to mitigate any adverse impact?
+
+14 The Equality Act 2010: positive action, bursaries and scholarships
+Conclusion
+Through the provision of bursaries, scholarships and prizes, 
+many individuals who might otherwise not have access to 
+higher education have benefitted from the experience and 
+enhancement that higher education offers. However, it is 
+important that any such awards do not unwittingly unlawfully 
+discriminate against people with protected characteristics. The 
+Equality Act does not operate in a way that prevents bona fide 
+and necessary support from being given to individuals. It does, 
+however, require that HEIs identify the underlying need for the 
+support or bursary with some precision and care and that the 
+particular form of support is proportionate.
+
+15July 2012
+Further reading
+Updates, news and information about the Equality Act 2010.
+www.ecu.ac.uk/subjects/equality-act-2010
+ECU (2010) Equality Act 2010: implications for higher education 
+institutions. 
+www.ecu.ac.uk/publications/equality-act-2010
+EHRC. Exceptions: charities and religion or belief organisations. 
+Online resource. 
+www.equalityhumanrights.com/advice-and-guidance/
+service-providers-guidance/what-equality-law-means-
+for-your-voluntary-and-community-sector-organisation-
+including-charities-and-religion-or-belief-organisations/
+exceptions-charities-and-religion-or-belief-organisations
+
+7th floor, Queen’s House
+55/56 Lincoln’s Inn Fields
+London, WC2A 3LJ
+T 020 7438 1010
+F 020 7438 1011
+E info@ecu.ac.uk
+www.ecu.ac.uk
+© Equality Challenge Unit 2012
+ECU’s publications are produced free of charge to the HE sector 
+and for the FE sector in Scotland. Information can be reproduced 
+accurately as long as the source is clearly identified. 
+Alternative formats are available: E pubs@ecu.ac.uk
+Company limited by guarantee. Registered in England and Wales, no. 05689975. Registered charity no. 1114417
+Equality Challenge Unit works to further and support equality 
+and diversity for staff and students in higher education across all 
+four nations of the UK, and in further education in Scotland.
+ECU works closely with colleges and universities to seek to ensure 
+that staff and students are not unfairly excluded, marginalised 
+or disadvantaged because of age, disability, gender identity, 
+marital or civil partnership status, pregnancy or maternity status, 
+race, religion or belief, sex, sexual orientation, or through any 
+combination of these characteristics or other unfair treatment.
+Providing a central source of expertise, research, advice and 
+leadership, we support institutions in building a culture that 
+provides equality of both opportunity and outcome, promotes 
+good relations, values the benefits of diversity and provides a 
+model of equality for the wider UK society.

@@ -1,0 +1,476 @@
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+1
+Secretariat:
+Equality,
+Diversity and 
+Inclusion strategies 
+in STEM - briefing
+April 2025
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+2
+In May 2024, the All-Party Parliamentary Group (APPG) on Diversity and Inclusion 
+in STEM launched a new project on Equality, Diversity, and Inclusion (EDI) 
+strategies in STEM to explore the most effective approaches to progressing EDI 
+and improving representation in the STEM workforce. As part of the project, 
+we held a series of interviews with EDI leads and Human Resources (HR) 
+departments at various STEM organisations about their EDI strategies. In this 
+briefing, we summarise our main findings from this research, and identify areas 
+where action is needed.
+This is not an official publication of the House of Commons or the House of Lords. It has not been approved by 
+either House or its committees. All-Party Groups are informal groups of Members of both Houses with a common 
+interest in particular issues.
+The views expressed in this report are those of the All-Party Parliamentary Group on Diversity and Inclusion in 
+STEM. The report does not necessarily represent the views of any of the sponsors, contributors and reviewers, 
+unless stated. This report was compiled by the British Science Association who provide the Secretariat to the APPG. 
+The information in this briefing, including reference to policies and Government status on issues, is correct at the 
+time of writing (January-March 2025).
+Drafts of this briefing were sent for critical review to a group of reviewers. In addition, the draft was reviewed by 
+our sponsors and Members of the APPG.
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+3
+Equality, Diversity and 
+Inclusion Strategies in 
+STEM - briefing
+Table of contents
+1. Four areas that need action
+2. Context: EDI strategies and the STEM sector
+3. Summary of sector interviews
+• Leadership
+• Data about diversity characteristics
+• Benchmarking and impact
+• Other topics
+4. About the project
+5. About the briefing
+6. About the APPG
+4
+7
+10
+11
+11
+13
+14
+16
+18
+20
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+4
+1. Four areas that need action
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+5
+1. A stronger case for EDI as central to growth and performance: 
+EDI is linked to stronger commercial performance, improved talent attraction and 
+retention, better customer engagement, increased investment, and reduced costs 
+associated with legal disputes. Diverse teams are more innovative, produce higher-impact 
+work, and are better at tackling complex problems1 , which is crucial for the STEM sector. 
+A more diverse sector with the skills the UK needs for growth requires the collaboration 
+of STEM leaders in companies, universities, professional bodies and associations, 
+and Government. We recognise the competing pressures and priorities facing STEM 
+organisations, and the continued need to emphasise how diversity and inclusion supports 
+growth, business objectives, and better outcomes.
+a. We call upon all STEM leaders to recognise the essential role that a diverse workforce 
+and an inclusive culture plays in business growth and performance, and the need for 
+EDI strategies to go hand in hand with overall business strategies. To demonstrate this 
+commitment, leaders should establish measurable EDI targets and actions with clear 
+accountability mechanisms, and report progress annually to stakeholders alongside 
+financial and operational performance metrics (for large STEM companies this could 
+be broad quantitative targets; while for smaller organisations targets could be to 
+embed EDI training for all staff or to introduce a recruitment practice that draws on 
+best practice in EDI). 
+b. We recommend the Department for Science, Innovation, and Technology (DSIT) 
+and the Women and Equalities Unit identify practical, immediate steps that can drive 
+progress within UK STEM organisations, for example:
+i. Compliance: Sector-wide engagement scheme to ensure that all STEM 
+organisations are meeting the legal duties introduced in 2024 as amendments to 
+the Equality Act 2010. These amendments include: including measures to protect 
+rights during pregnancy, maternity and as a breastfeeding parent; creating 
+transparency for equal pay for disabled employees and those from ethnic 
+minorities; and wider responsibilities of employers to prevent sexual harassment.
+ii. Procurement: An assessment of how the Social Values Framework and 
+Public Sector Equality Duty can be better applied to improve EDI within STEM 
+organisations granted Government contracts.
+1 Page, S. E. (2007). The difference: How the power of diversity creates better groups, firms, schools, and societies. Princeton University Press.
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+6
+2. Improving data accessibility: 
+Whilst there is high-level data on a national level, it is not granular or accessible enough 
+to support decision-making. Additionally, STEM organisations are struggling with 
+intersectional analysis of data, and declaration rates, particularly relating to disability and 
+socioeconomic status.
+a. We recommend further investments in data-dashboards such as the Department for 
+Education’s Jobs and Skills Dashboard, to extend the demographic data beyond 
+gender, and to provide user-guides to STEM industries.
+b. As a first step, this APPG will convene a discussion around data collection, insight, 
+and analysis for diversity and inclusion in STEM, focusing on improving national-level 
+workforce and education data. In a future programme of work, this APPG will consider 
+how to support more widespread and trustworthy data collection on national and 
+organisational levels, including better data hygiene to help organisations protect and 
+interpret the data well. 
+3. Evaluating the impact of EDI interventions: 
+Whilst there is plenty of evidence to inform where EDI interventions are needed, it is rare 
+that interventions are accompanied by outcome evaluations, particularly when concerned 
+with workplace culture and retention. This is limiting the ability of the STEM sector to take 
+evidence-driven approaches and learn from what is working. Additionally, sector-wide 
+frameworks are important tools for employers, however, they can be time-intensive to 
+complete, open to ‘gamification’ and vulnerable to changing external environments. 
+a. We recommend that STEM organisations carry out an equity impact assessment for 
+key changes in the business or organisation, particularly around retention and 
+workplace culture.
+b. We recommend that DSIT collaborate with sector partners from the corporate sector, 
+higher education, and key agencies to support the industry by fostering a financially 
+sustainable ecosystem of diverse, purposeful EDI frameworks in STEM, and ensuring 
+the approach to data collection is more consistent.
+4. Understanding the challenges for start-ups, spin-outs, and scale-ups: 
+Start-ups and scale-ups are important for the UK’s STEM ecosystem, but they have very 
+different needs to large STEM companies. 
+a. We recommend a sector-wide engagement scheme on diversity and inclusion for 
+start-ups, spin-outs and scale-ups, which takes learnings from initiatives like the Royal 
+Academy of Engineering Culture+ tool.
+b. We call upon large STEM organisations with the resources to develop EDI toolkits and 
+training programmes to more proactively share with smaller organisations. 
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+7
+2. Context: EDI strategies and 
+the STEM sector
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+8
+Context: EDI strategies and the STEM sector
+State of the sector
+Diversity of thought and experience is critical to unlock creativity and innovation and enhance profitability, 
+which means that a lack of representation prevents the STEM sector from reaching its full potential. Growing 
+the STEM pipeline and making the most of everyone’s skills is therefore not only the right and fair thing to do, 
+but it also makes sense economically.
+It is widely recognised that STEM skills are vital for the future of UK industries. Driven by technological 
+advancements and sustainable development, our economy is likely to be dominated by STEM industries, with 
+engineering and computer sciences providing some of the highest paid jobs
+2
+. But for STEM industries to 
+stimulate economic growth, we need more people with STEM skills. 
+Many sectors and employers are facing ‘skills gaps’ , finding it difficult to recruit workers for more technically 
+demanding jobs. Extra costs associated with recruitment, temporary staffing, and training have been estimated 
+to cost the UK economy £1.5 bn per year
+3
+. 
+The shortage of STEM skills in the UK has been a concern for the past two decades, and the problem will likely 
+be exacerbated in the future by the changing world of work. It is estimated that by 2030, 90% of the current 
+workforce will need upskilling and retraining
+4
+. Additionally, many STEM employers operate worldwide, and if 
+there is not a ready supply of STEM skills in the UK, there is a risk that the sector ‘offshores’ the most advanced 
+roles and loses the potential for growth in the UK. 
+Tackling the skills gap, future-proofing the STEM workforce, and harnessing sectors such as AI, life sciences, 
+and climate technologies, will lead to job creation, increased productivity, and wider economic growth.
+But we know that opportunities to work in, learn about, and progress in STEM are not available to everyone. 
+Our research from 2020
+5
+ found that:
+• Only 27% of the STEM workforce are women (compared to 52% of the wider workforce)
+• 65% of the STEM workforce are White men
+• Disabled people represent 11% of those employed in STEM (compared to 14% of the wider workforce)
+• STEM workers are less likely to be aged 50 or older (28% compared to 33% of the wider workforce)
+Research by the Royal Academy of Engineering
+6
+ found that embracing EDI is linked to stronger commercial 
+performance among engineering businesses. For example, companies with higher diversity have been found to 
+generate 19% more revenue from new products and services and see 121% more patent citations.
+2 World Economic Forum. (2023). Gender equality in STEM can support a sustainable economy. Here’s how 
+3 STEM Learning. (2018). STEM Skills Indicator 
+4 CBI. (2020). Learning for life: Funding a world-class adult education system
+5 APPG on Diversity & Inclusion in STEM. (2020). The State of the Sector: Diversity and representation in STEM industries in the UK 
+6 Royal Academy of Engineering. (2024). The EDI Engine: Evidencing the business benefits of equality, diversity, and inclusion (EDI) in engineering
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+9
+7 CIPD. (2024). Equality, diversity, and inclusion (EDI) in the workplace
+8 The Investment Association. (2023). Equity, diversity, and inclusion data survey 
+How can EDI strategies help?
+EDI widens the pool of STEM skills available to employers and helps to improve productivity and innovation. By 
+putting in place an effective EDI strategy, organisations not only commit to good people management and the 
+wellbeing of all their employees but also support their business objectives
+7
+. It is important to emphasise that 
+being inclusive benefits all employees, not just people from groups underrepresented in STEM. Outlining plans 
+for recruitment, retention, workplace culture, and evaluation helps organisations to add value to their overall 
+business strategies and drive systemic change in the sector. 
+Developing and implementing a successful EDI strategic plan can be a challenge. Organisations need a good 
+understanding of the demographic composition of their workforce, but many employers struggle with collecting 
+data about their employees. Based on their industry-wide EDI Survey, the Investment Association
+8
+ reports 
+that limitations of existing HR systems (difficulties around collecting and analysing data points) and not 
+being mandated by current regulations were the main challenges to data collection at the organisation level. 
+Concerns over data privacy and lack of employee engagement have been found to be the two top challenges at 
+the individual level.
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+10
+3. Summary of sector interviews
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+11
+Leadership
+Strong and clear leadership was a key factor for the success of EDI strategies among interviewees. For 
+interventions to work at scale, EDI policies need to have a buy-in from senior leaders and the board. 
+Sometimes, EDI strategies originated from leadership, and other times from staff networks, but in all cases we 
+heard about how crucial the support and commitment of leadership was to integrate EDI into the organisation.
+ 
+Participants also stressed that the EDI strategy needs to go hand in hand with the overall business/university/
+growth strategy, and that significant change needs long-term investment. To hold leadership accountable, EDI 
+needs to be treated similarly to finances, and checked, reviewed, and reported on regularly.
+Data about diversity characteristics
+Data as the biggest challenge – Most participants said that accessing and analysing diversity characteristics 
+data was the biggest challenge of developing their strategy. Generally, participants were happy with their data 
+on gender representation in their workforce, and some have also described their data on ethnicity as “good”.
+When asked about missing data that would help the organisation with their EDI work, several participants 
+mentioned better data on disability and socioeconomic status.
+We have also heard that the ONS data doesn’t provide enough granularity on the working population, and that 
+better understanding of the UK workforce is needed to support benchmarking.
+ 
+Improving data about diversity characteristics and disclosure rates takes time. This can be a real barrier for 
+STEM organisations who are typically very data-driven. Senior leaders are often not willing to move forward 
+and implement changes unless they see clear data to go with it. 
+On the other hand, employees want to see results quickly. They volunteer their time to make the organisation a 
+more inclusive workplace and want to see the senior leadership committed to EDI too. But unpicking a culture 
+takes time - there is a conflict between a need for speed and for introducing changes in a sustainable way. 
+One participant said: 
+“You can’t change the diversity of your workforce overnight – managing people’s 
+expectations about how long it’s going to take was a challenge.”
+Intersectionality – We’ve heard from participants about the importance of intersectionality and not working in 
+silos on certain groups and protected characteristics to make changes. 
+One participant told us that when zooming in on a specific issue, the data needs to be looked at 
+intersectionally, but when you work with relatively small numbers, individuals can quickly become identifiable. 
+This means that it can be difficult to advocate for certain groups because you can’t present the data. 
+Too much data? Several interviewees mentioned the problem of gathering too much data. While it can be 
+tempting to consult everyone when developing a strategy, this is not always helpful. Fewer but better focused 
+focus groups, and better data rather than more data, is usually a more productive approach. 
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+12
+Participants told us:
+“It’s one thing to have data, but another thing to know what’s going on”
+“We’re now moving to a stage where it’s not about collecting more data - perhaps it’s 
+about collecting less data but using it better.”
+Protected characteristics – In the UK, the legal framework for EDI work is built around the nine protected 
+characteristics named in the Equality Act 2010, which all employers have a legal duty to abide by. But, there 
+are many characteristics that are not included in the Equality Act 2010 (for example, to include socio-economic 
+disadvantage, paternity and shared parental leave) and one participant noted that not everyone identifies 
+themselves in the existing categories. They said: 
+“It can be difficult to find a balance between collecting data on identity and 
+background, but also not focusing on this too much and allowing people to come to 
+work or study no matter what different boxes they might choose to tick on a page.”
+Data accessibility – One participant pointed out that their organisation had a lot of data available, but it is 
+not always available in a user-friendly format. There is a need for dashboards that allow users to use different 
+filters and look at a specific issue. EDI experts need to work with data experts to make that happen. 
+Data privacy and disclosure rates – Several participants said that encouraging employees to disclose their 
+data was ongoing work. Interviewees thought the possible reasons for low disclosure rates were that people 
+did not see the task of filling out a staff survey and sharing their data as important – because it is not 
+compulsory, it is never a priority on anyone’s to-do list.
+Some participants have said that staff concerns about data privacy is a big issue for them and that the problem 
+might be prevalent at STEM organisations, particularly among computer scientists and those working in 
+cybersecurity who have a good understanding of how the data might be incorrectly accessed or breached. One 
+participant has said:
+“It’s not that they don’t trust the HR, they don’t trust the hackers.”
+Some of the organisations we spoke to said they run regular campaigns to encourage people to complete a 
+staff survey and inform employees how sharing their data can help the organisation become a fairer, more 
+inclusive, and more successful place to work.
+AI in STEM recruitment - An emerging area related to data collection and use is the use of AI and digital tools 
+in recruitment. The use and ethics of AI tools was not mentioned by interviewees.
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+13
+Benchmarking and impact
+Benchmarking data – While it is useful to have this, organisations need to be careful about comparisons 
+and the weight they put on it (for example, there are geographical effects that are not always evident in 
+benchmarking data). 
+One participant told us that benchmarking data serves better as a reflective tool than as a clear way to see 
+where progress is happening – you need to be sure what you are trying to achieve locally and within your 
+system, not necessarily wanting to get to national averages. Participants have said:
+“People can get a bit caught up in benchmarking data. It’s helpful, but you have to 
+understand the system.”
+“Don’t separate data from context, stories, and experiences – it’s unhelpful.”
+“It’s easy to copy others, but it means that sometimes we just replicate foolishness.”
+Diversity targets – In general, people we spoke to had mixed feelings about standalone diversity targets. While 
+some said that they can be helpful and useful as part of a system of measures, others have pointed out that 
+they can be distracting or even drive wrong behaviours. 
+One participant noted that they found targets focused on reducing the gender pay gap more helpful for driving 
+change than workforce diversity targets.
+Performance data is a challenge – We have heard repeatedly that organisations often struggle with 
+demonstrating the impact of their EDI work beyond a shift in the diversity of staff. Better access to tools and 
+frameworks for tracking performance would be welcomed by the sector.
+Accreditations – All organisations we spoke to had at least one accreditation (most often Disability Confident). 
+People said they were generally useful and have helped to push the dial and bring awareness. However, 
+participants also noted they can be very time-consuming and that their organisations would not have the 
+capacity to apply for another one.
+Interviewees working in academia stressed the importance of the Athena Swan Charter, which has helped to 
+put EDI on the map for universities. 
+Several participants noted that very long and complex application process can be a burden for those 
+responsible (often women), and their careers would suffer as a result.
+Tech Talent Charter – A couple of participants said the Tech Talent Charter (TTC) had really helped them to 
+benchmark themselves against other tech organisations, and they were not sure how to do this since the TTC 
+community closed.
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+14
+Other topics
+Retention – We heard relatively little detail about strategies targeting retention and workplace culture and how 
+these important elements of EDI are measured.
+Staff networks – Almost everyone talked about them and how important their input was in developing the 
+strategy. It can be challenging to capture lived experience and make sure that this is reflected in the strategy – 
+staff networks have a key role to play in this challenge.
+A couple of participants cautioned against leadership depending on staff networks to lead EDI work – staff 
+networks are often led by volunteers, and they should not be expected to transform organisational culture. 
+Resourcing EDI – When asked about the challenges of developing and implementing the strategy, participants 
+often talked about the lack of or limited resources (e.g. no ringfenced staff resource). We heard that it would 
+be useful to know what type of investment is most needed in EDI across the whole STEM sector (for example, 
+what the balance should be between grassroots investment at school level, entry-level, middle management, 
+and reskills/upskilling at senior level).
+School outreach – A couple of participants spoke about the importance of school outreach to inspire the future 
+STEM workforce. They said that while senior leadership saw the value of engaging with universities and future 
+or recent graduates where there is clear return on investment, it was usually more difficult to convince them to 
+engage with local schools or schools in areas with high populations of underrepresented groups. However, we 
+know that perceptions of STEM start early, and some of our interviewees were investing in early-intervention, 
+rather than older students. One participant said:
+“We’re really passionate about changing the direction of people at primary school, 
+because that’s where the change needs to happen”
+EDI as a term – Equity, diversity, inclusion, and belonging are all different things, so some questioned the 
+usefulness of ‘EDI’ as a term. We hear people say that it is easier to talk about diversity, representation, and 
+the data that sits behind this – whereas having a conversation about inclusion and how to measure it is much 
+more difficult. Because of the lack of confidence with measurement and qualitative data, it is often the case 
+that success only gets measured around diversity. 
+Equity or equality?
+Equity and equality are two approaches used to try to create fairness. This briefing defines ‘equity’ 
+as a needs-based approach to ensure people with different needs can be equally as successful, and 
+‘equality’ as treating everyone the same. 
+In our APPG work, we usually choose to use ‘equity’ as many studies state that treating everyone 
+equally within the workplace and education tends to lead to unequal outcomes, as it assumes all 
+workers begin in similar circumstances, underestimating the impacts of structural inequalities.
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+15
+EDI strategies at SMEs – While bigger organisations often focus their EDI efforts on gender and ethnicity, for 
+smaller organisations, the lack of people coming from lower socioeconomic backgrounds is often a challenge. 
+People told us about the problem of nepotism in the industry – it is a common practice for, for example, 
+directors to invite their children and relatives to run the business with them. As they scale-up this then makes 
+it difficult for organisations to be inclusive.
+We also heard that there is not as much time and space to develop people, and it is a common practice to use 
+referrals and go for the ‘safest pair of hands’ (e.g. one person said that biotech startups would usually recruit 
+graduates directly from Oxford or Cambridge rather than running an open process). 
+It can also be difficult for smaller organisations to learn from large corporations. There are a lot of sector-
+specific networks that include both large and small businesses, but it is usually more useful to connect with 
+businesses with a similar profile. 
+Another problem is that the smaller size of the staff team makes it more difficult to meet targets that 
+benchmark against the wider workforce. For example, in an organisation with only 10 employees, if a woman 
+leaves and her role is taken by a man, this will immediately make 10% difference to the company’s diversity 
+statistics. 
+EDI strategies at universities – Two participants spoke to us about their work on decolonising the curriculum 
+as part of the EDI work with the student body. EDI data revealed awarding gaps between ethnic minority and 
+White students, and that this was particularly significant in STEM subjects. When further investigated, they 
+heard from students that there were issues with the teaching systems. We were told how important it had been 
+to challenge colonial views in STEM curricula, for example, issuing guidelines for lecturers, and working with 
+students on co-creating the curriculum.
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+16
+4. About the project
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+17
+In May 2024, the APPG on Diversity & Inclusion in STEM launched its new project investigating equality, 
+diversity and inclusion (EDI) strategies in STEM. 
+The project has evolved from an idea submitted by Professor Nira Chamberlain, a mathematician and 
+immediate past president of the Mathematical Association, to the open call held by the APPG in early 2024. Nira 
+advocates for treating EDI as a pure science problem with an established baseline that organisations should 
+use to establish targets. In his submission, he called for more research into EDI strategies and how they could 
+better reflect the lived experience of groups underrepresented in STEM. 
+From the 15+ submissions received and following feedback from members of the APPG, the Secretariat chose 
+the final concept – EDI strategies in STEM. The project investigates how EDI strategies are developed and the 
+evidence used by STEM organisations to form their approaches to tackling EDI. 
+Collecting people data and setting ambitious diversity targets can help employers improve representation of 
+people with protected characteristics in their workforce. However, we know that focusing on diversity alone 
+isn’t enough to address systemic barriers to equality and bring about meaningful change to individuals and 
+communities.
+To progress the EDI agenda and improve representation in the STEM sector, it is necessary to improve the 
+quality, and broaden the types, of gathered data and ensure that its analysis considers the lived experience of 
+groups underrepresented in STEM.
+As it stands, evidence for such analysis is typically quantitative, and therefore does not capture any of the 
+emotional and personal drawbacks of working in STEM.
+In this project, the APPG explores what can be done to improve data reporting on representation in the STEM 
+workforce and how organisations can evaluate the effectiveness of their EDI action plans. We will do that by:
+- Undertaking a series of interviews with EDI leads and HR departments at universities, research 
+organisations, and STEM businesses to learn about the process of developing an EDI strategy and the 
+evidence behind it,
+- Hosting a parliamentary roundtable with key STEM organisations about EDI data collection, analysis 
+and insight to discuss the common challenges that STEM organisations face with collecting EDI data and 
+exchange best practice, 
+- Publishing a series of blogs by EDI experts and network leaders to outline their ideas on how EDI strategies 
+can better reflect lived experience. 
+This briefing is the first publication of this project, and its aim is to explore the main themes which emerged 
+from our interviews with STEM organisations about their EDI strategies. 
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+18
+5. About the briefing
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+19
+To learn more about how EDI strategies are developed at STEM organisations, we held a series of online 
+interviews with EDI leads and HR departments at universities, research organisations, and businesses between 
+July and November 2024. 
+Each interview lasted approximately 40 minutes and followed a similar structure. We asked the participating 
+organisations about the:
+- process of creating the strategy (How was your EDI strategy created? Who was involved? What were 
+the challenges?), 
+- evidence behind the strategy (What data is your strategy based on? Have you used any frameworks? What 
+missing data would make a difference?), 
+- and impact of the strategy (How are benchmarks set? How is success measured? Do you have any 
+accreditations? What positive change has the strategy helped to achieve?). 
+To develop a good understanding of the different challenges that STEM organisations face when working on 
+their EDI action plans, our aim was to speak to a wide variety of stakeholders. When selecting organisations 
+to invite to participate in the project, we considered: size and type of the organisation, area of expertise and 
+activity, and location. 
+We approached 53 organisations from across the STEM sector, and secured interviews with 14 of them. It is 
+important to acknowledge that organisations who agreed to speak to us are likely to be organisations who are 
+some of the best resourced and most confident in their approaches to EDI. This means that many organisations 
+in the sector might be less advanced in planning their EDI strategy and in need of more support to address 
+underrepresentation in their workforce. 
+This briefing explores the main themes of these conversations, and aims to shed light on some of the 
+challenges that STEM organisations face when developing and formalising their approaches to EDI. We also 
+recommend steps and suggest actions that would support organisations in progressing their EDI agenda and 
+becoming more inclusive workplaces. 
+We would like to thank the following organisations for participating in the process: The Alan Turing Institute, 
+AtkinsRéalis, AVEVA, Barclays, Brighton Sussex Medical School, Hitachi Information Control Systems Europe, Jisc, 
+Johnson Matthey, Rolls-Royce, Sitryx, University of Edinburgh, University of Salford, University of York, Virgin 
+Media 02.
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+20
+5. About the APPG
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+21
+The All-Party Parliamentary Group (APPG) on Diversity and Inclusion in Science, Technology, Engineering, and 
+Mathematics (STEM) was established in 2018 and aims to promote the inclusion and progression of people 
+from diverse backgrounds in STEM, and to encourage government, parliamentarians, academics, businesses, 
+and other stakeholders to work towards a STEM sector that is representative of the UK population. We also 
+want to consider and influence changes in policy that will lead to this outcome. 
+The British Science Association acts as Secretariat for the Group as part of its work on equality, diversity, and 
+inclusion across the science and science engagement sectors. 
+The Group is made up of Members of Parliament and the House of Lords and is a focus for collaboration with 
+business and other organisations in the STEM sector. 
+The Officers of the APPG are:
+Chair: Samantha Niblett MP (Labour)
+Officers: Baroness Brown of Cambridge (Crossbench)
+ Lord Lucas (Conservative)
+ Dr Lauren Sullivan MP (Labour)
+Sponsors
+The Group is kindly supported by our sponsors:
+
+EQUALITY, DIVERSITY, AND INCLUSION STRATEGIES IN STEM – BRIEFING
+22
+© British Science Association 2025

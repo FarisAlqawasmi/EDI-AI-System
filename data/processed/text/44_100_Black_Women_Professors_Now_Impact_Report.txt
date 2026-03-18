@@ -1,0 +1,1208 @@
+Diksha Sanyal, Temitayo Lawal, Cianne Jones, 
+Adèle MacKinlay, Professor Lisa-Dionne Morris
+January 2024
+Professor Lisa-Dionne Morris
+First Cohort 
+University of Leeds
+Professor Sheryl Williams 
+First Cohort 
+Loughborough University 
+Professor Yoselin Benitez-Alfonso
+Second Cohort 
+University of Leeds 
+100 Black 
+Women Professors 
+NOW Impact 
+Report
+
+1
+Foreword
+Growing up in Newham in East London, my first professional Black female role model 
+was my mother who attended university as a mature student. She managed her 
+degree alongside bringing up two children. My mother continues to be a role 
+model both of resilience and hard work but indeed of the transformative power 
+of education. However, throughout my academic career there was a noticeable 
+absence of black female teachers, lecturers, or professors. That all changed when 
+I joined WHEN as their COO and attended the first 100 Black Women Professors 
+Now programme Annual Celebration and Summit in 2023. For the first time in my 
+life, I was in the presence of Black female academics, role models for women like 
+me who love to learn and to share our learning with others. I felt an incredible feeling of 
+togetherness, sisterhood and belonging. 
+The 100 Black Women Professors Now programme is a shining example of the phrase “Representation 
+matters.” It is a transformational programme that not only touches on the lives of the Black women 
+involved but on the institutions who have committed to ensuring that the colour of our skin does not 
+dictate our career progression. 
+The programme is a sector wide example of what true allyship looks like in practice, those with 
+privilege, acknowledging their privilege and putting resources behind challenging systems of inequity. 
+I am incredibly proud of our CEO Alice Chilver for her allyship, our Senior Programme Manager, 
+T emitayo for her exceptional leadership of the programme, the academic cohort who have shown such 
+resilience in navigating the sector and every institution that has taken a stand against racial inequity in 
+higher education. We are most certainly stronger together.
+Cianne Jones, Chief Operating Officer 
+Women’s Higher Education Network (WHEN)
+The 100 Black Women Professors Now (100 BWPN) programme is sector-leading, 
+unique, and transformational; transformational on the impact it has on the women 
+who participate in the programme – on their careers, their confidence in advocating 
+for themselves and others, their sense of community; transformational on the 
+changes it is making within the institutions who take part. The amazing WHEN 
+team and partners have developed a programme that goes well beyond traditional 
+professional development programmes to one that looks critically at the systemic 
+barriers that prevent Black academics from progressing. Within each participating 
+institution, 100 BWPN brings together People & OD Directors, EDI Directors, senior 
+stakeholders, and the Vice-Chancellor to ensure accountability for change and support for 
+the individuals taking part.
+As a White ally, I commit to do everything within my gift to advance positive change both within my 
+organisation and across the sector as it relates to equity. I am deeply proud of the WHEN team and 
+partners for designing and delivering such a significant and impactful programme and look forward 
+to the future in which there is much greater representation of Black women and opportunities for 
+everyone, irrespective of their colour, gender, or any other protected characteristic.
+Adèle MacKinlay, Deputy and Interim CEO 
+Women’s Higher Education Network (WHEN) 
+
+2
+I’ve always been passionate about working towards equity of opportunity and access 
+for Black women. This is primarily because of my own positionality as a Black woman, 
+and secondly because of the extent to which our experiences can get overlooked 
+and merged with others from global majority backgrounds which often masks 
+nuances and intersectional strands of our experience. 
+Despite Black women academic’s plight across the sector, which historically, has 
+not always been positive or adequately represented, there are also positive stories 
+to tell. Stories that empower us, unite us, and remind us of how talented and multi-
+faceted we are. I recall attending the first annual summit in Leeds for the 100 Black 
+Women Professors NOW programme in 2023 and was positively shocked at the amount 
+of Black excellence in one room. 
+Leading on the strategy and design of the programme has been a great privilege and it would not be 
+possible without our CEO Alice Chilver’s vision for the programme, my amazing team at WHEN, our 
+exceptional programme faculty and the eight institutions we have worked with in 2023. The programme has 
+put a spotlight on some of the opportunities and challenges across the sector. As we press forward with a 
+new cohort in 2024, I look forward to working towards creating sustainable systemic change that not only 
+helps to increase the pipeline of Black women professors, but also helps to create an inclusive culture that 
+supports, attracts, and retains Black women academics across the sector.
+T emitayo Lawal, Senior Programme Manager 
+Women’s Higher Education Network (WHEN)
+
+3
+Contents
+Introduction .......................................................................................................................................................................................... 4
+Our motivation ...................................................................................................................................................................................... 5
+Programme Aims ................................................................................................................................................................................ 6
+Working together to achieve systemic change ..................................................................................................................... 7
+ Three major stakeholder groups ..................................................................................................................................... 7
+ The programme comprises of two parallel strands ................................................................................................. 8
+ 1. Systemic change .............................................................................................................................................................. 8
+ 2. Inclusive leadership ........................................................................................................................................................ 8
+ 3. Action learning .................................................................................................................................................................. 8
+ 4. Delivering change ............................................................................................................................................................ 8
+ 5. Personal insights ............................................................................................................................................................. 9
+ 6. Career planning ................................................................................................................................................................ 9
+ 7. Career coaching ............................................................................................................................................................... 9
+ 8. Career strategies ............................................................................................................................................................. 9
+ 9. Collective action .............................................................................................................................................................. 9
+ Sponsorship, mentoring, and stakeholder meetings .............................................................................................. 9
+Three reasons why this programme is groundbreaking : ................................................................................................. 10
+ 100BWPN Programme 2023 ........................................................................................................................................... 11
+ Design Process ..................................................................................................................................................................... 11
+ Our Partner Universities .................................................................................................................................................... 11
+ Programme faculty ............................................................................................................................................................. 12
+Rationale ............................................................................................................................................................................................... 13
+ Black women’s academic progression ........................................................................................................................ 13
+ Core Design Principles ..................................................................................................................................................... 14
+ Inputs, Outputs, Outcomes, and Impact ..................................................................................................................... 14
+Methodology ....................................................................................................................................................................................... 15
+ Data Collection .................................................................................................................................................................... 15
+ Evaluation Plan ..................................................................................................................................................................... 15
+ Baseline, Midline and Endline Survey Findings: ....................................................................................................... 16
+ Case-Study: University of Exeter ................................................................................................................................. 20
+Discussion ........................................................................................................................................................................................... 23
+ Academic Cohort ............................................................................................................................................................... 23
+ Line Managers and Senior Leaders ............................................................................................................................ 23
+Next Steps ........................................................................................................................................................................................... 24
+ Recommendations for Black women academics: .................................................................................................. 24
+ Recommendations for Universities: ............................................................................................................................ 24
+ Recommendations for the Higher Education Sector: ........................................................................................... 25
+Thank you ............................................................................................................................................................................................ 25
+ 2023 Programme End ...................................................................................................................................................... 25
+ 2024 Programme Launch ............................................................................................................................................... 25
+ 2025 Programme Expressions of Interest ................................................................................................................ 25
+References ......................................................................................................................................................................................... 26
+
+4
+Introduction
+As a participant in the 100 Black Women Professors Now Programme (100BWPN) 
+within UK Higher Education Institutions, I am compelled to share the profound 
+impact of this initiative on the experiences of 70+ Black female academics and 
+professional services staff working within UK Higher Education Institutions. The 
+preliminary findings reflect an overwhelmingly positive journey, with many African, 
+African Diaspora and Dual Heritage females identifying key areas of personal 
+development, experiencing personal growth, and noting tangible advancements 
+in their careers. What goes beyond the statistics is the transformative power of 
+community-building and social capital. I found a supportive network that bolstered 
+our confidence through Black-Female-to-Black-Female coaching, research mapping, and 
+streamlining efforts. I discovered a newfound courage to pursue new career progression opportunities, 
+with a clearer understanding of my Black female academic authenticity and intentional engagement with 
+prospects and networks.
+The positive ripple effect extends to institutional leaders and line managers. Indeed, many of us did report 
+an increased stakeholder understanding of Black female experiences, clearer insights into achieving 
+systemic change for Black females, and a perceived improvement in understanding the uniqueness and 
+strength of embracing Black female leadership skills, but there is still work to be done in more systematic 
+ways. This speaks to the programme’s impact on individual growth and its role in fostering a more inclusive 
+and informed understanding of diverse and inclusive leadership practice. This is heartening as a Black 
+female Professor in STEM.
+Looking forward, recommendations for future programmes and provision for future cohorts resonate 
+deeply. Clarity on the role of line managers is paramount, and sustained engagement beyond the 
+programme’s duration is crucial for lasting impact. Broadening interventions to include early-stage initiatives 
+and fostering collaborations with other academic partners, such as UKRI, are strategic steps toward 
+pipeline provision and a more diverse and supportive Higher Education landscape. These preliminary 
+findings not only underscore the success of the current programme in addressing key issues but also 
+highlight its role in advocating for systemic change within UK Higher Education Institutions. As a participant, 
+I am optimistic about the potential for continued growth and enhanced diversity in academia.
+I believe embracing the power of Black female excellence in the academic realm is a celebration of 
+achievements, resilience, and brilliance within the research community. In a world were recognising and 
+amplifying the contributions of Black leaders is a crucial step toward fostering a truly diverse and equitable 
+environment, I stand shoulder-to-shoulder with the programme. Striving for Black female parity, particularly 
+in leadership roles, is essential for dismantling barriers and ensuring equal opportunities for everyone. 
+The rise of Black female leaders in UK academic spheres not only signifies progress but also serves as an 
+inspiration for future generations, showcasing the impact of diverse perspectives on the trajectory of higher 
+education.
+As we champion academic leadership, it’s imperative to emphasise equity and inclusion. A commitment 
+to equity and inclusion in academia fosters an environment where every voice is heard, every perspective 
+valued, and every individual is allowed to excel.
+Recognising the power of Black female empowerment and Black females inspiring others is integral to 
+breaking down gender-based stereotypes and creating a supportive network for Black females in higher 
+education. The programme symbolises a collective effort to uplift, mentor, and empower Black females 
+to excel in academic leadership roles and beyond. In the landscape of higher education leadership, the 
+programme collectively represents a commitment to a brighter, more inclusive future. By embracing and 
+promoting these ideals, we contribute to a transformative journey toward a more equitable and empowered 
+academic community.
+Professor Lisa-Dionne Morris 
+Faculty of Engineering and Physical Sciences, University of Leeds 
+
+In 2023, there were 
+66 Black women 
+professors in 
+the UK, out of a 
+total of 23,515 
+professors
+5
+Our motivation
+Our 2023 impact report highlighted that in 2018, there were only 25 Black women 
+professors. As of 2023, the number has increased to 66, indicating some progress. 
+However, WHEN is dedicated to accelerating the pace of change for Black women 
+academics across the sector.
+
+6
+Programme Aims
+The programme aims to increase the number of Black women at every stage of the academic pipeline and 
+accelerate their career progression through:
+Senior Leadership Action Career Coaching
+Head of Department Action Career Development
+Policy and Practice Action Mentoring
+
+7
+Working together to achieve systemic change
+Three major stakeholder groups
+Multiple stakeholders are engaged in the programme as we established that this was required to bring about 
+systemic change. These three stakeholder groups are:
+1 
+ Institutional
+ Leaders 
+(The Vice Chancellor, 
+Senior T eam, HR Director, 
+EDI Leads, Research 
+Director)
+2 
+Line Managers 
+(Heads of Department, 
+T eam Leaders, Principal 
+Investigators)
+3
+ Academic Cohort 
+(Black women- tenured 
+academics, fixed-term 
+contractors and 
+Phd students)
+
+8
+The first strand describes the work that takes place with institutional leaders and line managers. The 
+second strand describes the work that takes place with the academic cohort. These two parallel strands 
+of activity comprise the key components of the programme. The activities are interconnected, and the 
+sequencing is carefully planned for maximum impact. 
+1. Systemic change
+The tone for change must be set from the top, with leaders taking a proactive role in facing deeply rooted 
+barriers. In this component learning takes place amongst senior leaders within each institution as each 
+Vice-Chancellor will bring together their nominated sponsors, EDI Leads, HR and Research Directors and 
+each person who line-manages a member of the Academic Cohort. The session is to explore white privilege, 
+anti-racism and racial justice as a starting point for enabling systemic change.
+2. Inclusive leadership
+HR and Research Directors, together with Line Managers from across all universities come together. They 
+deepen their understanding of what it means to be an inclusive leader and create objectives for the change 
+they will drive from their unique position. During the workshop there is mutual learning and challenge 
+between peers. The programme understands the powerful influence of these roles and works with them to 
+enable change within their sphere of influence for current and future generations. They explore the power 
+they have and understand how they can take action that will change the status quo within their institution.
+3. Action learning
+Cross-institutional groups come together for two action learning sets in which they are able to share their 
+experiences and be supported by their peers to overcome challenges they are facing with implementing 
+their individual commitments.
+4. Delivering change
+Each Vice-Chancellor brings back together their nominated sponsors, HR and Research Directors and each 
+person who line-manages a member of the Academic Cohort. They reflect on key lessons learned, progress 
+made and collective priorities moving forward.
+The programme comprises of two parallel strands
+4.
+Delivering 
+Change
+8.
+Career 
+Strategies
+3.
+Action
+Learning
+7.
+Career 
+Coaching
+2.
+Inclusive 
+Leadership
+6.
+Career 
+Planning
+1.
+Systemic 
+Change
+Senior leaders and 
+line managers
+The academic cohort
+5.
+Personal
+Insights
+
+9
+5. Personal insights
+The Academic Cohort explore lived experiences as Black women academics and identify core themes 
+between experiences. They identify systemic barriers to progression within institutions and ways of 
+reducing them. Insight sessions enable the WHEN team to capture the lived experiences of the cohort. 
+Themes get shared with senior leaders and line managers to support them to increase their understanding 
+of experiences, as well as to get thinking straight away about changes that could lead to impact.
+6. Career planning
+This workshop focuses on career pathways to date, supporting the Academic Cohort to reflect on their key 
+moments, key lessons, core values and aspirations for the future. The cohort will support and challenge one 
+another to think differently and define their career vision. They will be introduced to career planning and 
+meet their career coach for the first time. They will spend time during the session preparing for their three-
+way coaching session with their line manager.
+7. Career coaching
+Career coaches work with Academic Cohort members to support them to define their career action plans, 
+ensuring that plans focus on the few things that will make the biggest difference to accelerate their career 
+progression.
+8. Career strategies
+Focusing on career strategies, the Academic Cohort share their career plans and support one another to 
+define strategies in order to make progress with their action plans, translating important activities into 90-
+day action plans for implementation. The cohort are supported to reflect on the progress they have made 
+during the programme and hear about the changes and commitments that their universities have made. We 
+also integrate a well-being component into our sessions facilitated by an emotional wealth strategist and 
+counsellor. The cohort engages in a range of activities to help them develop tools to improve and prioritize 
+their well-being. Additionally, information on accessing counselling services is made available. 
+Collective action 
+WHEN delivers additional workshops upon request from universities. During this year’s programme, 
+we conducted a collective action workshop with senior stakeholders and the Academic Cohort at one 
+university. This session provided stakeholders with further guidance and support in aligning their efforts to 
+bring about systemic change. 
+Sponsorship, mentoring, and stakeholder meetings 
+Before the programme starts, the Vice-Chancellor and EDI lead work together to assign sponsors and 
+mentors to the Academic Cohort. Sponsors are briefed to actively advocate for sponsees in pursuit of their 
+career goals. 
+Mentors are briefed to provide guidance to mentees as they navigate the networks and systems in their 
+disciplines. This takes place up front to allow sufficient time for introductions to be made so that the 
+Academic Cohort can gain maximum benefit during the programme. 
+Throughout the programme, key stakeholders including the Vice-Chancellor and HR Director, Research 
+Directors and EDI leads are encouraged to meet with the Academic Cohort in order to better understand 
+lived experiences. These relationships will drive increased understanding, influence policy change and 
+secure accountability for action. 
+
+10
+Three reasons why this programme is groundbreaking:
+3
+2
+1
+An exclusive focus on the 
+most under-represented group - 
+Black women , who represent less 
+than 1% of the UK professoriate. 
+Supporting them through coaching, 
+mentoring, sponsorship and 
+cross-institutional peer networks. 
+Focus on systemic change 
+and action requiring 
+ institutional commitment. 
+Working with three major 
+stakeholder groups: 
+institutional leaders; 
+line managers and the 
+academic cohort.
+The first and only 
+sector-wide solution that 
+addresses the issues 
+and recommendations 
+ from the ‘Staying Power’ 
+2019 report.
+
+11
+100BWPN Programme 2023
+Design Process 
+Our Partner Universities
+Reflection
+Re-design
+Planning
+Collaboration
+Launch
+Reflecting on 
+feedback and 
+learnings from 
+the pilot cohort. Planning the 
+programme 
+activity and 
+timelines with 
+our programme 
+faculty. 
+Redesigning 
+the programme 
+and delivery 
+of activities to 
+incorporate 
+an in-person 
+format post- 
+covid. 
+Securing 8 
+universities to 
+participate in 
+phase two of the 
+programme.
+Held the first 
+summit to 
+celebrate the 
+pilot cohort and 
+mark the launch 
+of the new 
+cohort. 
+The programme has highlighted the value and importance of a holistic and integrated approach to driving system wide change. 
+Our approach has been and remains that it is not about ‘fixing the women’ but about addressing deep-rooted biases, systems, 
+patterns and behaviours. We are clear in our conversations with institutions that this programme is not about “institutional peacock-
+ing” but a demonstrated commitment to changing the systems and cultures that are prevalent in the sector impacting on the career 
+progression of Black women academics.
+WHEN is committed to taking the learnings from the pilot to refine, build and implement phase 2 of the programme in 2023. 
+The programme has been recognised as a vehicle for systemic change in the sector. Momentum is building and we have now 
+closed applications for the 2023 cohort. We are delighted to announce that we will welcome 69 Black academic women to the 
+programme in 2023. To increase the number of Black women at every stage of the academic pipeline the next phase of the 
+programme includes PhD candidates as well as advanced career academics. We are thrilled to be working with 8 institutions who 
+have demonstrated their commitment to change by joining phase 2 of the programme:
+We are proud to be working with over 200 stakeholders across these 8 institutions to accelerate the career progression of Black 
+women academics.
+ 
+Institutions
+We are currently accepting expressions of interest for the 2024 cohort. We would encourage all institutions that are committed to 
+dismantling gender and race inequity in higher education and ready to take action to get in touch. 
+Black women academics
+If your institution is not running the programme but you think they would be interested, please do share the report with your senior 
+leaders and put them in touch.
+We have several speaking opportunities available for women interested in speaking about their involvement in the programme or 
+for those who would like to use our platform to talk about their work. Please do get in touch with our team. 
+Finally, if you are not already a member, we encourage you to join the WHEN network. We are stronger together. 
+23
+This is just the beginning
+What’s next for the programme
+How to get involved
+The programme has highlighted the value and importance of a holistic and integrated approach to driving system wide change. 
+Our approach has been and remains that it is not about ‘fixing the women’ but about addressing deep-rooted biases, systems, 
+patterns and behaviours. We are clear in our conversations with institutions that this programme is not about “institutional peacock-
+ing” but a demonstrated commitment to changing the systems and cultures that are prevalent in the sector impacting on the career 
+progression of Black women academics.
+WHEN is committed to taking the learnings from the pilot to refine, build and implement phase 2 of the programme in 2023. 
+The programme has been recognised as a vehicle for systemic change in the sector. Momentum is building and we have now 
+closed applications for the 2023 cohort. We are delighted to announce that we will welcome 69 Black academic women to the 
+programme in 2023. To increase the number of Black women at every stage of the academic pipeline the next phase of the 
+programme includes PhD candidates as well as advanced career academics. We are thrilled to be working with 8 institutions who 
+have demonstrated their commitment to change by joining phase 2 of the programme:
+We are proud to be working with over 200 stakeholders across these 8 institutions to accelerate the career progression of Black 
+women academics.
+ 
+Institutions
+We are currently accepting expressions of interest for the 2024 cohort. We would encourage all institutions that are committed to 
+dismantling gender and race inequity in higher education and ready to take action to get in touch. 
+Black women academics
+If your institution is not running the programme but you think they would be interested, please do share the report with your senior 
+leaders and put them in touch.
+We have several speaking opportunities available for women interested in speaking about their involvement in the programme or 
+for those who would like to use our platform to talk about their work. Please do get in touch with our team. 
+Finally, if you are not already a member, we encourage you to join the WHEN network. We are stronger together. 
+23
+This is just the beginning
+What’s next for the programme
+How to get involved
+The programme has highlighted the value and importance of a holistic and integrated approach to driving system wide change. 
+Our approach has been and remains that it is not about ‘fixing the women’ but about addressing deep-rooted biases, systems, 
+patterns and behaviours. We are clear in our conversations with institutions that this programme is not about “institutional peacock-
+ing” but a demonstrated commitment to changing the systems and cultures that are prevalent in the sector impacting on the career 
+progression of Black women academics.
+WHEN is committed to taking the learnings from the pilot to refine, build and implement phase 2 of the programme in 2023. 
+The programme has been recognised as a vehicle for systemic change in the sector. Momentum is building and we have now 
+closed applications for the 2023 cohort. We are delighted to announce that we will welcome 69 Black academic women to the 
+programme in 2023. To increase the number of Black women at every stage of the academic pipeline the next phase of the 
+programme includes PhD candidates as well as advanced career academics. We are thrilled to be working with 8 institutions who 
+have demonstrated their commitment to change by joining phase 2 of the programme:
+We are proud to be working with over 200 stakeholders across these 8 institutions to accelerate the career progression of Black 
+women academics.
+ 
+Institutions
+We are currently accepting expressions of interest for the 2024 cohort. We would encourage all institutions that are committed to 
+dismantling gender and race inequity in higher education and ready to take action to get in touch. 
+Black women academics
+If your institution is not running the programme but you think they would be interested, please do share the report with your senior 
+leaders and put them in touch.
+We have several speaking opportunities available for women interested in speaking about their involvement in the programme or 
+for those who would like to use our platform to talk about their work. Please do get in touch with our team. 
+Finally, if you are not already a member, we encourage you to join the WHEN network. We are stronger together. 
+23
+This is just the beginning
+What’s next for the programme
+How to get involved
+The programme has highlighted the value and importance of a holistic and integrated approach to driving system wide change. 
+Our approach has been and remains that it is not about ‘fixing the women’ but about addressing deep-rooted biases, systems, 
+patterns and behaviours. We are clear in our conversations with institutions that this programme is not about “institutional peacock-
+ing” but a demonstrated commitment to changing the systems and cultures that are prevalent in the sector impacting on the career 
+progression of Black women academics.
+WHEN is committed to taking the learnings from the pilot to refine, build and implement phase 2 of the programme in 2023. 
+The programme has been recognised as a vehicle for systemic change in the sector. Momentum is building and we have now 
+closed applications for the 2023 cohort. We are delighted to announce that we will welcome 69 Black academic women to the 
+programme in 2023. To increase the number of Black women at every stage of the academic pipeline the next phase of the 
+programme includes PhD candidates as well as advanced career academics. We are thrilled to be working with 8 institutions who 
+have demonstrated their commitment to change by joining phase 2 of the programme:
+We are proud to be working with over 200 stakeholders across these 8 institutions to accelerate the career progression of Black 
+women academics.
+ 
+Institutions
+We are currently accepting expressions of interest for the 2024 cohort. We would encourage all institutions that are committed to 
+dismantling gender and race inequity in higher education and ready to take action to get in touch. 
+Black women academics
+If your institution is not running the programme but you think they would be interested, please do share the report with your senior 
+leaders and put them in touch.
+We have several speaking opportunities available for women interested in speaking about their involvement in the programme or 
+for those who would like to use our platform to talk about their work. Please do get in touch with our team. 
+Finally, if you are not already a member, we encourage you to join the WHEN network. We are stronger together. 
+23
+This is just the beginning
+What’s next for the programme
+How to get involved
+The programme has highlighted the value and importance of a holistic and integrated approach to driving system wide change. 
+Our approach has been and remains that it is not about ‘fixing the women’ but about addressing deep-rooted biases, systems, 
+patterns and behaviours. We are clear in our conversations with institutions that this programme is not about “institutional peacock-
+ing” but a demonstrated commitment to changing the systems and cultures that are prevalent in the sector impacting on the career 
+progression of Black women academics.
+WHEN is committed to taking the learnings from the pilot to refine, build and implement phase 2 of the programme in 2023. 
+The programme has been recognised as a vehicle for systemic change in the sector. Momentum is building and we have now 
+closed applications for the 2023 cohort. We are delighted to announce that we will welcome 69 Black academic women to the 
+programme in 2023. To increase the number of Black women at every stage of the academic pipeline the next phase of the 
+programme includes PhD candidates as well as advanced career academics. We are thrilled to be working with 8 institutions who 
+have demonstrated their commitment to change by joining phase 2 of the programme:
+We are proud to be working with over 200 stakeholders across these 8 institutions to accelerate the career progression of Black 
+women academics.
+ 
+Institutions
+We are currently accepting expressions of interest for the 2024 cohort. We would encourage all institutions that are committed to 
+dismantling gender and race inequity in higher education and ready to take action to get in touch. 
+Black women academics
+If your institution is not running the programme but you think they would be interested, please do share the report with your senior 
+leaders and put them in touch.
+We have several speaking opportunities available for women interested in speaking about their involvement in the programme or 
+for those who would like to use our platform to talk about their work. Please do get in touch with our team. 
+Finally, if you are not already a member, we encourage you to join the WHEN network. We are stronger together. 
+23
+This is just the beginning
+What’s next for the programme
+How to get involved
+The programme has highlighted the value and importance of a holistic and integrated approach to driving system wide change. 
+Our approach has been and remains that it is not about ‘fixing the women’ but about addressing deep-rooted biases, systems, 
+patterns and behaviours. We are clear in our conversations with institutions that this programme is not about “institutional peacock-
+ing” but a demonstrated commitment to changing the systems and cultures that are prevalent in the sector impacting on the career 
+progression of Black women academics.
+WHEN is committed to taking the learnings from the pilot to refine, build and implement phase 2 of the programme in 2023. 
+The programme has been recognised as a vehicle for systemic change in the sector. Momentum is building and we have now 
+closed applications for the 2023 cohort. We are delighted to announce that we will welcome 69 Black academic women to the 
+programme in 2023. To increase the number of Black women at every stage of the academic pipeline the next phase of the 
+programme includes PhD candidates as well as advanced career academics. We are thrilled to be working with 8 institutions who 
+have demonstrated their commitment to change by joining phase 2 of the programme:
+We are proud to be working with over 200 stakeholders across these 8 institutions to accelerate the career progression of Black 
+women academics.
+ 
+Institutions
+We are currently accepting expressions of interest for the 2024 cohort. We would encourage all institutions that are committed to 
+dismantling gender and race inequity in higher education and ready to take action to get in touch. 
+Black women academics
+If your institution is not running the programme but you think they would be interested, please do share the report with your senior 
+leaders and put them in touch.
+We have several speaking opportunities available for women interested in speaking about their involvement in the programme or 
+for those who would like to use our platform to talk about their work. Please do get in touch with our team. 
+Finally, if you are not already a member, we encourage you to join the WHEN network. We are stronger together. 
+23
+This is just the beginning
+What’s next for the programme
+How to get involved
+
+12
+Programme faculty 
+Dr Doyin Atewologun 
+Programme Lead
+Claudine Charles 
+Career Coach
+Manjari Prashar 
+Career Coach
+Sherma Johnson-Gray 
+Career Coach
+T emi Lawal 
+Senior Programme 
+Manager
+Louisa Joseph 
+Career Coach
+Dr Marcia Hazzard 
+Career Coach
+Vanetta Morrison 
+Emotional Wealth 
+Strategist and Counsellor
+Pamela Leonce 
+Career Coach
+Alison Mackay 
+Career Coach
+Banke Sotomi 
+Career Coach
+Nelly Elessa 
+Career Coach
+Marshah Dixon- T erry 
+Programme Lead
+Maureen Obatomi 
+Career Coach
+Maryane Mwaniki 
+Career Coach and 
+Counselor
+
+13
+Rationale
+Black women’s academic progression
+The aim of the 100 Black Women Professors NOW (100BWPN) programme is to increase the number of 
+Black women at every stage of the academic pipeline and accelerate their career progression. 
+Rollock’s (2019) Staying Power report highlighted the critical underrepresentation of Black women 
+professors in UK Higher Education Institutions (HEIs). Deep rooted institutional racism embedded in 
+HEIs are a major roadblock for Black women academic’s progression, particularly when pursuing senior 
+leadership positions (Pilkington 2013). This, combined with limited access to mentorship, peer support 
+networks (Shilliam 2015) and a lack of clarity regarding the promotional criteria (Leathwood et al 2009) have 
+acted as barriers to Black women progressing within academia. 
+Attempts to address this underrepresentation have primarily focussed on individualised initiatives for 
+Black women academics, without addressing the structural nature of racism embedded within institutional 
+cultures. Thus, such initiatives tend to shift the onus of change on to Black women academics while doing 
+little to dismantle the systemic barriers that exist (Bhopal & Pitkin 2020). This is why we designed the 
+100BWPN programme as a systemic change initiative. Using an intersectional approach to understand the 
+multi-layered experiences of Black women in academia (Crenshaw 1989), three key stakeholders were 
+identified, Black women academics, line managers and senior leaders. 
+In our design phase of the programme, we conducted desk-based research which highlighted that Black 
+academics are more likely to be overburdened with administrative tasks allocated by their line managers, 
+leaving limited time to work strategically on projects that will help advance their career development 
+(Wright et al 2007). Additionally, senior leadership can sometimes fail to acknowledge the work of Black 
+academics (Bhopal et al 2015). Hence, it was critical to include the three stakeholder groups to illuminate 
+the experiences of Black women academics and provide them with career planning strategies, as well as 
+provide learning and development opportunities for line managers and senior leaders on best practice 
+measures for achieving systemic change. 
+We incorporated a three-way meeting between the Academic Cohort member, line manager and career 
+coach; as well as frequent meetings between the Academic Cohort and senior leadership as research 
+reveals that Black academics often feel invisible and unheard within their institutions (Bhopal et al 2015). 
+These meetings helped to increase the visibility and voices of Black women academics within their 
+universities and encouraged collective reflection from senior leadership on the systemic changes that could 
+be brought about at an institutional level. 
+T o ensure we are making tangible progress towards achieving systemic change across the sector, we 
+identified core design principles with specific inputs, outputs, outcomes, and impact targets that guided the 
+design and delivery of the programme. 
+
+14
+Core Design Principles
+ • There is a critical under-representation of Black women in every stage of 
+the academic pipeline. 
+ • We must take specific and deliberate action to speed up change.
+ • Our institutions and sector need to do more to become anti-racist.
+ • Black women do not need fixing.
+ • Deep-rooted habits, practices and systems need to change. 
+ • The most senior stakeholders including the Vice-Chancellor must take 
+personal action to lead change. 
+ • Black women academics’ development can be accelerated by coaching, 
+mentorship and sponsorship, networking, and career planning. 
+Inputs, Outputs, Outcomes and Impact 
+Input
+Output
+Outcomes
+Impact
+• Identifying 8 HEI’s
+• Selecting cohort members, managers and senior leaders- a total of 200 stakeholders
+• Bringing together the programme faculty to design and deliver the programme
+• 3 workshops and 2 action learning sets for line managers and senior leaders
+• 3 workshops with academic cohort
+• 5 coaching sessions with academic cohort
+• Quarterly meetings with academic cohort, line managers and senior leaders
+• Raising awareness of the experiences of Black women academics
+• Upskilling senior leaders and line managers to take targeted action to 
+achieve systemic change and adopt inclusive leadership practices 
+• Sponsorship, mentorship and coaching for Black women academics
+• Visiblity and career planning strategies for Black women academics
+• A 100 Black women professors by 2025 across the UK 
+• Equity of opportunity for Black women academics
+• Inclusive leadership practices embedded into every day action
+• Systemic change and sector-wide reform
+
+15
+Methodology
+Data Collection
+Monitoring and evaluation metrics were built into the programme and participants provided their 
+consent for us to share their data within the report. A mixed-methods approach was used to gather both 
+qualitative and quantitative feedback from the participants (Creswell & Creswell 2023) and an external 
+researcher was commissioned to analyse the data. Data was collected in the form of anonymised surveys 
+and a case-study. The surveys comprised of a baseline, midline and endline, with a response rate of 90 
+participants. The case-study investigated the University of Exeter, one of the participating universities on 
+the programme. The methods used for the case-study involved thirty-minute semi-structured interviews 
+with eight participants, with a sample of the different stakeholder groups. T o analyse the data, a thematic 
+analysis was undertaken, and the data was coded and categorized into themes that helped evaluate the 
+programme’s impact (Barun & Clarke 2006). 
+Evaluation Plan 
+As an external researcher, I wanted to understand whether the programme was effective in meeting 
+its objectives. Additionally, I wanted to identify good practices while also underscoring areas for future 
+action and improvement (HMT Magenta Book 2020). T o enable me to do this, I focussed on the following 
+questions whilst analysing the data: 
+• What outcomes have the participants reported?
+• Are these outcomes a direct effect of the programme interventions?
+• Are these outcomes scalable and replicable?
+• Were all elements of the programme design working cohesively in achieving the programme aims?
+• What needs improvement?
+
+16
+Baseline, Midline and Endline Survey Findings:
+I. Overall Impact for the Academic Cohort
+A. Personal and Career Development
+The programme had a significant impact on the academic cohort’s personal and career development as 
+evidenced in the below diagram:
+There were two identifiable reasons why the programme generated such a resounding response from the 
+Academic Cohort. 
+i. Clarity
+The programme gave Black women academics greater clarity on how to navigate their careers. They 
+worked closely with career coaches and line managers to strategize their career planning. As one cohort 
+noted in her feedback form:
+At the end of the programme, the Academic Cohort said they had greater clarity regarding: 
+ 68%
+ 79%
+ 68%
+ 84%
+ 84%
+Access to promotion opportunities
+Agree 0 10 20 30 40 50 60 70 80 90
+Clarity on Action Required for Career Progression
+The role of leaders in implementing change
+The criteria for successfully achieving a promotion
+Changes needed from my institution
+People needed in my personal boardroom
+Helped 
+my career 
+development 
+(79%)
+Helped my 
+personal 
+development 
+(89%)
+Understand 
+key areas of 
+development 
+(95%)
+Developed 
+a career 
+action plan 
+100%
+“
+“
+The programme has given me the time to clarify 
+where and how I want to be a leader. This has 
+changed how and what opportunities I accept.
+
+17
+ii. Visibility and the Power of Building Personal Networks 
+Another significant benefit of the programme was the opportunity it gave Black women in academia to 
+develop networks and a sense of community with other Black women. As one participant wrote in her 
+feedback form:
+There was also an increase in the visibility of Black women academics and their network building with 
+senior leaders, as one participated noted: 
+B. Improved Career Retention for Black Women in Academia
+There was also a notable difference with the support the cohort received to achieve their career goals 
+before and after the programme:
+21%
+“
+“
+“
+“
+63%
+of participants reported at the start of the 
+programme that they felt unsupported 
+with their career goals. 
+of these women said that as a result of 
+programme, they now feel that they have the 
+necessary support to achieve career goals. 
+The programme as a whole has enabled me to feel more 
+visible in the institution and to share and to get to know 
+others in more senior positions. I have gained in confidence 
+to follow my career aspirations. I feel that the institution is 
+more committed to supporting Black academics to progress 
+and hopeful that these will be fulfilled. I feel that I have 
+gained knowledge and skills to support colleagues further to 
+achieve their career aspirations through my mentorship and 
+guidance. I am determined to effect change.
+It has helped me visualise more clearly what and 
+how my career can progress in academia. It has 
+also enabled me to access an amazing community 
+of Black women who have inspired and motivated 
+me along this journey, and it is lovely knowing that 
+I will continue to have this community to access 
+beyond the end of the programme.
+
+18
+II. Overall Impact on Institutional Leaders
+For senior leaders and line managers, the programme achieved the following: 
+A. Awareness & Clarity
+A critical roadblock to systemic change is the covert institutional racism embedded within everyday 
+practices of universities (Pilkington 2013). Raising awareness on how to embed systemic change within 
+universities and illuminating the lived experience of the Black women academics was paramount. Upon 
+completing the programme, institutional leaders and line managers reported the following:
+Here is what some of the leaders had to say:
+Clearer understanding of how I 
+can use my role to help achieve 
+systemic change 
+(83%)
+Clearer understanding of 
+systemic change and inclusive 
+leadership practices 
+ (89%)
+Clearer understanding 
+of Black women’s 
+experiences 
+(100%)
+“
+“
+“
+“
+A much greater understanding of the experiences 
+and challenges faced. I wasn’t unaware to begin 
+with but hadn’t fully appreciated the extent.
+I have developed a deeper understanding of the 
+perspective of my mentee who took part on the 
+programme and have learned a lot from her. I have 
+reflected more on my own privilege and the barriers to 
+progression for Black women academics. I have felt more 
+empowered to challenge upwards at University Executive 
+Board level to contribute to dismantling those barriers. 
+
+19
+B. Upskilling and Inclusive Leadership 
+A core objective of the programme is to provide line managers and senior leaders with learning and 
+development opportunities to better understand how they can be an inclusive leader. This is because 
+research shows that gender, race, and class play a significant role in shaping ideas of leadership practices 
+(Showunmi 2020). Acknowledging differences and familiarising oneself with more collaborative models of 
+leadership is key to becoming a more inclusive leader (Arday & Mirza 2018). 
+The inclusive leadership workshop helped line managers and senior leaders understand how they can 
+develop their skills as sensitive, thoughtful leaders, who respond to and facilitate challenging conversations 
+on race and gender inequity with tact and diplomacy. 
+C. Setting Institutional T argets and Commitments 
+Another key objective for the programme was to support universities with an action plan on how they 
+would implement systemic change with clear roles and responsibilities for stakeholders to maximise 
+accountability. 
+While 50% is a good starting point, this component of the programme indicates the need for stronger 
+reinforcement of action plans and commitments from institutions. Participants provided some useful 
+insights when asked what could be done by their institutions to accelerate the pace of change: 
+72%
+of participants reported that 
+this had helped them become 
+a more inclusive leader.
+Following the 
+workshop, 
+50%
+of line managers and senior leaders 
+reported that their institution had 
+developed an action plan and identified 
+their personal commitments towards 
+driving this change.
+At the 
+end of the 
+programme, 
+“ “
+Rethink our promotion criteria to surface 
+what is most valuable, and actively support 
+Black women colleagues to progress.
+Continue to invest in this programme. Examine carefully 
+the progression routes to Professor level and reform them.
+Raise the profile of these issues; commitment at the 
+most senior level of the institution; remove barriers to 
+progression; educate and influence line managers. 
+
+20
+Case-Study: University of Exeter
+T o assess the impact of the programme at the University of Exeter, the following research questions were 
+developed to guide the interview structure: 
+a) What was the most significant benefit of the programme?
+b) What changes have occurred at your university as a result of the programme?
+c) What recommendations do you have for improving the programme?
+The following people from the University of Exeter were interviewed:
+• Dr. Liliane Mukaremera, Lecturer (Early to Mid-Career Academic) 
+• Dr. Winifred Nyinoh, Associate Lecturer, Education & Scholarship (Early to Mid-Career Academic)
+• Colleen Douglas- T emple, Lecturer and Academic Mentor & Internal Quality Assurer for Degree 
+Apprenticeships (Phd Candidate)
+• Melody Jombe, Lecturer, Education and Scholarship (Phd Candidate)
+• Dr. Neil Gow, Deputy Vice-Chancellor, Research & Impact (Senior Leadership)
+• Imelda Rogers, Executive Divisional Director for Human Resources (Senior Leadership)
+• Shraddha Chaudhary, Assistant Director, Culture and Inclusion (Senior Leadership)
+• Dr Louise Lawrence, Professor of New T estament Interpretation (Line Manager)
+The participants were provided with information on the case-study and how their data will be used prior 
+to the interviews taking place. All of the participants provided their written consent to partake in the case-
+study, allow the researcher to audio-record, transcribe the interviews and share their responses and 
+personal images within the report. 
+I. Benefits of the Programme
+When asked about the benefits of the programme, participants noted that the 100BWPN programme is 
+committed to enabling change at all levels within the university. Middle management and senior leadership 
+were involved in effecting change and supporting Black women academics. Additional benefits were 
+categorised into a diagram below:
+Bridging 
+Information 
+Gaps
+Cross-institutional 
+learning
+Visibility for 
+Black women 
+academics
+Career Growth 
+and Progress
+Building momentum 
+for systemic 
+change
+Buiilding a network 
+of Black women 
+academics
+
+21
+II. Changes resulting from the 
+100BWPN Programme
+Participants provided several links between 
+the programme interventions and changes 
+within the university. For example, majority of 
+the interviewees discussed the opportunities 
+that members of the Academic Cohort 
+received. This included a high-profile press 
+collaboration with BBC Devon to showcase 
+the contributions of the Academic Cohort. 
+The cohort had the opportunity to speak 
+about their experience as a participant on 
+the programme and share their subject area 
+expertise. 
+The university also organised an event to 
+illuminate the underrepresentation of Black 
+women academics in the field of Humanities, 
+Arts and Social Sciences (HASS). Additionally, 
+resources and videos that outlined how 
+line managers, PhD supervisors and senior 
+leaders can support the career pathways of 
+Black women academics were designed and 
+disseminated across the university.
+Participants also shared how the programme 
+had a direct benefit on them:
+• Dr. Winifred was able to accelerate her 
+promotion by getting the confidence to 
+apply for it. She said, “had it not been for 
+the programme, I might not have applied 
+when I did.” 
+• Imelda Rogers, the Executive Divisional 
+Director for Human Resources said, “at 
+an institutional level, we have committed to 
+ensuring that all of our interview panels, above 
+and from the executive level and AP&P level, 
+will have diverse representation.” Seconding 
+this, Dr. Louise Lawrence also spoke 
+about how the language in the Personal 
+Development Review was re-worded 
+from ‘Training Needs’ to ‘Development, 
+Opportunities and Experiences’ which 
+reflects the programme’s terminology. 
+• Shraddha Chaudhary, Assistant Director 
+of Culture and Inclusion reported that the 
+programme was instrumental in “changing 
+how we involve people in decision-making. We 
+took the cohort and involved them in strategic 
+projects and recruitment.”
+Pictures from the ‘ Amplifying Impact in HASS’ 
+event held at the University of Exeter
+
+22
+III. Future Recommendations for the 100BWPN Programme from Exeter
+Interviewees shared several recommendations for improving the programme design and delivery; along 
+with reflections on how Black women could get ahead in their careers. We have highlighted some of these 
+recommendations, edited and condensed for clarity:
+“For Black women academics, the biggest 
+roadblock is the information asymmetry within 
+academia. If no one tells you something, you 
+don’t know. But it also comes back to us. We 
+have to be proactive; put ourselves out there 
+and make ourselves visible.”
+Melody Kuziwa Jombe, Lecturer in 
+ Business Management
+“Build partnership with other institutions in the 
+research funding ecosystem and get them to 
+endorse the commitments of the programme. 
+This might be a way of connecting 
+commitments, dividends and institutions and 
+amplifying impact”
+Dr. Neil Gow, Deputy Vice-Chancellor, 
+Research & Impact
+“The programme was great, and more 
+mechanisms for accountability checks and 
+follow-ups in between workshops would be 
+helpful. Additionally, it’s important to strengthen 
+information feedback loops between each 
+stakeholder and the university administration”
+Shraddha Chaudhary, Assistant Director, 
+Culture and Inclusion 
+“Impress upon the participants from the 
+very beginning to treat the programme like 
+a business project with clear outcomes, 
+key milestones, deliverables and 
+timeline and not just another training and 
+development programme”
+Ms. Imelda Rogers, Executive Divisional 
+Director for Human Resources. 
+
+23
+Discussion
+The tables below demonstrated how the proposed outcomes align with reported outcomes and the 
+specific programme activity responsible for these outcomes: 
+Academic Cohort
+Line Managers and Senior Leaders
+Proposed outcomes Programme process Reported outcomes
+Visibility for Black women 
+academics
+Meetings with Academic Cohort, line 
+managers and senior leaders 
+A three-way coaching session with 
+line-manager, career coach and 
+Academic Cohort 
+The Academic Cohort at Exeter received visibility 
+in the press on the radio programme, Voices of 
+Change on BBC Devon. 
+Career and personal 
+development
+Career planning workshop
+Career coaching 
+Career strategies workshop
+Mentorship and Sponsorship
+89% of the Academic Cohort surveyed said 
+the programme had helped their personal 
+development.
+79% of the Academic Cohort surveyed said 
+that the programme had helped their career 
+development. 
+Creation of community, 
+networks, and peer support 
+groups
+Career planning workshop
+Career strategies workshop
+Interviewees from Exeter highlighted that the 
+creation of community networks was one of the 
+most significant benefits of the programme.
+Improving clarity on 
+commitments, roles, and 
+responsibilities
+Career planning workshop
+Career strategies workshop
+68% of the Academic Cohort surveyed said that 
+the programme had helped them clarify the role 
+of institutional leaders in working to implement 
+change across the university.
+Proposed outcomes Programme process Reported outcomes
+Raising awareness on the 
+lived experiences of Black 
+women academics
+Systemic Change Workshop 100% of line managers and senior leaders 
+surveyed said they had a clearer understanding of 
+Black women’s experiences after the programme.
+Improving clarity on 
+commitments, roles, and 
+responsibilities
+Action Learning Sets 83% of line managers and senior leaders surveyed 
+said they had a clearer understanding of how they 
+can use their role to help achieve systemic change.
+Developing an institution-
+wide action plan
+Delivering Change Workshop 50% of line managers and senior leaders surveyed 
+said that their universities had developed a 
+collective action plan. 
+Upskilling and inclusive 
+leadership learning and 
+development 
+Inclusive Leadership Workshop 72% of line managers and senior leaders surveyed 
+said that the programme had developed their 
+leadership skills.
+
+24
+Next Steps
+The 100BWPN programme has had two successful cohorts; three Black women academics have been 
+promoted to professorship, and WHEN will be launching a new cohort in January 2024. Whilst this report 
+sheds light on some of the groundbreaking opportunities and learnings that have taken place on the 
+programme, there is still a lot of work to do to help accelerate the pace of change. 
+Below are a few key recommendations to help sustain the momentum of achieving systemic change. 
+Recommendations for Black women academics :
+• Be proactive and bold in seeking out information, mentors, sponsors, and opportunities: Hiring and 
+promotional criteria within universities can be opaque (Wright et al 2007). This, combined with a lack of 
+racially sensitive mentoring (Harris & Ogbonna 2022) can negatively impact career advancement for Black 
+women in academia. While universities themselves have an obligation to correct these gaps, Black women 
+should be strategic in identifying sponsors and mentors within or outside their institution. 
+• Be strategic about career choices: It is imperative to think strategically about your career progression 
+and actively find ways of aligning your work and research interests with institutional aims, goals, and values 
+(Wright et al 2007; Rollock 2019). 
+• Nurture and grow your support network: Dealing with day-to-day microaggressions and institutional 
+racism can result in racial battle fatigue (Smith 2004). Verdi and Ebsworth’s research (2009) found 
+that underrepresented groups had better career experiences when working collaboratively with 
+other academics. Black women should leverage the networks developed within the programme to find 
+opportunities for research, collaboration, and support. 
+Recommendations for Universities:
+• Differentiate between commitment and interest: Identify the distinction between interest in the 
+programme more broadly, and tangible commitment to changing the status quo. The latter is what will help 
+ensure that universities do more to identify and prioritise clear commitments and action towards systemic 
+change.
+• Provide Black women academics with opportunities in decision-making: A major barrier to systemic 
+change is the current underrepresentation of Black women academics in senior leadership roles 
+(Rollock 2021). This can limit their influence and diversity of thought in helping to change the status 
+quo. Universities should actively ensure that Black women academics have opportunities to contribute 
+to strategic decision-making and ensure that any additional workload is in proportion with other 
+responsibilities and formally recognised. 
+• Increased visibility of Black women academics: Black women academics have reported feeling 
+overworked and devalued within their institutions (Wright et al 2007; Rollock 2019). Thus, universities 
+need to ensure that they are promoting the work of Black women academics and providing them with 
+opportunities to showcase their work within the university and across the sector. 
+• Restructuring the promotion criteria and improving transparency: Some Black academics have reported 
+that their scholarly contributions are often overlooked, particularly if it does not align with White norms of 
+knowledge production (Rollock 2019). Universities must ensure that their promotion criteria are inclusive, 
+eliminate the hidden criteria and provide fair recruitment training for panel members to ensure there is 
+equity of opportunity and improved transparency. 
+
+25
+Recommendations for the Higher Education Sector:
+• Widening the academic pipeline: Black girls face multi-dimensional challenges throughout their schooling 
+and education (Johnson & Ginsberg 2015) and while targeted interventions to support Black women 
+academics is imperative, earlier interventions are required. Black girls need to see a career in academia as 
+attainable and be actively supported with resources to do so. Research indicates that Black postgraduate 
+students are more likely to self-fund their studies due to a lack of access to research funding opportunities 
+(Williams et al 2019). Thus, universities and research funding councils must provide targeted scholarships 
+for Black girls to pursue postgraduate studies to widen the academic pipeline of Black women academics. 
+• Inclusive research grants and funding: Being able to attract funding for research is an important 
+requirement for advancing one’s career as an academic (Rollock 2019). However, research areas and 
+interests pursued by Black academics can sometimes receive less funding (Wright et al 2007). Universities 
+and research funding councils must actively ensure that research grants and funding opportunities are 
+more inclusive and accessible for Black women academics. 
+• Building a culture of accountability: T o create sustainable systemic change, a culture of accountability 
+is required cross institutionally. This can be achieved by maintaining professional networks from the 
+programme. For example, Vice Chancellor’s, HR Directors, EDI Leads and Research Directors should work 
+together cross-institutionally to hold each other to account on action plans, strategize ways to accelerate 
+the pace of change across the sector and share best practice.
+Thank you 
+2023 Programme End
+We would like to thank the following universities 
+for partnering with us on phase two of the 
+100BWPN in 2023:
+• University of Manchester
+• University of Leeds
+• University of East London
+• University of Exeter 
+• City, University of London
+• University of East Anglia
+• University of West London
+• Open University 
+We would also like to thank the entire WHEN 
+team and our programme faculty for their 
+invaluable contribution to planning, designing, 
+and delivering the programme. 
+2024 Programme Launch
+We are pleased to be partnering with the 
+following institutions for phase three of the 
+100BWPN programme in 2024:
+• University of Bristol
+• London Met University
+• University of the West of England
+• City, University of London
+• University of Exeter
+• University of Manchester
+• University of East London
+• Open University
+• University of Leeds
+2025 Programme Expressions of Interest 
+Early expressions of interest for the fourth phase 
+of the programme in 2025 are now open. We 
+encourage institutions that are committed to 
+accelerating the pace of change to get in touch 
+with us. If you are a Black woman academic that 
+is interested in the programme, please share the 
+report with your senior leaders and put them in 
+touch with us. 
+For more information on how to get 
+involved, please visit our website:
+www.whenequality.org/100.
+
+References 
+• Advance HE (2023) Equality in higher education: staff statistical report 2023. London: 
+Advance HE.
+• Arday,J. & Safia Mirza, H. (2018) Dismantling Race in Higher Education: Racism, Whiteness 
+and Decolonising the Academy, Springer. 
+• Bhopal K., Brown, H & Jackson, J. (2015) Academic flight: how to encourage Black and 
+minority ethnic academics to stay in UK higher education, Research Report, London: ECU. 
+• Bhopal, K. & Pitkin, C. (2020), “Same old story, just a different policy’: race and policy making 
+in higher education in the UK’ Race Ethnicity and Education, 530-547. 
+• Braun, V . & Clarke, V . (2006) ‘Using thematic analysis in psychology’, Qualitative Research in 
+Psychology, 3(2), 77– 101.
+• Crenshaw, K. (1989) ‘Demarginalizing the intersection of race and sex: a Black feminist 
+critique of antidiscrimination doctrine’, Feminist Theory and Antiracist Politics,” University of 
+Chicago Legal Forum 1989 (1), 139- 167. 
+• Creswell, J., & Creswell, D.(2023), Research Design: Qualitative, Quantitative and Mixed 
+Method Approaches 6th ed., Sage publications. 
+• Diego Baptista, ‘We’re exploring targeted funding for Black researchers – here’s how you 
+can help’ available at <https:/ /wellcome.org/news/were-exploring-targeted-funding-black-
+researchers>, 13th March, 2023.
+•• Harris, L. & Ogbonna, E. (2023) ‘Equal opportunities but unequal mentoring? The 
+perceptions of mentoring by Black and minority ethnic academics in the UK university 
+sector’, Human Resource Management Journal, 1- 17.
+• HM Treasury, (2020) Magenta Book: Central Government Guidance on Evaluation. 
+• Johnson, D. M., and Ginsberg, A. E. (2015). Difficult Dialogues about Twenty-First- Century 
+Girls. Albany, NY: State University of New Y ork Press. 
+• Leathwood, C., Maylor, U. & Moreau, M.P . (2009) Experiences of black and minority ethnic 
+staff working in higher education: literature review, London: Institute for Policy Studies in 
+Education London Metropolitan University.
+• Miller, P . (2016) ‘White sanction: institutional, group, and individual interaction in the 
+promotion and progression of black and minority ethnic academics and teachers in England’ 
+Power and Education, 8(3), 205-221. 
+• Pilkington, A. (2013) ‘The interacting dynamics of institutional racism in higher education’, 
+Race Ethnicity and Education, 16(2), 225-245.
+• Rollock, N. (2019), Staying Power: UCU. 
+• Rollock, N. (2021) ‘I would have become wallpaper had racism had its way’: Black female 
+professors, racial battle fatigue, and strategies for surviving higher education, Peabody 
+Journal of Education, 96:2, 206-217.
+• Shilliam, R. (2015) ‘Black academia: the doors have been opened but the architecture 
+remains the same’ in Alexander C., and R. Arday (Eds.), Aiming Higher: Race, Inequality and 
+Diversity in the Academy, Runnymede Trust.
+• Showunmi, V . (2020) ‘The importance of intersectionality in higher education and 
+educational leadership research’ Journal of Higher Education Policy And Leadership 
+Studies, 1(1) 46-63. 
+• Smith, W. A. (2004). ‘Black faculty coping with racial battle fatigue: The campus racial climate 
+in a post-civil rights era’ In D. Cleveland (Ed.), A long Way to Go: Conversations About Race 
+By African American Faculty and Graduate students. 
+• Verdi, G., & Ebsworth, M. (2009) ‘Working-class women academics: four socio-linguistic 
+journeys’ Journal Of Multicultural Discourses 4(2) 183-204. 
+• Williams, P ., Bath, S., Arday, J., & Lewis, C. (2019). The Broken Pipeline: Barriers to Black PhD 
+Students Accessing Research Council Funding.
+• Wright C., Thompson, S. & Channer Y .,(2007) ‘Out of place: Black women academics in 
+British universities, Women’s History Review, 16:2, 145- 162. 
+• Wright, H. R., Cooper, L., & Luff, P . (2017) ‘Women’s ways of working: circumventing 
+the masculine structures operating within and upon the university’ Women’s Studies 
+International Forum, 61, 123– 131. 
+www.whenequality.org/100
+Printed onto 100% recycled paper

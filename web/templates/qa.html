@@ -1,0 +1,322 @@
+{% extends "base.html" %}
+
+{% block title %}Q&A - EDI Hub{% endblock %}
+
+{% block content %}
+<div class="qa-container">
+    <div class="qa-header">
+        <h1>AI Q&A</h1>
+        <button type="button" class="btn btn-small btn-outline" id="resetChatBtn" aria-label="Reset chat">Reset chat</button>
+    </div>
+    <div class="chat-container">
+        <div class="chat-messages" id="chatMessages"></div>
+        <div class="chat-loading" id="chatLoading" style="display: none;" aria-live="polite">
+            <img src="/static/icon-robot.svg" alt="" class="chat-icon" width="24" height="24">
+            <span>Assistant is typing…</span>
+        </div>
+        <div class="chat-choices" id="chatChoices"></div>
+        <div class="chat-input-container">
+            <form id="chatForm" class="chat-form">
+                <input
+                    type="text"
+                    id="messageInput"
+                    placeholder="Type your question..."
+                    class="chat-input"
+                    autocomplete="off"
+                    aria-label="Chat input"
+                    disabled
+                >
+                <button type="submit" class="btn btn-primary" id="sendBtn" disabled>Send</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- Sources modal -->
+<div id="sourcesModal" class="modal" role="dialog" aria-labelledby="sourcesModalTitle" aria-modal="true" hidden>
+    <div class="modal-backdrop" id="sourcesModalBackdrop"></div>
+    <div class="modal-content">
+        <div class="modal-header">
+            <h2 id="sourcesModalTitle">Sources used</h2>
+            <button type="button" class="modal-close" id="sourcesModalClose" aria-label="Close">&times;</button>
+        </div>
+        <div class="modal-body" id="sourcesModalBody"></div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked@8/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3/dist/purify.min.js"></script>
+<script>
+const chatMessages = document.getElementById('chatMessages');
+const chatLoading = document.getElementById('chatLoading');
+const chatChoices = document.getElementById('chatChoices');
+const chatForm = document.getElementById('chatForm');
+const messageInput = document.getElementById('messageInput');
+const sendBtn = document.getElementById('sendBtn');
+const resetChatBtn = document.getElementById('resetChatBtn');
+const sourcesModal = document.getElementById('sourcesModal');
+const sourcesModalBackdrop = document.getElementById('sourcesModalBackdrop');
+const sourcesModalClose = document.getElementById('sourcesModalClose');
+const sourcesModalBody = document.getElementById('sourcesModalBody');
+
+const API_TIMEOUT_MS = 300000;  // 5 minutes
+
+function scrollChatToBottom() {
+    setTimeout(function() {
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+    }, 0);
+}
+
+function stripCiteTokens(text) {
+    if (!text) return '';
+    return text.replace(/\[CITE:[^\]]+\]/g, '').replace(/\s+/g, ' ').trim();
+}
+
+/** Remove CITE tokens but preserve newlines (for structured display). */
+function stripCiteTokensKeepNewlines(text) {
+    if (!text) return '';
+    return text.replace(/\[CITE:[^\]]+\]/g, '').trim();
+}
+
+/** Render assistant message as sanitized Markdown HTML. User messages stay plain. */
+function renderAssistantMessage(content) {
+    var raw = stripCiteTokensKeepNewlines(content || '');
+    if (typeof marked === 'undefined' || typeof DOMPurify === 'undefined') {
+        var withBold = raw.replace(/\*\*([^*]+)\*\*/g, '\u0001S\u0002$1\u0001S\u0003');
+        var escaped = withBold.replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/\n/g, '<br>');
+        return escaped.replace(/\u0001S\u0002/g, '<strong>').replace(/\u0001S\u0003/g, '</strong>');
+    }
+    var html = typeof marked.parse === 'function' ? marked.parse(raw, { async: false }) : (marked(raw) || raw);
+    return DOMPurify.sanitize(html, { ALLOWED_TAGS: ['p', 'br', 'strong', 'em', 'b', 'i', 'u', 'ul', 'ol', 'li', 'h1', 'h2', 'h3', 'code', 'pre', 'blockquote', 'hr'] });
+}
+
+function addBubble(role, content, sources, isAppend) {
+    const wrap = document.createElement('div');
+    wrap.className = 'chat-bubble-wrap chat-bubble-' + role;
+    const icon = document.createElement('img');
+    icon.src = role === 'assistant' ? '/static/icon-robot.svg' : '/static/icon-user.svg';
+    icon.alt = '';
+    icon.className = 'chat-bubble-icon';
+    icon.setAttribute('width', '24');
+    icon.setAttribute('height', '24');
+    const contentWrap = document.createElement('div');
+    contentWrap.className = 'chat-bubble-content';
+    const bubble = document.createElement('div');
+    bubble.className = 'chat-bubble';
+    if (role === 'assistant') {
+        bubble.innerHTML = renderAssistantMessage(content);
+    } else {
+        bubble.textContent = content || '';
+    }
+    contentWrap.appendChild(bubble);
+    if (role === 'assistant' && sources && sources.length > 0) {
+        const sourcesBtn = document.createElement('button');
+        sourcesBtn.type = 'button';
+        sourcesBtn.className = 'btn btn-small btn-outline sources-btn';
+        sourcesBtn.textContent = 'Sources (' + sources.length + ')';
+        sourcesBtn.addEventListener('click', function() { openSourcesModal(sources); });
+        contentWrap.appendChild(sourcesBtn);
+    }
+    wrap.appendChild(icon);
+    wrap.appendChild(contentWrap);
+    if (isAppend !== false) chatMessages.appendChild(wrap);
+    scrollChatToBottom();
+    return wrap;
+}
+
+var LINK_ICON_SVG = '<svg class="sources-modal-link-icon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>';
+function openSourcesModal(sources) {
+    sourcesModalBody.innerHTML = '';
+    sourcesModal.hidden = false;
+    sourcesModal.removeAttribute('aria-hidden');
+    const list = document.createElement('ul');
+    list.className = 'sources-modal-list';
+    sources.forEach(function(s, index) {
+        const rank = index + 1;
+        const docId = s.doc_id != null && s.doc_id !== '' ? s.doc_id : (s.chunk_id || '').toString().split(':')[0] || s.title || '#';
+        const titleRaw = s.title || 'Untitled';
+        const titleDisplay = titleRaw.replace(/_/g, ' ');
+        const li = document.createElement('li');
+        li.className = 'sources-modal-row';
+        const rankEl = document.createElement('span');
+        rankEl.className = 'sources-modal-rank';
+        rankEl.textContent = String(rank);
+        rankEl.setAttribute('aria-hidden', 'true');
+        li.appendChild(rankEl);
+        const linkWrap = document.createElement('span');
+        linkWrap.className = 'sources-modal-cell sources-modal-link-wrap';
+        const a = document.createElement('a');
+        a.href = '/resource/' + encodeURIComponent(docId);
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+        a.className = 'sources-modal-link';
+        a.setAttribute('aria-label', titleDisplay + ' (opens in new tab)');
+        a.textContent = titleDisplay;
+        var linkIcon = document.createElement('span');
+        linkIcon.className = 'sources-modal-link-icon-wrap';
+        linkIcon.innerHTML = LINK_ICON_SVG;
+        linkIcon.setAttribute('aria-hidden', 'true');
+        a.appendChild(linkIcon);
+        linkWrap.appendChild(a);
+        li.appendChild(linkWrap);
+        list.appendChild(li);
+    });
+    sourcesModalBody.appendChild(list);
+}
+
+function closeSourcesModal() {
+    sourcesModal.hidden = true;
+    sourcesModal.setAttribute('aria-hidden', 'true');
+}
+
+sourcesModalBackdrop.addEventListener('click', closeSourcesModal);
+sourcesModalClose.addEventListener('click', closeSourcesModal);
+
+function renderChoices(choices) {
+    chatChoices.innerHTML = '';
+    if (!choices || choices.length === 0) {
+        chatChoices.style.display = 'none';
+        return;
+    }
+    const wrap = document.createElement('div');
+    wrap.className = 'chat-choices-buttons';
+    choices.forEach(function(label) {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'btn btn-outline chat-choice-btn';
+        btn.textContent = label;
+        const val = label.toLowerCase().replace(/\s+/g, ' ');
+        btn.dataset.choice = val === 'generic user' ? 'generic user' : val;
+        btn.addEventListener('click', function() { sendChoice(btn.dataset.choice); });
+        wrap.appendChild(btn);
+    });
+    chatChoices.appendChild(wrap);
+    chatChoices.style.display = 'block';
+    scrollChatToBottom();
+}
+
+function setInputEnabled(enabled) {
+    messageInput.disabled = !enabled;
+    sendBtn.disabled = !enabled;
+    messageInput.placeholder = enabled ? 'Type your question...' : 'Answer the question above first.';
+}
+
+function showLoading(show) {
+    chatLoading.style.display = show ? 'flex' : 'none';
+}
+
+function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text == null ? '' : text;
+    return div.innerHTML;
+}
+
+function apiPost(body) {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(function() { controller.abort(); }, API_TIMEOUT_MS);
+    return fetch('/api/qa', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(body),
+        signal: controller.signal
+    }).finally(function() { clearTimeout(timeoutId); });
+}
+
+function sendChoice(choice) {
+    chatChoices.style.display = 'none';
+    addBubble('user', choice);
+    showLoading(true);
+    apiPost({ action: 'choice', choice: choice })
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+            showLoading(false);
+            if (data.messages && data.messages.length) {
+                var last = data.messages[data.messages.length - 1];
+                if (last.role === 'assistant') addBubble('assistant', last.content, last.sources);
+            }
+            if (data.ui_state) {
+                setInputEnabled(!!data.ui_state.input_enabled);
+                renderChoices(data.ui_state.choices || []);
+            }
+            scrollChatToBottom();
+        })
+        .catch(function() {
+            showLoading(false);
+            addBubble('assistant', 'Something went wrong. Please try again.');
+            setInputEnabled(true);
+            renderChoices([]);
+        });
+}
+
+chatForm.addEventListener('submit', function(e) {
+    e.preventDefault();
+    var message = messageInput.value.trim();
+    if (!message || messageInput.disabled) return;
+    messageInput.value = '';
+    addBubble('user', message);
+    showLoading(true);
+    apiPost({ action: 'message', message: message })
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+            showLoading(false);
+            if (data.messages && data.messages.length) {
+                var last = data.messages[data.messages.length - 1];
+                if (last.role === 'assistant') addBubble('assistant', last.content, last.sources);
+            }
+            scrollChatToBottom();
+        })
+        .catch(function(err) {
+            showLoading(false);
+            addBubble('assistant', err.name === 'AbortError' ? 'The request took too long. Please try again.' : 'Something went wrong. Please try again.');
+        });
+});
+
+resetChatBtn.addEventListener('click', function() {
+    apiPost({ action: 'reset' })
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+            chatMessages.innerHTML = '';
+            chatChoices.innerHTML = '';
+            chatChoices.style.display = 'none';
+            if (data.messages && data.messages.length) {
+                data.messages.forEach(function(m) {
+                    addBubble(m.role, m.content, m.sources);
+                });
+            }
+            if (data.ui_state) {
+                setInputEnabled(!!data.ui_state.input_enabled);
+                renderChoices(data.ui_state.choices || []);
+            }
+            scrollChatToBottom();
+        })
+        .catch(function() {
+            chatMessages.innerHTML = '';
+            chatChoices.innerHTML = '';
+            chatChoices.style.display = 'none';
+            addBubble('assistant', 'Welcome to the EDI assistant. I answer questions grounded in the EDI document collection.\n\nBefore we dive in, can I ask you a few quick questions to tailor my answers?');
+            renderChoices(['Yes', 'No']);
+            setInputEnabled(false);
+            scrollChatToBottom();
+        });
+});
+
+// Initial load
+apiPost({ action: 'init' })
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+        if (data.messages) data.messages.forEach(function(m) {
+            addBubble(m.role, m.content, m.sources);
+        });
+        if (data.ui_state) {
+            setInputEnabled(!!data.ui_state.input_enabled);
+            renderChoices(data.ui_state.choices || []);
+        }
+        scrollChatToBottom();
+    })
+    .catch(function() {
+        addBubble('assistant', 'Welcome. Before we dive in, can I ask you a few quick questions to tailor my answers?');
+        renderChoices(['Yes', 'No']);
+        scrollChatToBottom();
+    });
+</script>
+{% endblock %}

@@ -1,0 +1,208 @@
+/glasgowuniversity
+@UofGlasgow
+@UofGlasgow
+UofGlasgow
+Search: University of Glasgow
+CRediT | Recognising author 
+contributions to publications
+Tanita Casci Head of Research Policy
+Valerie McCutcheon Research Information Manager
+@tanitacasci @mccutchv
+FORCE2019
+Edinburgh
+17 October 2019
+
+Research culture: 
+Promoting how research is done
+“A positive research culture is one
+in which colleagues are recognised and valued for 
+their varied contributions to a research activity, 
+in which colleagues support each other to succeed, 
+and in which there is support to produce work that 
+meets the highest standards of academic rigour.”
+
+INSPIRING 
+PEOPLE
+CHANGING THE 
+WORLD
+University Strategy 
+2015–2020
+Drivers
+
+Aim: To recognise and record the distinct roles that each collaborator 
+makes to an output
+Why? 
+> To improve research practice
+Avoid disputes, allegations, credit-hogging
+> To improve research quality
+With credit comes accountability; with transparency comes quality
+> To support careers
+Especially useful for multi-author papers, for ECRs
+> To future-proof scholarly communications
+Authorship contributions
+
+Authorship doesn’t always reflect 
+contribution …
+
+www.casrai.org/credit.html
+
+Term Definition
+Conceptualization Ideas; formulation or evolution of overarching research goals and aims.
+Methodology Development or design of methodology; creation of models.
+Software Programming, software development; designing computer programs; implementation of the computer 
+code and supporting algorithms; testing of existing code components.
+Validation Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of 
+results/experiments and other research outputs.
+Formal 
+Analysis 
+Application of statistical, mathematical, computational, or other formal techniques to analyse or 
+synthesize study data.
+Investigation Conducting a research and investigation process, specifically performing the experiments, or 
+data/evidence collection.
+Resources Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, 
+computing resources, or other analysis tools.
+Data 
+Curation
+Management activities to annotate (produce metadata), scrub data and maintain research data 
+(including software code, where it is necessary for interpreting the data itself) for initial use and later re-
+use.
+Writing –
+Original Draft
+Preparation, creation and/or presentation of the published work, specifically writing the initial draft 
+(including substantive translation).
+Writing –
+Review & Editing
+Preparation, creation and/or presentation of the published work by those from the original research 
+group, specifically critical review, commentary or revision – including pre- or post-publication stages.
+Visualization Preparation, creation and/or presentation of the published work, specifically visualization/data 
+presentation.
+Supervision Oversight and leadership responsibility for the research activity planning and execution, including 
+mentorship external to the core team.
+Project 
+Administration
+Management and coordination responsibility for the research activity planning and execution.
+Funding 
+Acquisition
+Acquisition of the financial support for the project leading to this publication.
+14 
+CRediT
+Roles
+
+CRediT
+implemented 
+by growing 
+number of 
+outlets
+List as of 25/09/19. Visit https://www.casrai.org/credit.html for current list
+
+www.gla.ac.uk/media/media_490311_en.pdfNovember 2017
+The CASRAI (Consortia Advancing Standards in 
+Research Administration Information) document may 
+be helpful in articulating contributions: 
+http://dictionary.casrai.org/Contributor_Roles
+Strategic recruitment schemes
+www.gla.ac.uk/research/lkas/lkasfellowships/leadershipfellowships/#/howtoapply
+
+A Glasgow paper
+
+A Glasgow paper…with roles
+
+Another 
+Glasgow paper
+Wellcome’s
+Open Research 
+platform
+
+Adding Roles on Wellcome’s
+Open Research Platform
+https://wellcomeopenresearch.org/for-authors/publish-your-research 
+
+Adding Roles on Glasgow’s Outputs 
+Repository, Enlighten
+1. When the publisher implements CRediT
+https://eprints.gla.ac.uk/182540
+
+Adding Roles on Glasgow’s Outputs 
+Repository, Enlighten
+2. When the publisher does 
+not implement CRediT
+
+Approach to implementation at UofG
+• Lead Glasgow author responsible for capturing agreed 
+roles of Glasgow authors
+• Must choose from the CRediT options
+• Allow ALL co-authors to review and confirm the roles
+• Ensure information is provided to publisher 
+• If publisher does not request roles, include them in the 
+narrative if possible
+• If publisher does not include in paper, submit to research-
+enlighten@glasgow.ac.uk to have roles recorded on 
+repository 
+
+What next for CRediT?
+• Update definitions so that applicable to all disciplines e.g. who 
+curated an exhibition
+• Look at other output types
+• Some organisations have added an extra bit of metadata – lead, 
+share, assist in the role. Other roles e.g. technicians, data creators.
+• Community manager (a possibility?)
+• In discussion with Crossref and DataCite
+
+What next for us?
+• Repositories might receive the data automatically from 
+publishers
+• Work with researchers, publishers, suppliers, and 
+others to address requirements
+• Feedback to CASRAI on usage and maintenance of roles 
+taxonomy
+• Can this help with Research Excellence Framework 
+author contribution statement?
+
+REF2021 Audit Guidance
+Clause 99b
+“b. Co-authorship. Details of an individual’s contribution 
+to a co-authored output may be requested, to verify their 
+substantial research contribution. We expect HEIs to be 
+able to identify the most appropriate evidence to verify the 
+author’s contribution. Where this cannot be verified the 
+output will be graded as ‘unclassified’. […]
+For outputs returned in submissions that are within Main 
+Panels A and B, where the author contribution has been 
+included in the output acknowledgements, this will take 
+precedence over the statement on co-authored outputs.”
+https://www.ref.ac.uk/publications/audit-guidance-201904/
+
+Find out more about CRediT
+• Update article in Learned Publishing (2019) 
+https://doi.org/10.1002/leap.1210
+• Visit the website: https://casrai.org/credit
+• Ask a colleague from an adopter 
+organisation
+• Join the interest group by contacting 
+CASRAI: info@casrai.org
+
+Who did what
+Name/Affiliation Roles
+Valerie McCutcheon
+University of Glasgow
+Conceptualisation, resources, visualisation, writing –
+original draft
+Tanita Casci
+University of Glasgow
+Resources, visualisation, writing – reviewing and 
+editing
+Liz Allen
+f1000
+Resources, visualisation
+Simon Kerridge
+University of Kent
+Resources, visualisation
+Alison McGonagle
+Co-chair of CRediT Program Committee
+Resources, visualisation
+David Baker 
+eVision
+Resources, visualisation
+The CASRAI UK Steering Group and 
+Community
+Resources, validation

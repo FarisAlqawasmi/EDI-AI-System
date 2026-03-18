@@ -1,0 +1,45 @@
+Virtual meetings and web-based events or webinars can be a great way to connect with people and share information. It's important to make these events accessible for all. This guide is aimed at event or meeting hosts. It should help you make your events more accessible for autistic and fellow neurodivergent people, and those with additional needs.
+1. Ask about people’s needs
+The most important thing you can do is to proactively invite people with accessibility needs to contact you before your event. We include a line in all meeting invitations that says: “If you have additional needs, let the organiser know and we’ll do what we can to help you.” This will help you plan your event, support people during the call and share relevant information before and after.
+You may want to offer the following:
+- Practice call to try out the technology
+- Closed captioning
+- Breaks
+- Personal reminders before the call
+- Advice if a person's WIFI is unreliable
+- Options for a participant without a mic or camera.
+2. Share information in advance
+The best way to reduce anxiety and ensure everyone gets the most out of your event is to share as much information in advance as possible.
+- Share the presentation slides in advance, with explanations in the notes field. Let participants know how you will share the slides during the event.
+- Explain the format of the event and timings.
+- Include a list of those on the call, or at the very least, introduce the host and explain their role.
+- Include a guide to the technology and how you will use it. For example, will you use functions such as chat, hands up or breakout rooms. If so, explain these.
+- Clarify expectations and conventions. Include information such as how you will ensure everyone has a chance to contribute. What is everyone’s role? You may wish to introduce a code of conduct if you anticipate issues around some of these conventions.
+- Explain what will happen after the event – will you follow up via email for those who missed out on certain aspects? Will there be a chance to feed back comments later? If so, how? Will the event be recorded?
+- Find out if anyone with additional needs are happy to be named – that way, you know whether to be open to the group about why you are making certain accommodations. If they are happy to be named, you may wish to share this with participants in advance.
+- Have one point of contact for all questions and concerns.
+- If holding an event around a given topic then a language/terminology guide may be useful to ensure equal understanding and sensitive use of language.
+3. Respect personal preferences
+When you set up the event, use default settings where the mic is muted and the video off. This allows people to opt into what they feel most comfortable with. Don’t force anyone to show their face or speak or type if they don’t want to – they should contribute in a way that suits them best.
+4. Allow for processing time
+Some people may take longer to process information and may take longer to type or speak. It is worth explaining this at the start of the call, so that the pace of the meeting is appropriate, and people are given the best chance to respond. You may wish to use a function that allows the moderator to bring people into the conversation, this can allow everyone to have a say – not just those who speak first. Zoom has a ‘hand up’ function to make this easier. The moderator can also voice comments that are added on chat after a point has been made. With many online event tools, you can choose to record the discussion – this is a good idea for people who may need time to process information – and for anyone who misses things.
+5. Consider physical disabilities
+Some people may use a screen reader to tell them verbally what is going on the screen. Some may have physical difficulties with typing or using a mouse. Bear all these things in mind. The best way to allow for these needs is to ask in advance what would help the individual and have a practice call if necessary.
+6. Try captioning
+Providing live captions can help people to follow what is being said. Zoom allows for closed captioning but it requires manual typing. Microsoft Teams has an automatic captioning feature.
+7. Allow more than one form of communication
+Some host sites allow users to contribute by text as well as over video. Some attendees may prefer to communicate in writing. Equally, it may be useful for one attendee to minute the meeting in a text box, allowing attendees the option of reading or listening. Participants may find it useful to have any questions (even if quick ones) repeated in writing using the chat function so they can refer to them when answering.
+Zoom has a non-verbal communication option that can be enabled where people can press buttons for each of the following, which will show on their screen to all participants and the host can see a summary of how many are pressed: yes, no, speed up, slow down, need a break, gone away, like, dislike, clap.
+8. Make your presentation accessible
+- Make sure there is a spare facilitator who can focus on the accessibility issues.
+- If you use accessibility features, consider testing in advance with disabled delegates.
+- Make sure everyone has their name set as their actual name, and if using a platform like Zoom that allows for easy name changing, ask them to put their job title, institution or company in brackets next to their name.
+- Describe the key content of all slides. For some webinars, you may prepare a transcript. The appropriate paragraphs can be pasted into the text chat pane or another communication channel.
+- Build in points for the facilitator to summarise key threads, both spoken and in the text chat pane. It is also a chance to invite people to comment.
+- The facilitator can use private communication with certain individuals (instant message or phone) to check all is OK. You may need to enable private chat for the facilitator but disable for others.
+- Some events may warrant clapping at the end, but this can be overwhelming for autistic people. You could suggest flappause - waving both hands without making a noise.
+9. Follow up after
+It is a good idea to send delegates a summary of the text chat and key points after the event. This allows those who need more processing time to catch up and to provide feedback on any additional points. It’s also a chance to ask if anyone missed anything.
+This guide is based on our experiences of running virtual meetings and events with the autistic community. Do share your own tips or comments with us so that we can continue to update this guide. Email your thoughts to: info@autistica.org.uk
+Right now, our community needs our advice and your help. Many autistic people were vulnerable before Coronavirus hit - their needs are even greater now.
+If you can, please consider making a donation.

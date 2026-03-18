@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block title %}Home - EDI Hub{% endblock %}
+
+{% block content %}
+<div class="home-container">
+    <div class="hero">
+        <h1>EDI Hub</h1>
+        <p class="subtitle">Equality, Diversity, and Inclusion Research Platform</p>
+    </div>
+
+    <div class="intro-section">
+        <h3>What is EDI?</h3>
+        <p>
+            Equality, Diversity, and Inclusion (EDI) refers to policies and practices that promote
+            fair treatment and full participation of all people, particularly groups that have
+            historically been underrepresented or subject to discrimination. This platform
+            provides access to curated EDI resources and AI-powered question answering to help
+            researchers, educators, and practitioners navigate EDI research and best practices.
+        </p>
+    </div>
+
+    <div class="action-buttons">
+        <a href="{{ url_for('resources') }}" class="btn btn-primary btn-large">
+            Browse Resources
+        </a>
+        <a href="{{ url_for('qa') }}" class="btn btn-secondary btn-large">
+            AI Q&A
+        </a>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+
+{% block title %}Resources - EDI Hub{% endblock %}
+
+{% block content %}
+<div class="resources-container">
+    <header class="resources-header">
+        <div class="resources-heading">
+            <h1>Resources</h1>
+            <p class="resources-header__helper">Browse resources in the EDI collection.</p>
+        </div>
+        <div class="resources-search-row">
+            <form method="get" action="{{ url_for('resources') }}" class="search-form resources-search">
+                <input
+                    type="text"
+                    name="q"
+                    value="{{ search_query }}"
+                    placeholder="Search by title or author..."
+                    class="search-input"
+                    aria-label="Search resources"
+                >
+                <button type="submit" class="btn btn-primary">Search</button>
+                {% if search_query %}
+                <a href="{{ url_for('resources') }}" class="btn btn-secondary">Clear</a>
+                {% endif %}
+            </form>
+        </div>
+    </header>
+
+    <div class="resources-grid">
+        {% for resource in resources %}
+        <div class="resource-card">
+            <div class="resource-card__body">
+                <h3 class="resource-title">{{ resource.title }}</h3>
+                {% if resource.author %}
+                <p class="resource-author">By {{ resource.author }}</p>
+                {% endif %}
+            </div>
+            <div class="resource-card__footer">
+                <div class="card-meta resource-badges">
+                    <span class="badge badge-kind badge-{{ resource.kind }}">{{ resource.kind|upper }}</span>
+                    {% if resource.has_summary %}
+                    <span class="badge badge-summary badge-has-summary">Has Summary</span>
+                    {% else %}
+                    <span class="badge badge-summary badge-no-summary">No Summary</span>
+                    {% endif %}
+                </div>
+                <div class="card-actions resource-actions">
+                    {% if resource.has_valid_url %}
+                    <a href="{{ resource.display_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-small btn-outline" title="Open original resource in a new tab">
+                        Open Original
+                    </a>
+                    {% else %}
+                    <span class="btn btn-small btn-outline btn-disabled" title="No URL available for this resource.">Open Original</span>
+                    {% endif %}
+                    {% if resource.has_preview or resource.has_summary %}
+                    <a href="{{ url_for('resource_detail', resource_id=resource.id) }}" class="btn btn-small btn-primary" title="View resource details and preview">
+                        View resource
+                    </a>
+                    {% else %}
+                    <span class="btn btn-small btn-primary btn-disabled" title="No preview or summary available for this resource.">View resource</span>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+        {% else %}
+        <div class="no-resources">
+            <p>No resources found{% if search_query %} matching "{{ search_query }}"{% endif %}.</p>
+        </div>
+        {% endfor %}
+    </div>
+
+    {% if total_pages > 1 %}
+    <div class="pagination">
+        {% if page > 1 %}
+        <a href="{{ url_for('resources', q=search_query, page=page-1) }}" class="btn btn-outline">Previous</a>
+        {% endif %}
+        <span class="page-info">Page {{ page }} of {{ total_pages }} ({{ total_count }} total)</span>
+        {% if page < total_pages %}
+        <a href="{{ url_for('resources', q=search_query, page=page+1) }}" class="btn btn-outline">Next</a>
+        {% endif %}
+    </div>
+    {% endif %}
+</div>
+{% endblock %}

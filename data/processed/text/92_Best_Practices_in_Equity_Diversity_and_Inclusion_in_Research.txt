@@ -1,0 +1,242 @@
+Best practices in equity, diversity and inclusion in research practice and design
+On this page
+- Updates
+- About this guide
+- Commitment to equity, diversity and inclusion
+- What is “EDI”?
+- Systemic barriers in academia and the research ecosystem
+- Addressing EDI in applications
+- Appendix A—Definitions
+- Appendix B—Additional resources
+Updates
+New Frontiers in Research Fund (NFRF) Webinar on best practices in equity, diversity and inclusion (EDI)
+NFRF expects applicants to clearly demonstrate their strong commitment to EDI in their applications and in the implementation of their research projects, if funded. This webinar accompanies the “Best practices in equity, diversity and inclusion in research practice and design” guide to support NFRF applicants and reviewers in achieving greater equity, diversity and inclusion (EDI) in their research practice and design.
+Applicants and research administrators are encouraged to attend the EDI webinars to learn more about how to integrate EDI into a research project. These webinars apply to all NFRF competitions, including special calls.
+Date | Time | Language | |
+---|---|---|---|
+October 22, 2024 | 10 a.m. to 12 p.m. (eastern) | French | |
+October 22, 2024 | 1 p.m. to 3 p.m. (eastern) | English | |
+About this guide
+This guide helps support New Frontiers in Research Fund (NFRF) applicants and reviewers, in addition to applicants to other federal research funding programs, in achieving greater equity, diversity and inclusion (EDI) in their research practice and design. It is expected that applicants will clearly demonstrate their strong commitment to EDI in their applications and in the implementation of their research projects, if funded.
+Applicants must explain what actions they will take to remove barriers to the recruitment and full participation of individuals from underrepresented groups, which include, but are not limited to, women and gender minorities, Indigenous Peoples (First Nations, Inuit and Métis), racialized individuals, persons with disabilities, and members of the 2SLGBTQIA+ communities
+.A note on language used in the template
+There is no consensus on the use of terms such as “underrepresented,” “underserved,” “disadvantaged,” “marginalized,” “oppressed,” “underrepresented” and “equity-deserving.” None fully capture the harms, barriers and violence experienced by members of these communities. For the sake of clarity, the term “underrepresented” is used throughout this document. The term “underrepresented” here refers not only to a lack of diversity in research, but also to the inequity and exclusion that contribute to and are impacted by both historical and present-day underrepresentation.
+Have feedback?
+The NFRF program welcomes all feedback on how this guide can be improved. Please send your comments to edi-edi@chairs-chaires.gc.ca.
+Summary of changes made to this guide in 2022:
+- “EDI” was changed to “EDI in research practice.”
+- “GBA+” was changed to “EDI in research design.”
+- “Women” was changed to “women and gender minorities.”
+- “Members of visible minorities” was changed to “racialized individuals.”
+- “Conflict of interest” was defined by adding a link to the tri-agency policy.
+- Clarification was added that an applicant who wishes to self-identify in the proposal may do so if it is directly relevant to the application topic (e.g., to demonstrate lived experience on the topic).
+- More information was added on Indigenous research and Indigenous data sovereignty.
+Commitment to equity, diversity and inclusion
+The Canada Research Coordinating Committee (CRCC) and its tri-agency members (the Canadian Institutes of Health Research, the Natural Sciences and Engineering Research Council and the Social Sciences and Humanities Research Council) are committed to excellence in research practice and design. Achieving a more equitable, diverse and inclusive Canadian research enterprise is essential to creating the excellent, innovative and impactful research necessary to advance knowledge and understanding, and to respond to local, national and global challenges.
+With these goals in mind, the agencies are committed to:
+- supporting equitable access to funding opportunities for all researchers and trainees;
+- promoting the integration of EDI-related considerations in research design and practices;
+- increasing equitable and inclusive participation in the research system, including on research teams; and
+- collecting the data and conducting the analyses needed to include EDI considerations in decision-making.
+Through these practices the agencies will work with all participants in the research system to develop the inclusive culture needed to achieve outcomes that are excellent, rigorous, relevant and accessible to all population groups.
+As part of their commitment to EDI, the agencies are proactively integrating EDI considerations into their policies, processes and programs. Since its launch in 2018, EDI requirements have been an integral part of the NFRF program.
+What is “EDI?”
+EDI stands for equity, diversity, and inclusion where:
+- equity is defined as the removal of systemic barriers (e.g., unconscious bias, discrimination, racism, sexism, ableism, homophobia, etc.), enabling all individuals to have equitable opportunity to access and benefit from the program;
+- diversity is about the variety of unique dimensions, identities, qualities and characteristics individuals possess along with other identity factors; and
+- inclusion is defined as the practice of ensuring that all individuals are valued and respected for their contributions and are supported equitably in a culturally safe environment.
+Systemic barriers in academia and the research ecosystem
+Systemic barriers are defined as attitudes, policies, practices or systems that result in individuals from certain population groups receiving unequal access to or being excluded from participation in employment, services or programs (e.g., through discrimination, racism, sexism, homophobia, transphobia, ableism, etc). These barriers are systemic in nature, meaning they result from individual, societal or institutional practices, policies, traditions and/or values that may be “unintended” or “unseen” to those who do not experience them. They can have serious and long-lasting harmful impacts on individuals, such as on their physical and mental health, emotional well-being, life expectancy, physical safety, job and financial security, and career progression.
+Systemic barriers within academia and the research ecosystem are well documented in Canada. To address these persistent barriers within Canada’s research ecosystem, individuals at all levels (e.g., research leaders, students, trainees, faculty, administrators, research funding agencies, policymakers, governments) must play a sustained role in developing an equity-based and anti-racist lens in order to actively identify and mitigate them. All individuals must recognize that systemic barriers exist, develop a strong understanding of what the barriers and their consequences are, and understand how individuals at all levels of the research ecosystem must play a role in addressing them. These barriers are upheld and reinforced from both within and outside the system, and it requires conscious and active education and engagement by all participants within the system to dismantle them.
+Examples of systemic barriers in academia/research:
+- Research conducted by Holly Witteman, Michael Hendricks, Sharon Straus and Cara Tannenbaum demonstrates a gender bias in peer review processes, resulting in a 4% lower success rate for women when the focus of the review is on the calibre of the researcher versus the quality of the research being proposed. The resulting research article is entitled “Are gender gaps due to evaluations of the applicant or the science? A natural experiment at a national funding agency.” It was published in 2019 by The Lancet.
+- The 2018 report by the National Educational Association of Disabled Students (NEADS), Landscape of Accessibility and Accommodation in Post-Secondary Education for Students with Disabilities, outlines the ways in which accessibility is still siloed within academic institutions and how the implementation of accessible solutions continues to lag behind technological capacity.
+- The 2018 report published by the Canadian Association of University Teachers, Underrepresented and Underpaid: Diversity & Equity Among Canada’s Postsecondary Education Teachers, highlights the persistent lack of diversity in the academic workforce, and wage gaps between men and women, and between white and Indigenous and racialized staff.
+- The Equity Myth: Racialization and Indigeneity at Canadian Universities, (2017) by Frances Henry, Enakshi Dua, Carl E. James, Audrey Kobayashi, Peter Li, Howard Ramos and Malinda S. Smith, discusses the barriers in academia faced by racialized and Indigenous faculty, including racism, unconscious or implicit biases, such as curriculum vitae (CV) and accent bias, bias in letters of reference, citation and self-promotion, affinity bias and precarious work, whiteness and white normativity, tokenism, ineffective equity policies, wage gaps and increased workloads (e.g., “the equity tax”).
+- The 2012 Council of Canadian Academies report, Strengthening Canada’s Research Capacity: The Gender Dimension, highlights the bias, stereotypes, lack of role models and mentors, and barriers within institutional practices and policies faced by women in research, which prevent their full participation.
+About intersectionality
+Intersectionality, a term coined by scholar Kimberlé Crenshaw, is a framework for understanding how a person’s different social and political identities can combine and overlap to create different and increased levels of discrimination (e.g., a Black woman faces both racism and sexism while a white woman faces sexism only). The application of an intersectional lens to EDI work is a key component of understanding the complex systems, barriers and power structures that impede the development of an equitable, diverse and inclusive research ecosystem (e.g., breaking down population data to understand the differing levels of impact of policies and practices on individuals with intersecting identities).
+Preventing performativity and tokenism
+Performativity is the practice of doing equity work for compliance or to make an organization or person “look good” and increase its/their social capital versus making genuine efforts to create substantive change.
+Tokenism, a type of performativity, is when inclusion or diversity are pursued in a perfunctory or symbolic fashion. An example of tokenism is the recruitment of individuals from underrepresented groups to create an appearance of diversity without also taking steps to address underlying inequities. Other examples include hiring someone, inviting someone to be on a committee, or inviting someone to be on a research project as a partner/collaborator, but not valuing their contributions, expertise or knowledge; making public commitment statements to prioritize EDI without appropriately funding the work required to support EDI in the organization; assigning work to individuals who have no relevant expertise or lived experience; or shifting priorities away from EDI work when other organizational priorities surface or when public urgency subsides.
+About privacy and confidentiality
+When completing the EDI sections of the NFRF application, applicants must protect the privacy and confidentiality of all team members. How an individual self-identifies (in terms of belonging to one or more population groups) is considered personal information and should not be disclosed.
+- Do not provide information about the composition of the research team in any way (e.g., Dr. X identifies as a racialized individual; the team has X women, X men, etc.).
+- Instead, give concrete examples of clear and specific initiatives and measures the team has undertaken and/or will undertake to realize its EDI goals (see examples in the tables below).
+Information that identifies the personal information (self-identity information) of any of the team members may result in the application being withdrawn from the competition. An exception to this is made in the case where an applicant wishes to self-identify because it is directly relevant to the application’s research topic (e.g., to demonstrate lived experience on the topic). The individual’s consent to disclose should be made clear in the application.
+Addressing EDI in applications
+EDI and related considerations are assessed under two criteria in the NFRF program:
+- EDI in research practice considers the research team and the research environment.
+- Feasibility considers the research plan.
+EDI in research practice (research team and research environment)
+To address the “EDI in research practice” selection criterion, applicants are required to consider the type of research environment they will establish, as research leaders who are responsible for leading, training and mentoring their team members, in relation to:
+- team composition and recruitment processes
+- training and development opportunities
+- inclusion in the research environment
+For each area, teams must identify the best practice(s) they will put in place to address one or more systemic barriers. Examples of best practices are included later in this section. Applicants are not expected to incorporate all the examples provided here in their own applications, but must identify practices they have implemented or will implement, and that will be effective in the specific research context.
+Note: It is not enough to rely on the institution’s EDI policies to meet the expectations of the NFRF program with respect to EDI-RP. It is insufficient to indicate that an institution’s policies will be followed or to copy the institution’s practices. Applicants must clearly convey that they have a strong commitment to and an understanding of EDI and its importance in research, and must clearly explain how the best practices identified for each area were developed in consideration of the specific context of the research environment.
+It is recommended that applicants create an EDI plan with key objectives and action-oriented measures based on the needs of team members and on known systemic barriers in the research environment. It is important that the EDI plan apply an intersectional lens and be based on an understanding of the institution’s and the research team’s environment and specific challenges. Objectives should be SMART (specific, measurable, aligned with the desired outcome, realistic and timely). Strategies for monitoring and reporting on progress, and for course-correcting, if necessary, must be included.
+a. Team composition and recruitment processes
+Why is it important?
+Research shows that a diversity of perspectives and experiences is fundamental to achieving research excellence. Implementing proactive measures to address systemic barriers in recruitment promotes and supports a diversity of perspectives in the research team and helps ensure the best candidates are selected from a large pool of candidates, leading to research that is as impactful and innovative as possible. In the same way that bias in research methods should be mitigated as they can impact the validity and reliability of research findings and thus its excellence, bias and discrimination in decision making and evaluation processes in the composition and management of research teams must also be mitigated to support their excellence. Simply put, bias and discrimination are at odds with and directly counter research excellence.
+Expectations
+When recruiting new team members, applicants are expected to create a diverse team by using best practices to encourage a diverse applicant pool and not disadvantage candidates from underrepresented groups, including, but not limited to, women and gender minorities, Indigenous Peoples, persons with disabilities, racialized individuals, and members of the 2SLGBTQIA+ communities.
+Applicants must identify the best practice(s) that will be implemented to ensure that diversity is being deliberately and proactively considered in composing the team and recruiting team members. If your team is complete and you do not foresee recruiting additional members for the proposed project, outline the concrete practices that have been and/or will be implemented if you need to replace or add a member, to ensure EDI is considered in the team composition and recruitment process.
+Questions and best practices
+The following questions are provided, as examples only, to help applicants consider the types of best practices that could be implemented to address systemic barriers related to team composition and recruitment. Applicants do not need to address each of these questions in their application.
+Clarifying questions for understanding challenges/opportunities | Examples of best practices to address identified barriers | |
+---|---|---|
+Planning the team composition/communicating the opportunity |
+|
+|
+Recruitment process |
+|
+|
+b. Training and development opportunities
+Why is it important?
+Access (or lack of access) to training, development and mentoring opportunities can significantly influence an individual’s research career trajectory. Ensuring that such opportunities are equitably available to all team members can address potential inequities and lead to a more inclusive research environment by helping all members realize their full potential.
+Expectations
+Applicants must describe the best practices that will be implemented to ensure that EDI is intentionally and proactively considered in the training and development opportunities within the team so that they are equitably provided to all members. Applicants must provide a minimum of one concrete practice that will be employed to ensure that EDI is intentionally and proactively considered in the training and development opportunities within the team.
+Questions and best practices
+The following questions are provided as examples only, to help applicants consider which best practices and concrete measures could be implemented in the team to address systemic barriers related to training and development. Applicants do not need to address each of these questions in their application.
+Clarifying questions for understanding challenges/opportunities | Examples of best practices to address identified barriers | |
+---|---|---|
+Training and development opportunities |
+|
+|
+Mentoring |
+|
+|
+c. Inclusion in the research environment
+Why is it important?
+The research team must fully support and integrate all team members so they can reach their full research potential and continue to pursue their career in research (if so desired). Discrimination, microaggressions, biases, inequitable support, lack of recognition, ableism, sexism, anti-Black racism and lack of understanding of Indigenous communities all create harm, such as racial trauma, and can negatively impact a team member’s ability to fully contribute to the work of the team. Inclusion requires consistent education and effort by all team members, so that all team members feel supported and integrated, and so that all lived experiences and research contributions are valued as assets to the team. Research leaders play an important role in modelling and setting expectations within the team in this regard.
+Expectations
+Applicants must describe the best practice(s) they will implement to ensure all team members, in particular individuals from underrepresented groups, are fully integrated and supported in the research team. Applicants must provide a minimum of one concrete practice that will be employed to ensure EDI is intentionally and proactively considered to support the inclusion of all team members.
+Questions and best practices
+The following questions are provided as examples only, to help applicants consider the best practices that could be implemented in the team to address systemic barriers related to inclusion. Applicants do not need to address each of these questions in their application.
+Clarifying questions for identifying systemic barriers | Examples of best practices to address identified systemic barriers | |
+---|---|---|
+Inclusion |
+|
+|
+Feasibility (research plan)
+EDI-research design (EDI-RD) and Indigenous research are elements considered under the Feasibility criterion of the NFRF program.
+- EDI in research design
+The purpose of EDI-RD is to promote rigorous research that is sensitive to diversity and identity factors and must be integrated into the research design, as appropriate.
+EDI in research design involves designing research so that it embeds EDI considerations relevant to each stage of the research process: identifying the research questions; design of the study, methodology and data collection; analysis and interpretation; identification of research users, collaborators and partners; and dissemination of results. EDI may be incorporated in different ways, such as through intersectional analysis, gender-based analysis plus (GBA+), anti-racist, anti-ableist etc approaches and disaggregated data collection. The purpose of an EDI-RD approach is to promote rigorous research that considers identity factors, to ensure that the results are impactful and relevant to the diversity of the Canadian population. Any analyses should include considerations of diversity and identity factors.
+Applicants and reviewers may refer to the Social Sciences and Humanities Research Council’s (SSHRC) Guide to Addressing Equity, Diversity and Inclusion Considerations in Partnership Grant Applications, as well as the Natural Sciences and Engineering Research Council’s guide Equity, diversity and inclusion considerations at each stage of the research process. Health researchers may be more familiar with SGBA/GBA+, a similar approach as described in the Canadian Institutes of Health Research’s (CHIR) Sex-and Gender-Based Analysis (SGBA) website section.
+Examples of questions to consider:
+Why should I consider identity factors in my research design?
+Studies show that consideration of identity factors in a research project’s design has the potential to make research more ethically sound, more rigorous and more useful. Extrapolation of research findings based on a limited, nondiverse sample, when compared to the overall population, can lead to inaccuracies, perpetuate bias and have serious implications for how the research is interpreted and used.
+The benefits of incorporating and risks of not incorporating EDI into the research process are outlined below.
+Benefits of incorporating EDI approaches | Risks of not incorporating EDI approaches |
+---|---|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+How do I know if EDI considerations are relevant factors in my research?
+There is an increasing number of cited studies that would have or have benefited from considering identity factors in the research design and process. A good source for such examples is CIHR’s “Impacts of integrating sex and gender in research” and the Stanford University Gendered Innovations project. These materials provide practical examples and methods for sex and gender considerations, in addition to other factors or variables that should be considered, such as biological, sociocultural or psychological aspects of users, communities, customers, experimental subjects or cells. Research has demonstrated that overlooking certain identity factors, such as race or age, can lead to failed research projects. For example, many technologies using automatic facial, voice and skin recognition have failed to account for variations in these features across race or gender, resulting in technologies that fail when used by individuals with darker skin (Microsoft’s Xbox Kinect, Passport facial recognition software, and even automatic soap dispensers) or individuals with higher-registered or accented voices (voice recognition software in cars, Google, and medical software).
+Applicants are strongly encouraged to take the Status of Women Canada online GBA+ module to better understand these concepts.
+What are some of the guiding questions to consider while designing my research (adapted from SSHRC’s Guide to Addressing Equity, Diversity and Inclusion Considerations in Partnership Grant Applications)?
+- Are identity (e.g., sex, gender, race, ethnicity, disability) considerations taken into account in the research design, methods, analysis and interpretation and/or dissemination of research findings?
+- Who benefits from the research findings? Have you considered which population groups might experience significant unintended impacts (positive or negative) because of the planned research?
+- What is the scope of your proposal (e.g., national, regional, international) and have you considered EDI in specific regional or local contexts/realities?
+- Does the research engage or involve Indigenous Peoples, using best practices and established guidelines? For best practices, please see the resources listed below.
+- Have you included diverse perspectives in the sources consulted and referenced in your application? Are you including, for example, authors from underrepresented groups and/or who employ critical theories (e.g., feminist, race, disability) or Indigenous knowledge systems?
+- Is there diversity in the work consulted and referenced in supporting/secondary research?
+- Have you discussed and agreed on data ownership, control and possession for communities and groups involved in the research, including the OCAP (ownership, control, access and possession) principles for the collection, protection, use and sharing of First Nations’ data and other best practices for protecting Indigenous data sovereignty? How are such communities and groups involved in codeveloping the research objectives?
+- Have you considered the accessibility and adaptive needs of participants involved in the research?
+- Have you included a mechanism to disaggregate your data by diversity-related variables and/or identity factors during both data collection and data analysis, to determine differences between groups? Have you applied an intersectional lens to the data analysis?
+- How could key findings from your research be mobilized so they could be used by specific groups in support of their goals? What forms of knowledge mobilization will be most effective in reaching those who will use and/or could benefit from the findings? Is language taken into consideration in the knowledge mobilization plan, including English and French or other appropriate languages, depending on the individuals or communities involved in the research and the wider audiences you are trying to reach? Are translation services for knowledge mobilization among communities with varied languages planned for, along with other considerations for accessibility of research translation (e.g., screen readers).
+Resources
+- Guide to Addressing Equity, Diversity and Inclusion Considerations in Partnership Grant Applications
+- Equity, diversity and inclusion considerations at each stage of the research process
+- CIHR, Institute of Gender and Health Featured Research
+- CIHR, How to integrate sex and gender into research
+- CIHR, Sex, Gender and Health Research
+- Department of Women and Gender Equality, What is Gender-Based Analysis Plus?
+- Women and Gender Equality Canada GBA+ module
+- Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans
+- The Federal Disability Reference Guide
+Indigenous research
+For projects involving Indigenous research, projects must be built based on respectful and reciprocal relationships with Indigenous Peoples and communities (see the Guidelines for the Merit Review of Indigenous Research and Chapter 9: “Research Involving the First Nations, Inuit and Métis Peoples of Canada” of the Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans.
+Resources
+- SSHRC, Indigenous Research
+- SSHRC, definition of Indigenous Research
+- SSHRC, Indigenous Research Statement of Principles
+- Guidelines for the Merit Review of Indigenous Research
+- CIHR, Guidelines for Health Research Involving Aboriginal Peoples
+- Chapter 9: Research Involving the First Nations, Inuit and Métis Peoples of Canada
+- National Centre for Truth and Reconciliation Reports
+- National Centre for Truth and Reconciliation
+- Universities Canada principles on Indigenous education
+- Colleges and Institutes Canada, Indigenous Education Protocol for Colleges and Institutes
+- Assembly of First Nations
+- First Nations Information Governance Centre, First Nations principles of OCAP
+Appendix A—Definitions
+Accommodations / adaptive measures
+Accommodations / adaptive measures refer to necessary and appropriate modification and adjustments, where needed in a particular case, to ensure to persons with disabilities the enjoyment or exercise on an equal basis with others of all human rights and fundamental freedoms. The term “adaptive measures” may be preferable as it carries less stigma and fewer implications of accessibility as burdensome.
+Anti-Black racism
+Prejudice, attitudes, beliefs, stereotyping and discrimination directed at people of African descent and rooted in their unique history and experience of enslavement. Anti-Black racism is deeply entrenched in Canadian institutions, policies and practices, such that anti-Black racism is either functionally normalized or rendered invisible to the larger white society. Anti-Black racism is manifested in the legacy of the current social, economic and political marginalization of African Canadians in society, such as the lack of opportunities, lower socio-economic status, higher unemployment, signiﬁcant poverty rates and overrepresentation in the criminal justice system.
+Conflict of interest
+A conflict of interest may arise when activities or situations place an individual in a real, potential or perceived conflict between the duties or responsibilities related to research, and personal, institutional or other interests. These interests include, but are not limited to, business, commercial or financial interests pertaining to the individual, their family members, friends, or their former, current or prospective professional associates.
+Underrepresented
+Underrepresentation refers generally to groups or individuals from groups who, due to both formal and legal restrictions and to systemic barriers, have lacked access to full participation in a given organization, community or discipline. The term “underrepresented” here refers not only to a group’s presence falling below population-level demographics, but also to the inequity and exclusion that contribute to this underrepresentation. Even as diversity increases across an institution or field, the factors that underpinned the exclusion still resonate.
+Gender
+The socially constructed and expressed roles, behaviours, expressions and identities of girls, women, boys, men and people with diverse gender identities. It influences how people perceive themselves and each other, how they act and interact, and the distribution of power and resources in society. Gender is often conceptualized as a binary (girl/woman and boy/man), but there is considerable diversity in how individuals and groups understand, experience and express it (e.g., agender, nonbinary, transgender).
+Gender-based analysis plus (GBA+)
+An analytical process that provides a rigorous method for the assessment of systemic inequalities, as well as a means to assess how diverse groups of women, men and gender-diverse people may experience policies, programs and initiatives. The “plus” in GBA+ acknowledges that GBA+ is not just about differences between biological (sexes) and socio-cultural (genders) characteristics. We all have multiple characteristics that intersect and contribute to who we are. GBA+ considers many other identity factors, such as race, ethnicity, religion, age, and mental or physical disability, and how the interaction between these factors influences the way we might experience government policies and initiatives.
+Intersectionality
+A theoretical framework that was developed by professor Kimberlé Crenshaw in 1989 in a paper for the University of Chicago Legal Forum entitled “Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics” to explain how African-American women face overlapping disadvantages and discrimination related to sexism and racism. This approach or lens is a best practice and assists researchers to better understand and address the multiple barriers and disadvantages that individuals with intersecting social identities, such as race, gender, sexuality and class, face. All individuals have multiple identities, and the intersection of those identities should be considered wherever possible. Using an intersectional approach to develop policies and research projects helps better identify and address systemic barriers.
+Marginalized populations
+Groups and communities that experience discrimination and exclusion (social, political and economic) because of unequal power relationships across economic, political, social and cultural dimensions.
+Microaggression
+Brief and common verbal, behavioural or institutional actions that play into stereotypes or discrimination against a group of people, often from underrepresented groups. First coined by Chester M. Pierce in his 1970s research with Black Americans, research on microaggressions has since expanded to examine the experiences of Indigenous Peoples, people with disabilities, women, 2SLGBTQIA+ people, and a number of racial, ethnic and religious groups. Taken in isolation, one instance of microaggression can seem like a minor event; however, members of underrepresented groups often experience the same microaggression repeatedly over time, producing adverse emotional, social, psychological and health impacts, which can also affect their level of productivity and sense of inclusion at work. Examples of microaggressions include implying a member of an underrepresented group is an “equity hire”; asking where someone is “really from”; downplaying the effects of race, gender, ability, etc., on lived experiences; and implying that someone’s reaction is due to sensitivity, not the nature of the situation they are in.
+Reconciliation
+[A] renewed nation-to-nation, government-to-government, and Inuit-Crown relationship based on the recognition of rights, respect, cooperation and partnership.
+Sex
+Refers to a set of biological attributes in humans and animals. It is primarily associated with physical and physiological features, including chromosomes, gene expression, hormone levels and function, and reproductive/sexual anatomy. Sex characteristics are typically categorized as female or male, but there is significant variation in the biological attributes that comprise sex and how those attributes are expressed.
+Tokenism
+Focusing on limited representation of underrepresented groups for the appearance of being inclusive without any action toward meaningful inclusion.
+Unconscious bias
+An implicit attitude, stereotype, motivation or assumption that can occur without one’s knowledge, control or intention. Unconscious bias is a result of one’s life experiences and affects all types of people. Everyone carries implicit or unconscious biases. Examples of unconscious bias include gender bias, cultural bias, race/ethnicity bias, age bias, language bias and institutional bias. Decisions made based on unconscious bias can compound over time, to significantly impact the lives and opportunities of others affected by the decisions.
+Find further information in this Unconscious bias training module.
+Appendix B—Definitions
+- Dimensions: equity, diversity and inclusion Canada
+- Guidelines and Best Practices for Letter Writers (Limiting Unconscious Bias)
+- Guidelines for Assessing the Productivity of Nominees
+- Improving accessibility and eliminating systemic ableism in Canada's health research funding system
+- NSERC guide on integrating equity, diversity and inclusion considerations in research
+- Status of Women Canada’s online GBA+ course
+- Tri-agency Bias in Peer Review online training module
+- Tri-agency conflict of interest and confidentiality policy
+- Tri-agency self-identification form
+- Universities Canada—Equity, diversity and inclusion
+Research articles
+Beaudry, Catherine and Vincent Larivière. 2016. “Factors Affecting Researchers’ Scientific Impact in Science and Medicine.” Research Policy. Elsevier, vol. 45(9): 1790-1817. https://doi.org/10.1016/j.respol.2016.05.009.
+Brown, Nicole, and Jennifer Leigh. 2020. Ableism in Academia: Theorising Experiences of Disabilities and Chronic Illnesses in Higher Education. London: UCL Press.
+Díaz-García, Cristina, Angela González-Moreno, and Francisco Jose Sáez-Martínez. 2013. “Gender Diversity within R&D Teams: Its Impact on Radicalness of Innovation.” Innovation (North Sydney) 15 (2): 149–60. https://doi.org/10.5172/impp.2013.15.2.149.
+Francoeur, Claude, Réal Labelle, and Bernard Sinclair-Desgagné. 2008. “Gender Diversity in Corporate Governance and Top Management.” Journal of Business Ethics 81 (1): 83–95. https://doi.org/10.1007/s10551-007-9482-5.
+Gaucher, Danielle, Justin Friesen, and Aaron C. Kay. 2011. “Evidence That Gendered Wording in Job Advertisements Exists and Sustains Gender Inequality.” Journal of Personality and Social Psychology 101 (1): 109–28. https://doi.org/10.1037/a0022530.
+Henry, Frances, Carl James, Peter S. Li, Audrey Kobayashi, Malinda S. Smith, Howard Ramos, and Dua Enakshi. 2017. The Equity Myth: Racialization and Indigeneity at Canadian Universities. Vancouver; UBC Press.
+Hewlett, S.A. 2016. “How Diversity Can Drive Innovation”. Harvard Business Review.
+Hofmann, Megan, Devva Kasnitz, Jennifer Mankoff, and Cynthia L Bennett. 2020. “Living Disability Theory: Reflections on Access, Research, and Design”. In The 22nd International ACM SIGACCESS Conference on Computers and Accessibility, 1–13. Virtual Event Greece: ACM. https://doi.org/10.1145/3373625.3416996.
+Hong, Lu, and Scott E. Page. 2004. “Groups of Diverse Problem Solvers Can Outperform Groups of High-Ability Problem Solvers.” Proceedings of the National Academy of Sciences 101 (46): 16385–89. https://doi.org/10.1073/pnas.0403723101.
+Jeste, Dilip V., Elizabeth W. Twamley, Veronica Cardenas, Barry Lebowitz, and Charles F. Reynolds. 2009. “A Call for Training the Trainers: Focus on Mentoring to Enhance Diversity in Mental Health Research.” American Journal of Public Health 99 (Suppl 1): S31–37. https://doi.org/10.2105/AJPH.2008.154633.
+Leslie, Sarah-Jane, Andrei Cimpian, Meredith Meyer, and Edward Freeland. 2015. “Expectations of Brilliance Underlie Gender Distributions across Academic Disciplines.” Science (American Association for the Advancement of Science) 347 (6219): 262–65. https://doi.org/10.1126/science.1261375.
+Nielsen, Mathias W. 2016. “Limits to Meritocracy? Gender in Academic Recruitment and Promotion Processes”. Science and Public Policy 43 (3): 386–99. https://doi.org/10.1093/scipol/scv052.
+Petit-McClure, Sara H., and Chelsea Stinson. 2019. “Disrupting Dis/Abilization: A Critical Exploration of Research Methods to Combat White Supremacy and Ableism in Education”. Intersections: Critical Issues in Education 3 (2). https://digitalrepository.unm.edu/intersections/vol3/iss2/4.
+Stamm, Martina, and Barbara Buddeberg-Fischer. 2011. “The Impact of Mentoring during Postgraduate Training on Doctors’ Career Success”. Medical Education 45 (5): 488–96. https://doi.org/10.1111/j.1365-2923.2010.03857.x.
+Trix, Frances, and Carolyn Psenka. 2003. “Exploring the Color of Glass: Letters of Recommendation for Female and Male Medical Faculty”. Discourse & Society 14 (2): 191–220. https://doi.org/10.1177/0957926503014002277.
+Woolley, Anita, and Thomas W. Malone. 2011. “Defend Your Research: What Makes a Team Smarter? More Women”. Harvard Business Review, 1 June 2011. https://hbr.org/2011/06/defend-your-research-what-makes-a-team-smarter-more-women
+Page details
+- Date modified:

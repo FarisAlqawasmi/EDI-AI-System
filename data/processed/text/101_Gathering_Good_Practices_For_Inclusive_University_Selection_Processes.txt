@@ -1,0 +1,1255 @@
+1
+Gathering Good Practices for Inclusive University Selection Processes
+Gathering Good Practices 
+for Inclusive University 
+Selection Processes
+A Report of 
+Key Findings from 
+Regional Roundtables 
+with UK Universities
+
+2
+Gathering Good Practices for Inclusive University Selection Processes
+Contents
+Background and Purpose 3
+Key Findings from the University Regional Roundtables 5
+Common Practices across all Regions ������������������������������������������������������������������������������������������������������������6
+Specific Practices by Region 8
+London ������������������������������������������������������������������������������������������������������������������������������������������������������������������8
+Midlands ���������������������������������������������������������������������������������������������������������������������������������������������������������������9
+North East, Yorkshire and Humber �����������������������������������������������������������������������������������������������������������������11
+North West ���������������������������������������������������������������������������������������������������������������������������������������������������������13
+Scotland, Wales and Northern Ireland���������������������������������������������������������������������������������������������������������� 15
+South East �����������������������������������������������������������������������������������������������������������������������������������������������������������17
+South West and East �����������������������������������������������������������������������������������������������������������������������������������������19
+Diversity Data Collection 21
+Feedback for UKRI and EPSRC 23
+Next Steps 26
+Acknowledgements 27
+
+3
+Gathering Good Practices for Inclusive University Selection Processes
+Background and Purpose
+We held seven university roundtable discussions 
+that brought together university colleagues 
+from across the UK to share their strategies for 
+promoting diversity and inclusion in university 
+pre-selection processes for funding applications. 
+This work forms part of EPSRC’s 3-year EDI 
+Action Plan in which working with our university 
+partners and other research organisations is 
+an essential part of our plan, and this includes 
+actions to explore universities’ selection 
+processes as per Action 2.10: 
+“Work with UKRI colleagues to understand the 
+role of university selection processes on our 
+portfolio with the aim of sharing good selection 
+practices and providing clear communication on 
+accepted good practices for fair selection”.
+This action arose from findings within our 
+‘Understanding our portfolio: a gender 
+perspective’ report, the community ‘Have Your 
+Say’ survey on the report findings, and our 
+Detailed Ethnicity Analysis and ‘Ethnicity and 
+Race Inequity In our Portfolio’. The findings from 
+these reports indicated that there is a consistent 
+underrepresentation of women and some ethnic 
+minority groups across our portfolio and within 
+more senior positions in academia, and this 
+continues to be more prevalent as academic 
+careers progress. One of the key barriers faced 
+by women and ethnic minorities was identified 
+as ‘selection bias’, which included university 
+selection processes.
+In the summer of 2023, we sent out a survey 
+to start gathering some information about the 
+approaches that different universities use to 
+select projects and project leads/co-leads before 
+submission of applications to EPSRC funding 
+opportunities. We presented the key findings 
+from the survey at the roundtable meetings, 
+which were as follows:
+  Internal selection processes are primarily 
+carried out for demand managed calls and 
+for large and strategically important funding 
+opportunities, not for ensuring diversity and 
+inclusion of opportunity.
+  Few universities stated they collect diversity 
+data during their internal selection processes, 
+at any of the application stages.
+  The main reasons for not collecting diversity 
+data during internal selection processes were 
+stated to be:
+• a lack of time/resource,
+• data being held by HR,
+• GDPR concerns,
+• low disclosure rates and
+• numbers being too small.
+  Despite the lack of diversity data collection, it 
+was clear that universities were doing various 
+activities to be as inclusive as possible in their 
+practices, and there were lots of examples of 
+ways to attract and provide support to a wide 
+range of applicants.
+We held these regional roundtables to create 
+communities of practice to support knowledge 
+exchange. We also wanted to continue the 
+conversation in more depth with a wider range 
+of universities, and to include a diversity of staff 
+members including research support staff, 
+EDI leads and academics including heads of 
+department and pro-vice chancellors. 
+At each of the roundtables we presented the 
+background and purpose behind this work, 
+which included an overview of EPSRC’s 3-year 
+EDI Action Plan, previous findings from our 
+data that shows applications to EPSRC funding 
+opportunities are not as diverse as they could be, 
+and findings from the community engagements 
+mentioned above that identified selection bias 
+
+4
+Gathering Good Practices for Inclusive University Selection Processes
+as a key barrier for underrepresented groups. We 
+also presented initiatives that EPSRC has already 
+piloted to address this disparity, including asking 
+universities submitting applications to EPSRC 
+Innovation Fellowships in 2017 to submit a 
+statement on their inclusive selection processes 
+used to ensure a diverse applicant group. This 
+resulted in a more diverse cohort of applicants 
+and awardees in comparison to EPSRC Early 
+Career Fellowships that were held around the 
+same time.
+The purpose of the roundtables has been to 
+find out what different practices are being used 
+across universities to ensure inclusive applicant 
+and project selection. We would like to thank 
+everyone at all the universities who attended and 
+contributed to one of the regional roundtables. 
+The feedback that has been provided on different 
+experiences and examples of implementing 
+inclusive practices into university selection 
+processes has been very valuable and will 
+inform the next stage of building a repository 
+of good practices.
+
+5
+Gathering Good Practices for Inclusive University Selection Processes
+Key Findings from the University Regional 
+Roundtables 
+Across all the regions it was found that internal 
+selection processes are primarily carried out for 
+demand managed funding opportunities (e.g. 
+UKRI Future Leaders Fellowships) and for large 
+and strategically important funding opportunities 
+(e.g. EPSRC Centre’s for Doctoral Training and 
+Research Hub funding) to manage the volume 
+of potential applications. Selection processes 
+do vary across and within universities but in 
+general they tend to include an Expression 
+of Interest (EOI) stage that acts as a sift for 
+the subsequent selection of applicants to be 
+assessed by an internal panel. Most universities 
+use an assessment process that is based on the 
+funding opportunities’ published criteria. Some 
+use written applications for the EOI stage, whilst 
+others provide pitching opportunities. There 
+was a lot of variation with regards to where 
+and who is involved in the selection processes. 
+For example, some universities stated that all 
+applications are assessed at the department 
+level, whilst others stated that the selection is 
+managed at a higher level within the school 
+or faculty. 
+The key regional findings on the inclusive 
+practices used during internal selection 
+processes, including actions to encourage and 
+support applicants from underrepresented 
+groups are presented below. We have also 
+captured:
+  details of the practices that haven’t worked so 
+well despite good intentions,
+  the main reasons why some applicants don’t 
+apply to EPSRC for funding or continue with 
+their applications 
+  the approaches used from the few universities 
+who do manage to collect applicant diversity 
+data
+  feedback and ideas for what EPSRC and UKRI 
+could do to make improvements that would 
+make the funding application process more 
+inclusive and accessible for all
+  the barriers and drivers of demand 
+management practices that are currently in 
+operation within some funding opportunities 
+across EPSRC and UKRI.
+The overall approach to pre-selection for funding applications:
+01
+Expression 
+of interest 
+opens
+02
+Initial sifting 
+of written 
+applications or 
+pitched idea
+03
+Final selection 
+from assessment 
+at an internal 
+panel 
+
+6
+Gathering Good Practices for Inclusive University Selection Processes
+Common Practices across all Regions
+These regional roundtables have given us an 
+improved understanding of current selection 
+processes and the various good inclusive 
+practices for selection and support of applicants 
+at different universities across the UK. 
+There were several good practices that were 
+mentioned across all the roundtables, and these 
+were as follows:
+  Providing EDI and unconscious bias training 
+to all staff involved in internal selection 
+processes
+  Ensuring a diverse representation of different 
+backgrounds amongst panel members where 
+possible and as far as resource and expertise 
+will allow
+  Wide advertisement of opportunities by 
+different mechanisms (e.g. online, newsletter, 
+emails, webinars) 
+  Grant writing application workshops and drop-
+in sessions for potential applicants
+  Providing specific support mechanisms and 
+networking opportunities for early career 
+researchers
+  Providing further support for unsuccessful 
+applicants to help them with future 
+applications and to encourage them to try 
+again
+  Running mock interviews for applicants to 
+help them prepare
+  Mentoring schemes (some of these aimed at 
+underrepresented groups)
+Key findings from the practices across all regions
+Challenges
+  Anonymous peer review 
+  Enforcing or mandating 
+inclusive practices
+  Opportunities for 
+mid-career academics 
+  Harmonisation
+  Maintaining diverse panels
+Applicant/ 
+Project Selection
+  EDI and unconscious 
+bias training
+  Diversity on the panel
+  Wide advertisement of 
+opportunities
+Support for Potential 
+Applicants 
+  Grant-writing workshops
+  Networking opportunities
+  Mock interviews
+  Mentoring
+  Further support for 
+unsuccessful applicants
+
+7
+Gathering Good Practices for Inclusive University Selection Processes
+There were also some common challenges faced 
+when trying to implement inclusive selection 
+practices. We go into detail about one of these, 
+which is diversity data collection, later in this 
+report. Some of the other common difficulties 
+that were mentioned at most if not all the 
+roundtables included:
+Anonymous peer review 
+Whilst a lot of universities said they have trialed 
+this as part of their internal selection processes, 
+it has proved very difficult in practice. This is 
+particularly the case at smaller or less research-
+intensive universities where the number of 
+applicants is just too small, and where everyone 
+knows each other. It also prevents being able to 
+help mentor the applicant and provide feedback. 
+Enforcing or mandating inclusive practices 
+Especially across the whole institution as there 
+are different ways of doing things and different 
+challenges in different departments. There is also 
+limited resource and time to carry out internal 
+selection processes, let alone ensure the process 
+is fully inclusive. 
+Diverse panels 
+There are only a limited number of people to 
+choose from within a university. This can result 
+in overburdening people from minority groups, 
+especially at less research-intensive universities. 
+Support and opportunities for 
+mid-career academics 
+There tends to be more of a focus on Early 
+Career Researchers (ECRs).
+Harmonisation of approaches across 
+the institution 
+This is particularly challenging at larger 
+universities with a varied range of different 
+departments and schools who have different 
+priorities and ways of doing things.
+Conflicting priorities 
+and demands 
+(e.g. teaching) 
+Lack of understanding 
+about the funding 
+application process 
+Lack of con/f_idence
+Lengthy process and 
+length of time to hear 
+the outcome has 
+increased
+Demand management 
+is discouraging due to 
+the additional layer 
+of assessment
+Main reasons for 
+not completing 
+an application
+Lack of time due to 
+high workload
+
+8
+Gathering Good Practices for Inclusive University Selection Processes
+Specific Practices by Region
+London
+Good Inclusive Practices used for Applicant/Project Selection
+  Workshops for training and guidance on writing grant applications
+  Enforced gender and ethnicity panel targets as per EPSRC’s policy
+  Wide range advertising of open funding opportunities including language used 
+  Internal briefings on specific funding opportunities 
+  Pre-approaching individuals – giving that tap on the shoulder to encourage them 
+to apply
+Support for Applicants
+  ECR network – lead by ECRs themselves for peer support
+  Mentoring and role models as part of a formal development programme
+  Specific workshops and discussion sessions aimed at minority groups, for example 
+UCL ran a leadership programme for women to support them to apply for large 
+strategic grants
+  Flexible teaching requests for people with caring responsibilities – where one term is 
+kept free (not used for teaching). This is taken in turns across the department.
+  Detailed feedback for unsuccessful applicants – to help and encourage them to 
+try again
+  Extended deadlines for people with disabilities or caring responsibilities
+  Offering hybrid option for meetings/interviews
+  Practice pitching sessions – to pitch a vision to leaders in their field for encouragement 
+and advice
+  Peer support – from previous successful applicants
+  Internal peer review system – applications are also read by non-expert to assess if the 
+proposal can be understood and appreciated by potential reviewers external to the field.
+  Outreaching – expanding ECRs network and encouraging them to reach to public 
+Practices that haven’t worked so well/could be improved 
+  Not able to mandate inclusive practice, especially across the whole institution as there 
+are different ways of doing things and different challenges in different departments.
+  Difficult to reach out to those who are not applying because of reduced staffing and lack 
+of resources.
+  Not able to know who is underrepresented as the data isn’t collected at all or collected 
+correctly.
+  Diversity data collection is challenging for various reasons including; HR reservations or 
+the numbers being too small to keep the data confidential. 
+
+9
+Gathering Good Practices for Inclusive University Selection Processes
+  EDI staff networks don’t necessarily have the right people who are eligible for 
+the opportunity.
+  Certain disciplines, e.g., Engineering, struggle with gender balance and so far, many 
+initiatives are making minimum impact and this needs to go back to schooling across 
+the country and globally.
+Reasons for not completing an application 
+  Prior unsuccessful attempt(s)
+  Low success rates, especially for minority groups
+  Long wait and delays in hearing about the submission outcome(s)
+  Teaching load and other administration responsibilities
+  Applicants from minority groups may actually be put off when they are encouraged 
+to apply because of their background, because they feel under pressure, as if more is 
+expected from them. 
+  Clearer guidelines and inclusive workshops on ‘how to apply’ are required. 
+Midlands
+Good Inclusive Practices used for Applicant/Project Selection 
+  Mandatory EDI and unconscious bias training across the university, which is 
+regularly refreshed
+  Diverse Panels – including the use of ECRs, Research Technical Professionals (RTPs) 
+and external experts (from industry or local universities, especially when a collaborative 
+application) to ensure a broader pool of participants. Visual diversity is also important to 
+consider for interview panels (so minority groups see someone that ‘looks like them’ – 
+puts them at ease). 
+  Offering virtual or in-person panels depending on different needs for inclusion and 
+accessibility purposes.
+  Wide advertisement of opportunities by different mechanisms (e.g. online, newsletter, 
+emails, webinars) and disseminating information effectively across faculties
+  Transparency – through standardised processes, open reviewer lists, and peer 
+support etc
+  Working with other universities to run mock panels – to better understand the peer 
+review process and share resources
+  Access mentoring scheme designed to increase representation in engineering groups
+  Inclusive environment and culture – important to set a tone, where everyone welcomed 
+and empowered to raise their concerns
+  In person networking events – to bring people together to share ideas and make 
+connections (offer a free lunch to encourage people to attend!)
+  Pitching opportunities – an EOI stage in early grant development to help with idea 
+generation and for feedback early on before formally applying
+
+10
+Gathering Good Practices for Inclusive University Selection Processes
+  Setting an expectation to apply for grant funding at least once every 48 months and 
+keep a track of this. This way, people who don’t apply often can be monitored and offered 
+support and advice where needed. 
+  Harmonisation of the approaches used for demand management processes across 
+the same institution
+  Utilising EDI Staff Networks to reach out to underrepresented groups
+  Providing support from university EDI staff to run practices to try and ensure things are 
+as fair and as inclusive as possible
+Support for Applicants 
+Multiple sources of support are beneficial, especially for unsuccessful applicants and 
+individuals from diverse backgrounds. The suggestions from this roundtable included:
+  Flexible deadlines that can be extended for personal reasons/extenuating 
+circumstances where possible
+  Specific support aimed at ECRs e.g workshops, drop ins or longer-term development/
+training opportunities in cohorts. University of Leicester run a six-month grant 
+development programme for ECRs. 
+  Specific support aimed at other career levels – University of Nottingham provide 
+several programmes including a Research Leadership Accelerator programme aimed at 
+mid-career, a Research Leaders programme aimed at established researchers 
+(e.g. professors) and a Resilient Leadership in Action programme open to all career 
+levels plus support for all with grant writing, networking etc. 
+  Feedback being prioritised for unsuccessful applicants
+  Mock Interviews – which include a diverse panel.
+  Talks from previous successful applicants – to share their experiences and talk about 
+what is being looked for in your application and at interview.
+  Specific support with large grant applications – University of Warwick have set up an 
+interdisciplinary programme involving a group of experienced researchers who have led 
+large projects that can be called upon to help applicants with their large 
+grant applications.
+  Internal Mentoring and Peer Support – to act as role models and provide 
+encouragement for idea generation and support with writing applications
+Practices that haven’t worked so well/could be improved
+  Panel diversity – this can result in certain individuals from underrepresented groups 
+being overburdened
+  Challenges with data anonymisation for small applicant pools
+  Identifying potential applicants that don’t put themselves forward.
+  Anonymous peer review – this practice doesn’t work well in universities and the process 
+needs to be interactive for support and feedback to be of most value to the applicant
+  Harmonisation between different schools and departments due to resource availability 
+and different levels of expertise
+  Relying on HR data for applicant diversity data collection – HR don’t always understand 
+why you’re asking for it or can come up against GDPR constraints.
+
+11
+Gathering Good Practices for Inclusive University Selection Processes
+Reasons for not completing an application 
+  Lack of confidence among women academics (they tend to apply for smaller amounts 
+of funding)
+  Timelines and deadlines
+  Teaching load and other important day work
+  Time-consuming grant writing
+  Mid-career researchers start to lose confidence and underestimate their potential.
+  Some of the word limits (e.g. for R4RI) are very tight
+North East, Yorkshire and Humber
+Good Inclusive Practices used for Applicant/Project Selection Processes
+  EDI and unconscious bias training for panel members
+  Wide range advertising – including poster boards across the university.
+  Allowing 6-8 weeks for submissions – if timing from the funder allow
+  Avoiding deadlines over holiday periods
+  Internal peer review college
+  Gender analysis of language tools to ensure gender neutral language is used throughout 
+advertisements and application forms
+  Actively approaching people to apply, including looking for those that don’t put 
+themselves forward
+  Utilising cross-disciplinary panels – to help broaden diversity and reduce the burden on 
+the same minority panel members
+  Avoid having heads of departments on panels to avoid bias for one particular discipline
+Support for Applicants 
+  Mock Interviews 
+  Narrative CV support and training
+  Advice from staff networks on support for neurodivergent applicants or where English 
+isn’t their first language
+  Providing interview questions in advance
+  Cohort based training and community events for fellowships – these are self-sustaining 
+and supportive
+  Mentoring scheme for underrepresented groups
+  Mentoring scheme aimed at mid-career academics
+  Follow up support for unsuccessful applicants, to encourage them to apply again
+  Clarity about the support that is available for people with disabilities and caring 
+responsibilities (e.g. flexible working patterns, reasonable adjustments) to encourage 
+them to apply
+
+12
+Gathering Good Practices for Inclusive University Selection Processes
+  Piloting a language centre aimed at academics where English is an 
+additional language
+  Option for in-person or virtual interviews
+  Reciprocal mentoring between institutions
+  Support for ECRs – including workshops that provide an allocated time to write 
+grant applications
+  Weekly drop-in sessions for support and advice on writing grant applications
+  ‘How to fail and bounce back’ type training session from successful grant holders – 
+to set people’s expectations and to make them realise that success always starts with 
+failure at first (i.e. successful people were once unsuccessful too).
+Practices that haven’t worked well/could be improved 
+  Collecting and monitoring applicant diversity data – due to issues with disclosure, 
+anonymisation, and HR pushback, as well as not having the means to store it securely. 
+  Consistency with implementing and sticking to inclusive practices due to the time 
+pressure
+  Resource for 1:1 coaching/support, which has been decreased due to 
+increased demand
+  Support and opportunities for mid-career academics
+  Reviewers find the narrative CV more difficult to assess – need to have some training 
+or clearer guidance
+  Panel diversity – the same people from minority groups are asked over and over due to 
+small pool
+  Support programme spread over several weeks didn’t work well, so was changed to 
+a series of intense sessions spread over 4 consecutive days – this encouraged more 
+people to attend. 
+Reasons for not completing an application 
+  Not enough time due to other priorities (e.g. heavy teaching load)
+  Difficulties with the narrative CV – especially for neurodivergent people or non-native 
+English speakers
+  Demand management puts off ECRs due to the additional layer of assessment and 
+opportunities for bias to creep in
+  Previous unsuccessful attempts – lowers people’s confidence
+  Lack of role models for minority groups
+  Length of time to hear outcome from submission has increased, although this is due to 
+the large volume of applications submitted and the lack of responses from reviewers. 
+
+13
+Gathering Good Practices for Inclusive University Selection Processes
+North West
+Good Inclusive Practices used for Applicant/Project Selection 
+  EDI training is given to all involved in the selection process stages
+  Providing peer review guidance documents/training, including on unconscious bias. For 
+example, University of Liverpool said that they have a panel principles document, based 
+on the Nolan Principles, solely for peer review to ensure everyone follows an internal 
+code for internal selection processes – this is focused on the principles to apply and not 
+guidance on the process. 
+  Mixed career representation on panels – University of Salford and Manchester said 
+they have moved away from only having a set of senior experts/directors on a panel, 
+as they have found ECR’s are less likely to have bias and it increases diversity. They 
+also consider including professional support staff as they bring a different insight and 
+understand the call aims well.
+  Independent research panel member – University of Liverpool said this is an 
+observation and advisory based role, to view the practices and call out anything that 
+might indicate bias.
+  Implementing both written and verbal assessment styles and weighing them equally 
+(e.g. written EOI/application followed by pitch presentation or interview) to benefit 
+differences in people’s communication strengths/preferences.
+  Utilising EDI networks to circulate information about open funding opportunities.
+  Providing incentives – e.g. a trial opportunity was implemented for people to win a 
+chance to pitch to the VC, with some prize money. This attracted lots of people who may 
+not usually have applied and gave them experience. 
+  Salford work with other Manchester universities to run events and workshops for 
+training or networking opportunities.
+  Hybrid approaches for meetings and interviews – to include more virtual opportunities 
+for disabled applicants and others that might need them. This broadens the 
+opportunities for more people to be involved. 
+  Avoid meetings/interviews too early/too late – e.g. keeping between core hours of 
+10am and 4pm
+  Microsoft Team site (or equivalent) is used for groups of academics to liaise with each 
+other for support and advice
+  Joint-Project Lead approach – deputy/co-project lead approach to put mid-career 
+researchers to work with someone more established to encourage them to apply, and 
+act as a stepping-stone to then lead themselves next time.
+Support for Potential Applicants
+  Grant writing workshops and networking opportunities aimed at researchers from 
+underrepresented groups
+  Leadership training aimed at women – who can lack confidence to put themselves 
+forward to apply
+
+14
+Gathering Good Practices for Inclusive University Selection Processes
+  Bringing together unsuccessful applicants with successful applicants – to hear about 
+and learn from their experiences, with the chance to build networks and be able to attend 
+without the pressure of applying. Hearing that others are unsuccessful, and often are so 
+many times before being successful helps others to feel they are in the same boat.
+  Mentoring – particularly targeted at underrepresented groups 
+(ethnic minorities, women)
+  Drop-in sessions open to all are useful, rather than booking a formal meeting – although 
+ensuring both options are available, to be accessible to everyone with 
+different preferences. 
+  Parental and Adoption Research Support scheme – Lancaster University provides 
+funding and support for academic and research staff taking maternity, paternity and 
+shared parental or adoption leave, to prevent or minimise disruption to their research.
+  End of grant support – to enable researchers to focus on getting papers published, 
+networking, putting in more funding bids. An example mentioned they provide a ‘bridging 
+loan’ for those coming to the end of their current contract. 
+  Specific support for early career researchers (ECRs), in the form of training or forums 
+where they are encouraged and invited to apply for opportunities
+  Sabbatical type scheme for ECRs – School of Engineering at University of Manchester 
+run this to allow ECRs to apply for 3 months of salary as ‘buy out time’ to help them 
+focus on writing and applying for a fellowship
+  Providing detailed feedback and support for unsuccessful applicants to try again. This 
+makes it worthwhile for people to have another attempt at applying.
+  Additional support for non-fluent English speakers
+  Ensuring people are aware of the support that is available – one university said they 
+found that changing their desk seating to be more open/hot desking, rather than offices 
+hidden away, enables people to find the people they need to go to for support a lot easier. 
+Just because the information of who to go to may be available online, it often isn’t widely 
+known about.
+  Ensure that there are a variety of support methods to benefit different communication 
+styles/preferences – e.g., in person meetings/zoom chats/or just written emails
+Practices that haven’t worked well/could be improved 
+  Anonymous peer review – particularly at less research intensive universities with fewer 
+applicants. Everyone said that anonymous peer review is particularly tricky, and whilst 
+a few universities mentioned they have trialed it, it’s almost impossible to remove all 
+information that identifies people when assessments occur internally.
+  Harmonisation of approaches to peer review and assessment within a university – 
+different departments do things differently
+  Panel diversity – because individuals from underrepresented groups are overburdened 
+in a small population pool.
+  Stretched with workload and time on both sides (academic researchers and research 
+support staff). There is a struggle between ensuring you get the right candidates, right 
+panel members etc and organising everything within short time frames, as well as 
+balancing it to ensure diversity and inclusion.
+
+15
+Gathering Good Practices for Inclusive University Selection Processes
+  Access to EDI data from HR – especially at smaller universities where the numbers are 
+too small to have it anonymised
+Reasons for not completing an application 
+  Teaching load – especially prominent for women. 
+  Caring responsibilities – especially prominent for women at mid-career
+  Lack of confidence is common amongst women.
+  Disabled applicants tend not to disclose, so it’s challenging for the research office 
+colleagues to know who might need support/reaching out to
+  Mid-career researchers can sometimes be ‘left behind’ as lots of opportunities are 
+either aimed at ECRs or more senior established academics. Mid-career researchers 
+can lack confidence about taking the next steps to become leaders and/or become 
+overwhelmed.
+  Length of the application to funding decision peer review process, including long waits 
+for responses
+  Short deadlines of funding opportunities – or funding opportunities that are over 
+holiday periods or those with a deadline shortly after returning to work after a holiday 
+period.
+Scotland, Wales and Northern Ireland
+Good Inclusive Practices used for Applicant/Project Selection
+  Panel chairs to advocate for EDI and set the tone – they play a key role in reminding 
+everyone on the panel about EDI and unconscious bias, to set the tone for the meeting 
+and ensure there is an active and conscious approach to addressing bias from everyone 
+on the panel.
+  Panels with a mixture of subject specialists vs diversity experts who should be tasked 
+with looking at different aspects and criteria
+  ECR representation on panels – valuable experience obtained to help advance their 
+career and a different perspective brought to the panel.
+  Anonymisation of some identifying information in applications to reduce bias – 
+Cardiff University said that even just removing the name at start of the proposal can has 
+the effect of reminding panelists of unconscious bias. 
+  Working closely with the university EDI team and academic researchers to share ideas 
+and practices
+  Collecting peer reviewer diversity data to ensure diverse panels (e.g. through setting up 
+a university peer review college to draw from)
+  Representation of minority groups at workshops and similar. to encourage people 
+to apply
+  Utilising EDI networks to help spread the word about available opportunities
+
+16
+Gathering Good Practices for Inclusive University Selection Processes
+  Use of language decoders for assessing dissemination materials, to make sure 
+language is more inclusive at Queen’s University Belfast. 
+Support for Applicants
+  Further support and detailed feedback for unsuccessful applicants – it is through the 
+use of selection processes that enable universities to know about and able to reach 
+those that need support and get experience/practice of writing a grant application 
+(useful for ECRs).
+  Mock Interviews 
+  Making selection criteria explicit to applicants, for example at Queen’s University 
+Belfast they ensure that the individual criteria are listed under each section heading of 
+EOI form. 
+  Reasonable adjustments if needed (e.g. sight of interview questions beforehand) 
+  Fellowship support programme – run by University of Cardiff to build confidence at the 
+early career and post-doctoral researcher stage and support with taking an application 
+forward to submission
+  Senior leadership programmes aimed at minority groups (e.g. women and ethnic 
+minorities) – at University of Edinburgh, these are administered across the university and 
+are not discipline-specific. 
+  EDI networks provide specific support for minority applicants
+  Training courses on developing grant writing skills
+  Training courses on leadership aimed at mid-career academics
+  Mentoring
+  Additional mentoring and support for people who don’t speak English as their first 
+language – e.g. help with writing skills and presentations
+Practices that haven’t worked well/could be improved 
+  Enforcing inclusive practices for selection of potential applicants across all teams and 
+departments within a university can be difficult, as there can be a difference in opinion 
+between EDI leads and academic researchers about the best practices to take forward.
+  Anonymous peer review – all attendees said that this wasn’t possible to undertake due 
+to small numbers and keeping anonymity.
+  Overburden of the same individuals from underrepresented groups applies when trying 
+to ensure panels are as diverse as possible
+  Mid-career researchers – there needs to be more attention and support aimed at 
+mid-career researchers as often things are mostly aimed at ECRs or more senior 
+established academics. 
+  Lack of EDI data is often not held by the Research Office, instead often held by HR, 
+which can cause challenges with collecting or accessing the right data
+  Lack of resource to monitor diversity data even if it is collected
+  Data collection on disability is particularly difficult as there are often low disclosure 
+rates
+
+17
+Gathering Good Practices for Inclusive University Selection Processes
+  Narrative CV can exacerbate a lack of confidence for some, as it tends to work well 
+when you sell yourself. That’s difficult for some people
+  Reliance on traditional CVs within universities – this has remained for some, despite 
+UKRI removing track record and replacing with the R4R&I as part of the assessment
+  Random selection – one university mentioned that they discussed the possibility of 
+using partial randomisation, but this was met with negative feedback (due to a lack of 
+understanding of the approach) and so it wasn’t trialed.
+Reasons for not completing an application
+  High workload
+  Teaching responsibilities
+  Lengthy application process
+  Challenging to understand what is needed
+  Lack of confidence
+  Demand management puts people off, due to the additional layer of assessment and 
+opportunities for bias to creep in
+South East
+Good Inclusive Practices used for Applicant/Project Selection 
+  Observation from the Head of EDI – observed the panel’s selection process for 
+applicants in the latest UKRI FLF round at University of Portsmouth.
+  EDI working group – with the aim to understand the diversity profile of applicants. One 
+of the objectives is to look at harmonising the approach to this across the university.
+  Qualitative data – also very valuable alongside the numbers 
+(i.e. people’s lived experiences)
+  EDI and unconscious bias training for everyone
+  Panel observers – to look out for instances of bias
+  Proactive discussion and reflection about unconscious bias at the start of the panel
+  Gender balance on panels – University of Oxford aim for at least 30% women, following 
+EPSRC’s approach.
+  ECR representation on panels – to increase diversity
+  Use of industrial partners on panels – to increase diversity of perspective
+  Peer review college for panel member selection
+  Partial randomisation pilot 
+  Minimising paperwork for reviewers and panel members
+  Ensuring the application process is fully transparent for candidates
+  Accessible content on webpages 
+
+18
+Gathering Good Practices for Inclusive University Selection Processes
+Support for Applicants 
+  Grant application drop-in sessions for ECRs and/or other minority groups.
+  Focus groups for women applying for large grants
+  Mentoring opportunities
+  Sponsorship opportunities – to advocate for people and put them forward for different 
+opportunities. This can be more valuable than just mentoring. 
+  Utilising support from the department level and more widely across the institution
+  Coaching for key life skills such as assertiveness and confidence
+  One on one support offered to everyone who applies to a standard mode/specific 
+theme’s funding opportunity
+  EDI staff networks – help reach out to underrepresented groups that don’t apply.
+Practices that haven’t worked so well/could be improved – 
+  Panel diversity – due to overburdening the same individuals from minority groups
+  Anonymisation – makes the process more time consuming and is difficult to completely 
+anonymise internally
+  Short Funder deadlines – ensuring inclusive practices with enough time to implement 
+them is challenging. 
+  Demand management takes a lot of time and so this means research office staff can’t 
+provide support to everyone
+  Collecting diversity data is challenging – for various reasons including: GDPR issues, 
+HR restrictions, small numbers, low disclosure rates, unable to get any data from 
+external applicants.
+  Email as a form of communication – staff feedback suggests they don’t want 
+more emails
+  Difficult to mandate inclusive practices
+Reasons for not completing an application 
+  Lack of confidence – especially from minority groups
+  High academic workload, including from internal peer review.
+  Length of time to hear outcome from submission has increased
+
+19
+Gathering Good Practices for Inclusive University Selection Processes
+South West and East
+Good Inclusive Practices used for Applicant/Project Selection
+  Utilising networks and newsletters for wider advertising of funding opportunities
+  Mandatory EDI and unconscious bias training for panel members
+  ‘Breaking bias’ guidelines – at the University of Bristol they have moved beyond just 
+being aware of unconscious bias. There needs to be a more proactive approach to think 
+about conscious inclusion. 
+  Diverse panel membership using an internal peer review college 
+  HR representative on panels – to observe and ensure that the discussion remains just 
+about the quality of the proposal. 
+  Setting a minimum gender target on panels – e.g., 30% women to replicate 
+EPSRC panels.
+  Importance of having a good panel chair to set the tone for the meeting and adhere to a 
+fair assessment.
+  Avoiding meetings or interviews too early/too late, or on certain dates – e.g., keeping 
+between core hours of 10am and 4pm, avoiding school holidays, religious festivals etc.
+  Targeted emails – to reach people who wouldn’t otherwise put themselves forward 
+to apply
+Support for Applicants 
+  Mentoring – for subject specific support and to advise on career development and 
+grant writing
+  Active advocacy – very important for underrepresented groups who lack confidence.
+  Encouraging senior academics to include less experienced researchers on their 
+applications as co-project-lead
+  Specific support for working parents and people with caring responsibilities
+  Specific support for ECRs
+  One on one support – where it is possible based on resource. Staff can form individual 
+working relationships and hold conversations with each researcher.
+  Workshops for training and guidance on writing grant applications
+  Mock panels
+  Pitching sessions
+  Accessible application materials to accommodate diverse needs
+Practices that haven’t worked so well/could be improved
+  Panel diversity – results overburdening the same people from minority groups
+  Internal panels could be improved by having EDI champions on them, but for the same 
+reason as above this isn’t always possible
+
+20
+Gathering Good Practices for Inclusive University Selection Processes
+  Reciprocal mentoring – as it resulted in pairings with differing experiences and 
+background, which didn’t work
+  Anonymous peer review – trials have had mixed results and often it doesn’t work as it’s 
+impossible to completely anonymise internal applicants 
+  Difficulty with diversity data collection – various reasons including GDPR issues, not 
+able to collect it for external applicants, numbers being too small.
+Reasons for not completing an application 
+  Conflicting priorities and demands
+  Lack of time due to high workload
+  Funding opportunities having short timeframes or deadlines conflicting with certain 
+times of year (e.g. religious festivals, school holidays)
+  Lack of awareness of funding opportunities
+  Not understanding the funding process or application system
+  Put off by demand management and internal selection processes due to the additional 
+layer of assessment and opportunities for bias to creep in
+  Lack of confidence
+  Some line managers don’t provide enough support
+
+21
+Gathering Good Practices for Inclusive University Selection Processes
+Diversity Data Collection 
+Most universities fed back that there were 
+various challenges and difficulties with collecting 
+applicant diversity data during their pre-selection 
+processes. The main reasons for this included:
+  A lack of time/resource to manage it efficiently
+  Restrictions in place from HR in allowing them 
+to do it
+  GDPR concerns about information security
+  Low disclosure rates 
+  Numbers being too small with a risk of 
+identifying individuals
+Low disclosure 
+rates 
+Lack of time 
+or resource
+Restrictions 
+from HR 
+Number of 
+applicants is 
+too small 
+Reasons for not collecting 
+diversity data
+GDPR
+concerns
+Universities that have been able to successfully 
+collect applicant diversity data during their internal 
+selection processes have done so by establishing 
+a separate, centralised system or database which 
+enables them to anonymise and hold the data 
+securely. The data is collated over years or by the 
+type of funding opportunity so that the numbers 
+are not too small when looked at to risk identifying 
+individuals. Examples of the mechanisms used to 
+do this included:
+  University of Aberdeen use the data analysis 
+tool Power BI to enable efficient, secure and 
+confidential storage and presentation of 
+diversity data.
+  Cardiff University are setting up a Centralised 
+EDI data hub. HR are creating a new model 
+within business intelligence, to look at how they 
+can use EDI data internally and make it more 
+accessible to understand the gaps 
+and challenges.
+  Cranfield University ask HR to provide 
+anonymised diversity data from the HR 
+system and return it to the Grants Team in 
+the reporting form.
+  University of Newcastle have used the 
+university’s job application system for 
+collecting the data and use a central database 
+to handle and store it securely.
+  Portsmouth University use Google forms for 
+diversity data collection, whereby the raw data 
+is only accessible to HR, but a summary of the 
+data in a rounded anonymised format can be 
+shared. 
+  Sheffield Hallam University collect 
+demographic data during the applicant 
+selection process through a separate database 
+to that which HR use. They ensure the data is 
+encoded in a way to make it secure, and then 
+displayed for use in tableau. Their raw data only 
+gets looked at by minimum number of staff 
+
+22
+Gathering Good Practices for Inclusive University Selection Processes
+with special permissions.
+Microsoft 
+forms
+Google 
+forms
+Tableau
+Power BI 
+Centralised 
+EDI data 
+hub
+University 
+job application 
+system 
+Successful diversity data collection and 
+monitoring methods rely on a centralised 
+system or database to collect and hold 
+the data securely
+
+23
+Gathering Good Practices for Inclusive University Selection Processes
+Feedback for UKRI and EPSRC
+The regional roundtables provided universities with a valuable opportunity to share their good 
+practices and challenges with regards to inclusive pre-selection processes with each other and 
+EPSRC. Attendees gave feedback about some of our (EPSRC and UKRI) current internal processes 
+for funding opportunities, and how these can either inhibit or enable universities to efficiently manage 
+their selection processes in an inclusive way. 
+Key issues that were raised are discussed below:
+“There isn’t enough time between 
+announcement and deadlines”
+This is the biggest issue that was raised across all the roundtables. Universities consider there is now a 
+lot more expected of them, especially for demand managed calls, as they ‘have to essentially do the job of 
+a research council’. The short time window limits what research offices can do with regards to inclusive 
+selection practices and reduces their ability to provide support for other funding opportunities during the 
+same time period. Having more information, particularly on timelines, whether demand management 
+will be needed and the planned assessment process at the preannouncement stage would be helpful in 
+enabling more planning time.
+“Lack of resource is a big problem for many 
+universities, especially for those that are less 
+research intensive”
+Several universities said that internal peer review and selection means they end up having to play a 
+similar role to that of a research council, despite not having enough resource. ‘There just aren’t enough 
+staff to be able to provide enough of the support that applicants need, nor to efficiently manage and 
+monitor internal selection processes in an inclusive way’. The burden on research office staff to carry 
+out internal peer review can also have a negative knock-on impact on the funders peer review process. 
+Reviewer response rates have decreased significantly in recent years. Reasons given include not having 
+the time because of the reviewing they are having to do within their own institution as part of the internal 
+demand management process.
+
+24
+Gathering Good Practices for Inclusive University Selection Processes
+“There was mixed feedback about the R4RI 
+(narrative CV)”
+It certainly appears there are pros and cons to the new UKRI Résumé for Research and Innovation (R4RI), which 
+is our version of a narrative CV. Some universities said it’s better than the traditional CV as it provides applicants 
+with the opportunity to provide more evidence than just their track record over a wider range of assessment 
+areas. However, this may likely benefit people who are better advocating for themselves, whilst disadvantaging 
+those who are not. Could there be gender differences on the impact of narrative CVs because of this? It is 
+known that women have less confidence. There was a also a lot of feedback that the narrative CV format is 
+more problematic and less accessible for those who are neurodivergent or are non-English native speakers. 
+Most universities agreed that there needs to be clearer guidance for applicants on how to complete the 
+R4RI, and for reviewers and panel members on how to assess it, especially when some of the questions 
+differ between different funding opportunities. It would also be better if the word count for each section was 
+increased, or at least was flexible depending on the number of applicants in the team. For multiple applicant/
+multi institutional applications the small word count is problematic.
+“There was mixed feedback about the 
+new funding service (TFS)”
+Some of the key issues raised included EDI/accessibility concerns, particularly for visually impaired 
+applicants. These included:
+  TFS word count tool doesn’t match other word count tools e.g. on Microsoft word etc. This is problematic 
+for people with screen readers who need to write out their applications offline on other software 
+applications like Microsoft word, because screen readers don’t work well on TFS. This causes a mis-match 
+between the final word counts once applicants copy their application text over onto TFS, and it can be 
+unclear whether or not they have gone over the limit.
+  Text to speech software doesn’t work with any of the downloads, because they are formatted as images, 
+so the text isn’t recognised.
+There was considerable feedback about the increased length of time from submission of an application for 
+funding to being informed of the outcome, which has led to some potential applicants being discouraged 
+from applying. Other concerns raised included the layout of information provided on the funding finder for 
+open funding opportunities, where it was mentioned that it can be difficult to find what you’re looking for. 
+However, there was some positive feedback about TFS, including how it is a lot easier to navigate than JeS, 
+which now seems rather outdated. 
+We encourage positive or negative feedback on TFS as either an applicant user or reviewer/panel member 
+since all feedback helps UKRI improve its processes. You can do this via: 
+  Funding Service Feedback: https://airtable.com/appj6osCTyP9dGvrL/shrDlfX6wle4cftUR 
+  Peer Review Meeting Questionnaire: https://engagementhub.ukri.org/epsrc-peerreview/epsrc-peer-review-
+meeting-questionnaire/ 
+
+25
+Gathering Good Practices for Inclusive University Selection Processes
+“Funder visits are always very welcome”
+Visits from EPSRC staff to universities help potential applicants to gain new contacts in their research 
+areas from EPSRC and to network, which can help encourage people to apply. It’s reassuring for academics 
+to meet programme lead(s) in person. We welcome EPSRC staff meeting a wide range of people from all 
+career stages on their visits. 
+“We should ensure there is standardisation 
+across all funding opportunities”
+Currently, there can be differences (e.g., assessment criteria, types of roles eligible, timings etc.), between 
+different funding opportunities offered across UKRI, even between those with a similar scope. This lack 
+of harmonisation makes it more complex for people applying. Although, it was recognised that UKRI are 
+harmonising across the Simpler Better Funding programme and that the situation has been improved. 
+Many preferred the new cascade funding opportunity design of information. 
+It was considered that there are much higher expectations for some funding opportunities than there 
+used to be, with a lot of wording and a lot less clarity. A suggestion was made that we should get external/
+community feedback on wording before each funding opportunity gets published. 
+
+26
+Gathering Good Practices for Inclusive University Selection Processes
+Next Steps
+We would like to thank everyone who attended 
+and contributed to one of the regional 
+roundtables. The feedback that has been 
+provided on different experiences and examples 
+of implementing inclusive practices into 
+university selection processes has been very 
+valuable and will help us to carry out the next 
+stage of building communities of practice and a 
+repository of good practices. This will include:
+  Highlighting the set of good practices in our 
+EPSRC EDI Expectations toolkit 
+(version 2 currently in development)
+  Sharing the findings with UKRI and British 
+Academy EDI Caucus (EDICa)
+  Working with the EPSRC EDI Hub+ to support 
+and empower our community to embed good 
+practices in EDI 
+• The hub will link regions across the 
+4 nations of the UK 
+• Connecting people and knowledge together 
+• Sharing and evaluating ‘what works’
+We also acknowledge the feedback you provided 
+for EPSRC and UKRI on our own current 
+practices as part of our funding opportunities 
+and the grant application process. This will be fed 
+back to the relevant people involved in funding 
+policy decisions.
+
+27
+Gathering Good Practices for Inclusive University Selection Processes
+Acknowledgements 
+Thank you to everyone who attended and contributed to one of the regional roundtables. Here is the 
+full list of attendees from across each of the regions.
+London
+King's College London 
+Oksana Kasyutich, Associate Director, Doctoral Partnerships
+Barbara Shollock, Head of Department of Engineering 
+Martin Broadstock, Head of Research Culture 
+University College London 
+Laura Fenner, Senior Research Facilitator 
+Andrew Wills, Vice-Dean (Research) for the Faculty of Mathematical and Physical Sciences 
+Peter Munro, Vice-Dean (Research) for the Faculty of Engineering Sciences 
+Queen Mary University of London 
+Akram Alomainy, Deputy Dean, Faculty of Science and Engineering 
+Caludia Garetto, Faculty EDI Lead, Faculty of Science and Engineering 
+Royal Holloway, University of London 
+Ruth Livesey, Associate Pro-Vice-Chancellor Research and Innovation 
+Sue Starbuck, Director of Research and Innovation 
+Marcela Acuna Rivera, Research Development Manager 
+University West England 
+Phillipa Shelton, Senior Research and Business Development Manager
+Midlands
+Aston University 
+Tony Dodd, Deputy Dean for Research 
+Purbani Chakrabarti, Strategic Funding Manager 
+Coventry University 
+Carolyn Wynne, Doctoral College Director and Research EDI Lead 
+Susie Maugham, Research Funding Executive 
+Jonathan Godsall, Research Funding and Development Officer 
+Cranfield University 
+Deryn Evans, Research Grants Team Manager 
+Geoffrey Neale, RAEng Research Fellow and Lecturer in the Composites and Advanced 
+Materials Centre 
+Naomi Benjamin, University Equity, Diversity and Inclusion Lead, People and Culture
+
+28
+Gathering Good Practices for Inclusive University Selection Processes
+De Montfort University 
+Philip McTernan, Associate PVC Research and Head of Doctoral College 
+Lucy Gregson Green, Head of Research Development 
+University of Birmingham 
+Hisham Mehanna, Director of the Institute of Head and Neck Studies and Education 
+Dr Leona Morton, Head of Research Strategy and Development, MDS 
+University of Leicester 
+Clare Edwards, Head of Research and Partnership Development 
+Stephen Ison, Research and Partnership Development Manager 
+University of Lincoln 
+Belinda Colston, the Director of the Eleanor Glanville Centre at UoL 
+Kaitlin Kelly, Research Development Officer specialising in UK government funding bodies 
+University of Nottingham 
+Madeleine Craze, Senior Research and KE Development Manager 
+Claire Edwards, Senior Research and KE Development Manager, Research Growth
+Rachel Van Krimpen, Faculty of Science Director of EDI and People 
+University of Warwick 
+Tomomi Kimura, Research Strategy and Development Manager 
+Andrea Howard, Research Strategy and Development Manager, 
+Rika Nair, Research Culture Manager 
+University of Wolverhampton 
+Silvia Haycox, Pre-Award Funding Manager
+North East, Yorkshire and Humber 
+Durham University 
+Jamie Grimwade, Senior Research Development Manager 
+Lasairfhiona Swift, Research Grants and Contracts Manager
+University of Leeds 
+Bharat Phokrel, Research Development Manager for Engineering and Physical Sciences
+Andrew Meggs, Research Development and Infrastructure Support Officer 
+Faye Robinson, Head of Research Development
+Newcastle University 
+Sharron Kuznesof, Director of Equality, Diversity and Inclusion, Faculty of Science, 
+Agriculture and Engineering (SAgE)
+Sarah Warner, Research Funding Development Manager, SAgE
+Ian Head, Dean of Research and Innovation, SAgE
+
+29
+Gathering Good Practices for Inclusive University Selection Processes
+Northumbria University 
+David Young, Research Development Manager
+Hamdi Torun, Chair of the University’s EPSRC Funder Liaison Group, Professor in 
+Electrical Engineering
+Dominika Zabiegaj, EDI+ Network Fellow, Assistant Professor in Mechanical Engineering
+Institute of Physics 
+Sarah Bakewell, Head of Equality, Diversity and Inclusion (EDI)
+The University of Sheffield 
+Claire Garwood, Head of Faculty research support (Engineering)
+Claire Sykes, Head of Faculty research support (Science)
+Meera Warrier, Assistant Director, Researchers and Research Culture
+Sheffield Hallam University 
+Sam Coulby, Senior Business Partner, Equity, Equality, Diversity and Inclusion
+Gaynor Miller Head of Researcher and Innovator Development Academy
+Marjory Da Costa Abreu, Senior Lecturer, Department of Computing
+North West
+University of Chester 
+Elizabeth Christopher, Director of Research and KE 
+De Montfont University 
+Donna Bentley, Research Governance Manager (couldn’t attend the Midlands meeting) 
+Liverpool Hope University 
+Gill Smylie, Research and Innovation Manager 
+Anurahda Ranasinge, Senior Lecturer in Robotics
+Lancaster University 
+Yvonne Fox, Associate Director of Research Services
+Anne-Marie Houghton, Dean of EDI 
+Mandy Dillon, Senior Research Development 
+University of Liverpool 
+Anna Taylor, Senior Peer Review Manager, Research and Partnerships 
+Cate Cowton, Research Development and Impact Manager, Faculty of Science and Engineering 
+Abby Haworth, Lecturer, Outreach and Inclusion in Engineering 
+University of Manchester 
+Caroline Jay, Professor of Computer Science and Head of Research in the School of Engineering 
+Viddy Peesapati, Senior Lecturer in Electric and Electronic Engineering 
+Daniel Twiddy, Research Services Operations Manager 
+
+30
+Gathering Good Practices for Inclusive University Selection Processes
+University of Salford 
+Luke Postlethwaite, Head of Funding Development / Research and Knowledge Exchange 
+Rachel Woolley, Director of Research and Knowledge Exchange 
+Kathy New, Associate Dean Equality Diversity and Inclusion
+Scotland, Wales and Northern Ireland
+Swansea University 
+Julie Griffiths, Senior Research Development Officer 
+Laura Healy, Research Quality and Excellence Manager
+Anna Seager, Research Culture Manager
+Ulster University 
+Cara McShane, Research Staff Development Officer
+University of Glasgow 
+Lynne McCorrinston, Business Development Manager
+Maria McPhillips, Head of Strategic Research Initiatives
+University of Aberdeen 
+Nir Oren, Professor of Computing Science
+Elizabeth-Ann Rattray, Director of Research and Innovation
+Ben Tatler, Professor of Psychology
+Bangor University 
+Alison Wiggett, Research Concordat Manager
+Panagiotis Ritsos, Lecturer in Visualisation / Director of Research
+Markus Gellesch, Research and Impact Development Manager
+Cardiff University 
+Mari Nowell, College Research Development Manager
+Cosimo Inserra, Deputy Director of Research at the School of Physics and Astronomy
+Heriot-Watt University 
+Beatrice Pelloni, Professor of Mathematics
+Vicki Stone, Deputy Executive Dean
+Craig Landt, Research Development Manager
+University of St Andrews 
+Angela Johnston, Senior Research Information Officer
+Jen Pritchard, Research Information Manager
+Akira O’Connor, Senior Lecturer
+Aberystwyth University 
+Emma Davies, Associate Lecturer in Accounting and Finance.
+Dylan Eurig Jones, Diversity and Inclusion Manager
+
+31
+Gathering Good Practices for Inclusive University Selection Processes
+The University of Edinburgh 
+Alex Peden, Head of Research Cultures
+Jennifer Hazelton, Head of Research Funding
+Andrew Mount, Dean of Research 
+Queens University Belfast 
+Tom Gibson, Research Development Manager
+Mani Narayanan, Research Development Manager
+Alistair Quinn, EPS Manager in Business Alliance
+University of Strathclyde 
+Marco Reggiani, Research Associate Civil and Environmental Engineering
+Antony Weir, Assistant Director and Head of Strategic Research and Knowledge Exchange
+Institute of Physics 
+Jane Smith, Equality Diversity and Inclusion Programme Manager
+South East
+University of Oxford 
+Hannah Lingard, Head of Research Facilitation 
+Natia Sopromadze, Research Culture Facilitator
+Kathleen Dolan, Strategic Research Manager
+University of Southampton 
+Rebecca Hoyle, Assoc Vice-President Interdisciplinary Research
+Manda Banerji, Associate Dean for EDI, Faculty of Engineering and Physical Sciences
+Ying Chen, Head of Research Funding Development
+University of Reading 
+Bonhi Bhattacharya, Senior Research Development Manager
+Chris Daw, Research Division Lead Mathematics and Statistics
+Institute of Physics 
+Sarah Bakewell, Head of Equality Diversity and Inclusion (EDI)
+University of Portsmouth 
+Ryan Parker, Grants Officer and Chair of the RIS EDI Committee
+Jim Briggs, Director of the Centre for Healthcare Modelling and Informatics (CHMI)
+University of Surrey 
+Yuni Kim, Strategic Research Development Manager
+
+32
+Gathering Good Practices for Inclusive University Selection Processes
+South West and East
+Royal Academy of Engineering 
+Christina Guindy, Associate Director, Research Programmes and Awards 
+University of Bath 
+Colin Waring, Research Development Manager 
+Kate Charles, Head of Research Development 
+Despina Moschou, Senior Lecturer, Faculty of Engineering and Design 
+University of Birmingham 
+Leah-Nani Alconcel, Spacecraft Engineer and Lecturer in the School of Metallurgy and Materials 
+(Couldn’t attend the Midland’s Roundtable)
+University of Bristol 
+Tracy Brunnock, Head of Equality Diversity and Inclusion
+Dr Neha Chandarana, Lecturer in Bio-based and Sustainable Composites
+Dr Caroline McKinnon, Deputy Head of EDI
+University of Cambridge 
+Ndunge Kivuity, Equality Diversity and Inclusion Section Head 
+Christopher Bird, Deputy Director, Research Relations, Schools of Physical Sciences and Technology
+Gordana Najdanovic, Head of Research Funding
+University of Essex 
+Alice Williams, Research Development Manager for Strategic Bids 
+Sophie Bromage, Head of Resourcing (People and Culture Section, Resourcing Team)
+Murat Akman, Senior Lecturer in Mathematics
+University of Exeter 
+Chloe Onoufriou, Assistant Director of Research Development and Management
+University of Hertfordshire 
+Darragh Murrane, Professor of Pharmaceutics, Associate Dean for Enterprise, School of Life 
+and Medical Sciences 
+Annalisa Jones, Head of Research Grants and Deputy Director of the Research Office
+University of the West of England 
+Kate Trigg, Research and Knowledge Exchange Development Manager
+Darren Reynolds, Professor of Health and Environment
+
+33
+Gathering Good Practices for Inclusive University Selection Processes
+250120.06.25

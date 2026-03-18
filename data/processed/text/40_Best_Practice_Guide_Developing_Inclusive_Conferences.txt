@@ -1,0 +1,1333 @@
+Developing inclusive conferences
+BEST PRACTICE GUIDE
+Alice Chautard, University of Oxford
+Dr Claire Hann, University of Oxford
+May 2019
+
+2
+The School of Geography and the 
+Environment is committed to enhancing 
+diversity and promoting equality of 
+opportunity amongst all our staff and 
+students. As part of this commitment, 
+one of our priorities in 2019 is to promote 
+greater inclusivity at the conferences and 
+events we organise. We want to ensure 
+that our events showcase the diversity of 
+researchers working in our field as well 
+as allowing people of all backgrounds 
+and career stages to participate and feel 
+included, in both the more formal panel 
+sessions and the socialising and networking 
+opportunities. 
+We have put together this practical guide 
+for event organisers, drawing on examples 
+of best practice from across the university 
+sector and beyond, and responses to our 
+own online survey of more than 230 people 
+working in higher education and the wider 
+public, private and third sectors in 2018/19. 
+The guide is wide-ranging in its coverage, 
+incorporating sections on pre-event 
+logistics; programme development and 
+speaker selection; encouraging inclusive 
+participation in Q&A sessions and 
+networking events; representing diversity 
+in conference communications; as well as 
+how to prevent and deal with harassment 
+and discrimination during the event and 
+how to support the needs of those with 
+caring responsibilities. 
+I was particularly pleased to see many of the 
+recommendations in this guide successfully 
+put into practice at a recent international 
+conference on Water Security and Poverty 
+hosted here in Oxford by colleagues from 
+REACH – one of our flagship research 
+programmes at the School. 
+We hope that this guide will serve as 
+an accessible step-by-step tool to assist 
+organisers of other events, large and small, 
+in promoting diversity of attendance and 
+inclusivity of participation.
+FOREWORD
+Front cover photo credit: REACH Conference / John Cairns (2015)
+“This guide has been designed to be practical 
+not preachy, and to encourage rather than 
+prescribe.”
+by Professor Heather Viles
+Professor of Biogeomorphology and Heritage Conservation
+Head, School of Geography and the Environment 
+University of Oxford
+
+Table of 
+contents
+Introduction 4
+What do we mean by diversity? 6
+Why focus on diversity and inclusivity? 6
+Who is this guide for? 7
+How was this guide developed? 7
+Steps to develop more inclusive conferences
+1. Pre-event logistics 8
+2. Programme development and 
+speaker selection 14
+3. Encouraging ‘inclusive’ 
+participation 18
+4. Communicating diversity and 
+inclusivity 20
+5. Preventing and dealing with 
+harassment and discrimination 
+22
+6. Supporting attendees with 
+caring responsibilities 23
+What can institutions do to promote 
+diversity in conference attendance? 24
+References & further reading 25
+Acknowledgements 25
+Photo credit: ECI’s 1.5 Degrees Conference / John Cairns (2016)
+
+A ‘How-to’ guide to help conference organisers 
+promote diversity of attendance and inclusivity of 
+participation at events
+The idea for this guide arose whilst 
+planning our own REACH international 
+conference on Water Security and Poverty at 
+the University of Oxford in March 2019, and a 
+desire to make the event more representative 
+of the diversity of people working in the 
+water sector. We were keen to find out 
+what strategies other conference organisers 
+have deployed to make their events more 
+inclusive – not only in terms of the diversity 
+of speakers, but also the ways in which 
+participants are welcomed, respected and 
+involved. Conversations and email exchanges 
+with people working in the higher education 
+sector convinced us that there would be value 
+in sharing our findings with a wider audience, 
+beyond our own department and institution.
+In preparing this guide, we spoke to a 
+number of gender and diversity experts 
+from across the UK and around the world, 
+and gathered examples of best practice in 
+making conferences inclusive, from our own 
+experience and that of our colleagues and 
+contacts. We also designed and ran our own 
+online survey of more than 230 academics, 
+researchers and professionals working in the 
+University of Oxford, other higher education 
+institutions and the wider public, private 
+and third sectors, in the UK and globally. 
+Respondents shared their experiences of 
+attending conferences and offered creative 
+suggestions as to how these events could 
+promote greater equality in speaker line-up, 
+greater inclusivity in audience participation, 
+and greater accessibility in networking 
+opportunities. 
+This guide contributes to our equality and 
+diversity objectives at the School of Geography 
+and the Environment, as we prepare to apply 
+for a Silver Athena SWAN award. The guide 
+primarily focuses on gender, but we also 
+make recommendations that relate to other 
+aspects of inclusivity and diversity, such as 
+ethnicity, religion and disability. 
+We believe that it is possible and desirable 
+to organise conferences that are both high 
+quality and inclusive, and this was evident in 
+the success of our own REACH Conference in 
+March 2019. Our high-profile international 
+REACH Conference hosted in Oxford was 
+described by several delegates as the most 
+inclusive they had ever attended. By putting 
+the suggestions from this guide into practice, 
+we ensured that half the speakers at the 
+conference were women, half were from 
+INTRODUCTION
+4
+
+5
+from our own conference, and many ways 
+in which it could have been more inclusive. 
+Equally, whilst we cannot claim to be offering 
+a definitive guide to inclusive events, we 
+hope that the suggestions in this document 
+will be the starting point from which we as a 
+department and others outside can continue 
+to develop ideas and learn from each other’s 
+experiences. 
+Black and Minority Ethnic (BME) background 
+and a third were early career researchers. 
+We asked all session chairs to take a question 
+from a woman or early career professional 
+first, which visibly changed the dynamic of 
+the Q&A sessions, allowing a wider variety of 
+views to be expressed in an open and receptive 
+setting. Our efforts, we felt, increased the 
+visibility of many researchers, energised our 
+audience and provided a benchmark for our 
+own future events. 
+We hope that the lessons from the REACH 
+conference, as detailed throughout this 
+guide, will serve as an inspiration to other 
+conference organisers. In future, the measure 
+of a successful conference should be not 
+only that it has provided a showcase for 
+cutting-edge work and sparked productive 
+collaborations, but that it has promoted 
+diversity of attendance and inclusivity of 
+participation.
+Lastly, we believe that inclusivity is not 
+something that can be achieved fully. Rather, 
+it should remain an ambition that conference 
+organisers continuously work towards, as 
+there will always be room for learning and 
+improvement. There are indeed many lessons 
+Photo credit: REACH 2019 Conference / Alice Chautard (2019)
+REACH is a global research programme 
+funded by the UK Department for 
+International Development (DFID), 
+and led by the University of Oxford to 
+improve water security for the poor 
+in Africa and Asia.
+
+6
+Many conferences lack diversity, 
+amongst both speakers and participants, 
+and this is a problem for a number of 
+reasons. Diversity improves performance, 
+and drives innovation, by bringing in a variety 
+of skillsets and experiences. Diverse teams 
+are more innovative and produce better 
+outputs. Research by McKinsey found that 
+companies in the top quartile for gender or 
+ethnic diversity were more likely to financially 
+outperform their national industry average. 
+The same principles apply to events, big and 
+small. A diversity of perspectives and people 
+means a wider variety of ideas, discussions, 
+and potential collaborations. Ultimately, this 
+means a better event.
+It is important that early career researchers 
+and professionals see diverse examples of 
+professional speakers and leaders in their 
+field. People who have succeeded regardless 
+of their gender, ethnicity, disability, religion 
+1 See Beede et al. 2011 and EU 2015
+Diversity is much more than just 
+gender, race and ethnicity. It includes people 
+of different ages, religions, physical and 
+learning abilities, education levels, and other 
+characteristics of personal identity. In the 
+UK, the Public Sector Equality Duty (part of 
+the Equality Act 2010) requires universities, 
+like other public sector bodies, to consider 
+equality and diversity in their day-to-day 
+work, including the planning of events.
+Although diversity is usually defined in 
+terms of certain protected characteristics, 
+individual identities are not separate within 
+ourselves, so it is important to think of people 
+and participants as having intersectional 
+identities that need to be managed 
+appropriately. For instance, a person could be 
+What do we mean by diversity?
+gender non-conforming, a parent with caring 
+responsibilities, and identifying as black: the 
+combination of these various aspects will 
+inform their experience of an event more 
+than just the sum of those categories.
+In this guide, we think of diversity not only in 
+the variety of participants involved in events, 
+whether as speakers, organisers or audience 
+members, but also in terms of the ability of 
+all attendees to participate meaningfully in 
+the event and benefit from it – including both 
+in the formal business of the conference or 
+event (being able to contribute to a discussion, 
+and being acknowledged or recognised for 
+contributions to the work or research being 
+presented) and in more informal aspects such 
+as networking or socialising opportunities.
+Why focus on diversity and inclusivity?
+or other characteristics of their identity can 
+become important role models for the next 
+generation of professionals.
+Equally importantly, it is the responsibility of 
+conference organizers and of the institutions 
+organising conferences more broadly to make 
+everyone feel welcomed, accepted and safe 
+at events.
+Gender imbalances in scientific and 
+technological careers have been widely 
+recognised, with women and minority groups 
+particularly underrepresented at senior 
+levels.1 Underrepresentation of women and 
+minority groups as conference speakers is 
+in part a symptom of the lack of diversity 
+within some fields and industries, but it 
+also serves to perpetuate these inequalities. 
+Events and conferences are often highly 
+publicised occasions, in addition to being 
+very valuable opportunities to advance 
+
+7
+This guide has been prepared to help 
+organisers create more inclusive events. We 
+have sought to make it relevant to organisers 
+in charge of conference logistics (choosing 
+a venue, structuring conference sessions, 
+organising social events etc), as well as 
+those involved with more strategic decisions 
+careers by networking, increasing exposure 
+and recognition, building partnerships and 
+developing skills. Therefore, if events are 
+not designed in an inclusive manner, they 
+risk reinforcing or accelerating inequalities. 
+Interestingly, recent research by Elsevier has 
+found that women are less likely than men 
+to collaborate internationally and across the 
+academic and corporate sectors on research 
+papers – could organising more inclusive 
+conferences help address this gap?
+Our own survey of more than 230 staff 
+working in higher education and the wider 
+public, private and third sectors in 2018-
+19 confirmed that a lack of diversity at 
+conferences continues to be a concern. 
+Almost 85% of respondents agreed that it is 
+important for conferences to have policies in 
+place to promote greater diversity amongst 
+panel members and other speakers. However, 
+less than one third of respondents (32%) felt 
+that conferences they had attended had been 
+organised in a way that promoted women’s 
+participation and exposure. 
+Who is this guide for?
+(choosing speakers, conference themes, 
+briefing chairs etc).
+In addition, we hope this guide will be 
+relevant to conference participants so they 
+know what to ask for, and how to ensure 
+their needs will be met. 
+How was this guide developed?
+1. Review of literature and best practice 
+related to promoting diversity in events.
+2. Consultation with over 15 conference 
+organisers, gender and diversity experts 
+as well as other professionals. 
+3. Design and analysis of online survey 
+of more than 230 staff at the School of 
+Geography and the Environment (16.5% 
+of respondents), other higher education 
+institutions, and the wider public, private 
+and third sectors in the UK and beyond.
+Photo credit: REACH Conference / John Cairns (2015)
+
+8
+PRE-EVENT LOGISTICS
+Food, timing, venue and ticket prices are 
+elements that can be overlooked when 
+thinking about the diversity of an event, but 
+which can easily be addressed and make 
+a considerable difference to improving 
+inclusivity. Below we make a number of 
+recommendations:
+Choosing a venue
+We realise that event organisers often 
+have a limited number of venue options 
+to choose from, and, because conferences 
+can be so costly, most often price will drive 
+the selection process. However, it is worth 
+considering how the choice of venue and 
+accommodation options influences who 
+attends, and ultimately how inclusive and 
+diverse your event is.
+1. Access requirements
+• All rooms (including for coffee breaks, 
+networking sessions and meals) should 
+be easily accessible by all attendees. 
+If the conference takes place over 
+different floors, ensure that there are 
+lifts, ramps or other means that allow 
+participants with mobility issues to 
+access different parts of the venue.
+• Ensure the venue has parking available, 
+not just for those with mobility 
+limitations, but also those who have 
+other conditions that mean that being 
+able to drive to and from the venue 
+will be preferable.
+• Choose large rooms to allow 
+participants in wheelchairs to access 
+and move around, and access the 
+stage if they are also speakers.
+• For larger rooms, ensure there is 
+an appropriate sound system with 
+microphones, hearing loops etc.
+Steps to develop an inclusive conference
+• Try to avoid fluorescent lighting and 
+proximity to sources of constant 
+electrical noise such as lifts or 
+air conditioning units, which can 
+be distressing for neurodiverse 
+participants.
+• Make sure that signage (to lifts, 
+rooms, toilets etc) is clear, visible and 
+appropriate.
+• Ensure some chairs are available for 
+any sessions where attendees are 
+expected to stand for long periods 
+(networking, poster sessions etc).
+2. Washrooms
+• When choosing a venue, ensure that 
+there are some accessible toilets for 
+attendees with physical disabilities.
+• Consider having at least one gender 
+neutral bathroom. If you are unable 
+to choose a venue with gender neutral 
+toilets, we recommend temporarily 
+re-labelling some toilets as gender 
+neutral.
+3. Additional rooms
+• We recommend booking a venue with 
+small additional rooms that can be 
+used as quiet space (for people to take 
+a break from networking, or to eat 
+alone without feeling awkward), for 
+prayers, breastfeeding etc. 
+• At our REACH conference we provided 
+four additional rooms (one prayer 
+room, two quiet rooms with desks, 
+and one bookable room for private 
+meetings).
+• If you are not able to provide additional 
+rooms, check with the venue what 
+facilities attendees can use to 
+breastfeed or change their babies (not 
+the toilets).
+
+9
+“Conferences are large and frequently exhausting for someone with a disa -
+bility, even if they’re ambulatory. Invisible disabilities exist (ie chronic pain). 
+It’s especially hard to navigate these large spaces without places to sit down 
+and rest.” Survey respondent
+4. Venue child policy
+• If you wish to provide childcare on site 
+(eg pop-up crèche) or allow attendees 
+to come with their children, we 
+recommend that you check whether 
+the venue allows children on site. 
+Many buildings have strict policies on 
+allowing access to children on their 
+premises for health and safety reasons.
+5. Location
+• Choosing a venue and accommodation 
+where people feel safe and comfortable 
+is important to ensure participants’ 
+safety, prevent any incidents and 
+encourage their participation. This is 
+especially relevant if the conference 
+ends late and participants need to 
+walk between the venue and their 
+accommodation. 
+• Some conferences (eg. the Critical 
+Management Studies conference 
+2015) provide lists of recommended 
+taxi companies, including those with 
+women drivers, as well as closed 
+Facebook/social media chats to allow 
+people to buddy up when travelling 
+back to their accommodation after 
+evening events.
+6. Technology
+• Consider providing facilities for 
+livestreaming and/or video recording, 
+so that people who can’t attend 
+on the day (eg people with caring 
+responsibilities) can still participate, or 
+access the recording after the event.
+
+10
+Choosing a date and time
+1. If possible choose a date tha t does not 
+overlap with key religious or national 
+holidays, especially for the audience that 
+you are targeting (check this interfaith 
+calendar).
+2. If possible, also choose a time that will 
+allow people with caring responsibilities, 
+or those relying on support workers or 
+carers, to attend: for instance, opt for a 
+later start, and an earlier finish. Consider 
+that an annual conference that takes 
+place on the same dates every year risks 
+excluding the same people every year. 
+Ideally, school holidays or mid-term 
+breaks should be avoided as childcare 
+and travel costs can be prohibitive then, 
+especially for early career researchers or 
+doctoral students.
+3. Entertainments and networking sessions 
+are key elements of conferences, and 
+provide opportunities for sharing 
+ideas, making connections and building 
+partnerships or collaboration. However 
+they often take place at the end of the 
+day, thus excluding participants with 
+caring responsibilities (often women), 
+or those with certain disabilities 
+who may find conferences tiring. It 
+is thus recommended to schedule at 
+least one networking session and/or 
+entertainments at different times of the 
+day to ensure all can participate (eg one 
+evening, one lunchtime and one day 
+time session). 
+4. Announce the date and time early so 
+attendees can plan accordingly. This is 
+particularly important for attendees with 
+caring responsibilities or with disabilities 
+who may need to find a helper, a carer, or 
+to organise childcare.
+Food, drink and 
+entertainment
+Consideration of food and drink options is 
+one area where significant progress has been 
+made over the past few years. One reason 
+for this is that it is relatively easy to address, 
+provided information about participants’ 
+needs is collected early. An increasing number 
+of people are changing their diets due to 
+allergies, intolerances, or personal choices. 
+In addition, people of different faiths, people 
+with disabilities, and pregnant women may 
+also have specific dietary requirements.
+1. Collect information early about dietary 
+needs and preferences (e.g. during the 
+registration).
+2. People with specific mobility or sight 
+impairments might need additional 
+support during breaks, for instance to 
+carry plates of food and drinks.
+3. If you are not providing meals or snacks, 
+create a list of restaurants close to the 
+venue that provide vegetarian/vegan/
+kosher/gluten-free food, or other 
+options.
+4. If you are providing a buffet lunch, 
+ensure that dishes/ingredients, or at 
+least allergens, are clearly labelled.
+5. Ensure that not all social gatherings are 
+alcohol or bar-centred. Offer alcohol 
+free alternatives for drinks receptions, 
+and caffeine-free/gluten free options for 
+refreshment breaks, and ensure they are 
+labelled clearly. 
+6. Attendees observing Ramadan will 
+fast from sunrise to sunset. During this 
+period, no food or drink will be consumed 
+during daytime. If breakfast and dinners 
+are provided at the conference, if 
+possible, make arrangements for these 
+attendees to eat at a later or earlier time, 
+or discount the ticket price to allow them 
+to make their own eating arrangements.
+7. Consider that round tables for dinner 
+are more conductive to networking and 
+conversation than long tables. If you 
+are making a table plan, ensure that a 
+diversity of attendees can sit together.
+
+11
+Collecting participant 
+information
+1. Include a free space on the registration 
+form where attendees are actively 
+encouraged to declare specific needs 
+they might have (ie learning or physical 
+disabilities, dietary or caring needs). 
+Specify that you welcome all guests and 
+(where appropriate) that you will be 
+able to support and cater for these.
+2. A growing number of events now 
+include an optional gender-neutral ‘Mx’ 
+title option on their registration forms. 
+This may be relevant if you are including 
+titles on your name badges, seating 
+plans, or in your email correspondences. 
+Alternatively, consider removing titles 
+entirely for all attendees!
+3. Another option is to ask people to 
+indicate their pronouns beforehand, or 
+choose a pronouns sticker on the day or 
+suggest participants write the text on 
+their own badge, so they can self-select 
+their name, pronouns and title(s).
+Ticket price
+Income is an important area of diversity that 
+is often overlooked. Conferences often end 
+up costing more than anticipated, so budget 
+and finances can be a real headache for 
+conference organisers. If ticket costs need to 
+remain high to ensure the event is financially 
+viable, consider some alternatives that allow 
+participants with different income to attend:
+1. Consider creating an event scholarship 
+with a reduced or free ticket.
+2. Some conferences recruit helpers, 
+assistants or rapporteurs that help with 
+elements of the conference logistics on 
+the day in exchange for free access to the 
+conference.
+3. Unbundle the ticket price, so people 
+can opt out of certain aspects of the 
+conference they would prefer not to 
+pay for or attend (eg dinners, side 
+events, entertainments etc) However, 
+it is important to provide some free 
+networking opportunities within the 
+core conference. 
+Photo credit: ECI’s 1.5 Degrees Conference / John Cairns (2016)
+
+12
+4. People with certain disabilities may 
+need to be accompanied by a helper or 
+carer. Offering their helper or carer a 
+complimentary ticket may be decisive in 
+terms of ensuring their attendance. 
+5. Consider offering childcare options for 
+the duration of the conference: these 
+can be included in the general ticket 
+or charged ad hoc. If childcare facilities 
+are not available at the venue, consider 
+providing a list of childcare options in 
+the local area.
+“Age is a big factor to feeling included and being able to participate. 
+I’m often assumed to be ‘just a’ PhD student, and people can be very 
+dismissive of speaking to me. When they learn I’m a deputy director, 
+lecturer, and more they suddenly care.” Survey respondent
+Photo credit: ECI’s 1.5 Degrees Conference / John Cairns (2016)
+
+13
+Photo credit: ECI’s 1.5 Degrees Conference / John Cairns (2016)
+“ Along with gender representation at conferences, I think 
+it is equally useful to rethink the format of conferences 
+to include different types of interactive learning and 
+networking. Having more than the typical presentation or 
+panel to audience is great for including various perspectives 
+from people who might otherwise not feel comfortable to 
+share their knowledge - roundtable discussions, workshops, 
+breakout discussions can help.” Survey respondent 
+Photo credit: REACH Conference / John Cairns (2015)
+
+14
+PROGRAMME DEVELOPMENT
+AND SPEAKER SELECTION
+Women and people from minority 
+groups are less likely to be chosen as 
+speakers in high-level roles (keynote 
+speakers, discussants, opening panels etc). 2 
+Over the past five years or so, we’ve seen 
+the emergence of a movement calling out 
+all-male panels (or ‘manels’), and as a result 
+an increasing number of conferences are 
+committing to more diversity on panels and 
+among speakers. Similarly, a growing number 
+of male participants are committing to refuse 
+to speak on men-only panels . Although this 
+is an important development, in a sense it 
+is only the tip of the iceberg. Whilst we are 
+mindful of the need to avoid ‘tokenism’ and 
+positive discrimination, and to ensure that 
+speakers are selected on the basis of their 
+expertise and the relevance of their research, 
+in this section, we consider a number of 
+actions or initiatives that may help to increase 
+the level of diversity among speakers. Like the 
+previous section, it is relevant to conference 
+organisers involved with the logistics of the 
+event; we also think it is relevant to those 
+involved in more strategic decision-making 
+roles about conference framing, structure, 
+and selection of speakers.
+Conference structure or 
+format: some reflections
+Many conferences are organised with the 
+principal aim of demonstrating excellence to 
+a large audience and showcasing cutting-edge 
+work by leading professionals and academics. 
+The format of choice for this purpose is often 
+the keynote lecture or panel discussion in a 
+large lecture theatre, which is built on the 
+celebration of individual excellence, and may 
+limit participation from under-represented 
+groups. 
+Recognising that conferences serve 
+other important purposes – fostering 
+collaborations, building skills, raising profiles 
+and supporting career development for 
+a wider group – may justify the adoption 
+2 See Isbell et al., 2012, Jones et al. 2014 and Sardelis and Drew, 2016
+of other types of formats that are more 
+conducive to sharing knowledge, generating 
+new ideas and building partnerships, such 
+as small interactive sessions, world cafés or 
+networking sessions, dedicated workshops. 
+Some conferences provide multiple keynote 
+speakers to give voice to different groups.
+A diverse conference 
+organisation team or 
+committee
+Ensuring diversity within the conference 
+organisation team or committee is 
+important. In addition, as far as possible, 
+each of the conference organisers should 
+be given an appropriate share of duties, 
+responsibilities and visibility.
+In their analysis of gender bias at American 
+Association of Physical Anthropologists 
+meetings, Isbell et al 2012 find that the 
+proportion of women participants differs 
+dramatically by the gender of the organiser. 
+Symposia organised by men have half the 
+number of women first authors (29%) than 
+symposia organied by women (64%) or by 
+both men and women (58%). Additionally, 
+women’s participation in talks and posters 
+at symposia organised by women is twice 
+that at male-organised symposia (65%). 
+Making diversity a key target 
+for all sessions
+1. Commit to ensuring gender and ethnic 
+or racial diversity on all of your panels, 
+and enforce as a strict policy. At our 
+REACH conference we decided to avoid 
+both all-male and all-female panels, 
+to ensure a diversity of views was 
+presented for all topics. Importantly, 
+women’s presentations should not be 
+restricted to speaking about gender 
+issues.
+2. It’s not just about the opportunity to 
+speak or present, it is also about the 
+role or visibility speakers are given. In 
+other words, even if your conference 
+
+15
+has a diversity of speakers, you should 
+keep track of whether that diversity 
+is spread among all speaking roles: 
+key notes, session chairs, panellists, 
+parallel session speakers, and poster 
+presentations.
+3. Due to limitations on numbers of 
+speakers and their more junior 
+positions, early career researchers 
+(ECRs) and young professionals are 
+often not invited to speak despite 
+their considerable contributions to the 
+work or research being presented; as 
+a minimum their contributions should 
+be acknowledged and referenced in 
+presentations. Ensuring the visibility 
+of our ECRs was a key priority at our 
+REACH conference. Nearly a third of our 
+speakers were early career, and two of 
+our ECRs did the closing speech. We also 
+provided additional opportunities to 
+increase their visibility, such as through 
+posters and a photography exhibition 
+to highlight their research. These 
+1. Recognise and understand the barriers limiting women’s participation and 
+explore alternative arrangements that could help address those limitations.
+• In our survey, the top three barriers to ensuring an equal proportion of 
+women and men speakers that respondents selected (out of six options) 
+were “conference organisers tend to select the usual suspects and do 
+not make enough of an effort to find qualified women professionals 
+or researchers” (67%), “women have more caring responsibilities, 
+which may limit their participation at conferences” (65%) and “women 
+are less likely to promote themselves and therefore be selected as 
+speakers” (53%)
+• Do women decline more invitations to speak than men? Some authors 
+find that this is indeed the case,3 but others4 find no gender differences 
+in turning down speaking engagements. In our survey, when asked what 
+they think are some of the barriers to ensuring an equal proportion of 
+women and men speakers, “women are more likely to decline offers to 
+speak” was only the fifth most selected option, out of six in total. 
+• We all have implicit biases that are shaped by the society and culture 
+in which we live and operate. It may seem harder at first to find 
+women speakers because they are not the usual ‘go to’, but in most 
+cases, women speakers are not lacking. There are now a considerable 
+number of resources that feature or collect information about women 
+professionals in specific fields. For example, in the water sector, SIWI is 
+How to ensure more women speakers
+3 Schroeder et al. 2013;
+4 Nittrouer et al. 2017
+efforts, we felt, created an inclusive 
+and participatory environment where 
+everyone - speakers and attendees 
+- were welcome and encouraged to 
+engage.
+Applying rules to different 
+session organisers
+If each session is organised by a separate 
+committee, try to ensure that diversity 
+guidelines and targets are clearly 
+communicated and enforced. Think about a 
+balance between ‘stick and carrot’ – perhaps 
+offering incentives for session organisers 
+to ensure diversity among speakers. 
+For instance, the World Water Week 
+Conference organised by the Stockholm 
+International Water Institute encourages 
+convenors to host their sessions in an 
+inclusive and interactive way by offering 
+a Gold Standard discount to those who 
+achieve a balanced gender representation 
+and youth representation at their session.
+
+16
+hosting a database of women speakers (who can nominate themselves), 
+and there are Twitter lists of women working in water.
+2. Broaden your search for potential presenters from under-represented 
+groups, whose work or research would be appropriate for the conference. 
+Then personally invite them to submit an abstract or to give a talk. 
+3. As our survey highlights, caring responsibilities can be a real barrier to 
+participation at a conference, so you may wish to consider one of these 
+options:
+• Having bursaries for speakers (men and women) with caring 
+responsibilities – these may be used to cover the cost of nursery or 
+finding a carer, or allowing their child to travel with them;
+• Offering childcare facilities on site;
+• Giving speakers as much notice as possible so that they can arrange 
+childcare. Also consider offering scheduling options (ie if they cannot 
+do the breakfast keynote, they may be able to speak at another time 
+during the conference);
+• See the section on ‘Caring responsibilities’ below.
+4. If selection is made through abstract submission:
+• Encourage collaborative abstract submissions (as lead authors are often 
+men), welcoming more than one speaker for each submission;
+• Consider the way you present the call for papers, to ensure that it 
+appeals to and welcomes women;
+5. If someone submits a great proposal but does not make it to the conference, 
+consider recommending them for a future event.
+Photo credit: REACH Conference / John Cairns (2015)
+
+17
+“I am a confident person, and happy to engage and speak 
+up, but this has still prevented me from participating as 
+fully as I would like. I have a lot of experience, and yet I find 
+that less expert male panellists are being given more air 
+time, and their contributions more often go unchallenged.” 
+Woman survey respondent
+
+18
+ENCOURAGING ‘INCLUSIVE’
+PARTICIPATION
+One third of respondents in our survey 
+said that they do not feel confident to ask 
+questions at a conference or to network with 
+people who are more senior than they are.
+We recommend that conference organisers 
+go beyond ensuring a higher proportion of 
+speakers and participants from a diverse 
+background, and work to ensure all speakers 
+have an equal opportunity to contribute and 
+participate in the conversation, to network 
+and gain exposure. With the move away 
+from all male panels women sometimes feel 
+‘tokenised’ – they feel they’ve been selected 
+merely to ensure there’s at least one woman 
+on the panel without ensuring they are an 
+appropriate fit, or being given the space to 
+share their views as much as others on the 
+panel. More generally, it is also important 
+to ensure that the majority of people at the 
+conference who are not giving presentations 
+or sitting on panels can participate fully in the 
+event, whether through Q&A or discussion 
+sessions, or through more informal 
+networking opportunities. 
+Panel discussions and 
+plenaries
+1. The chair should be selected carefully 
+and should be briefed to ensure they give 
+panel members an equal opportunity 
+to speak. The chair should be able to 
+stop panellists if they monopolise the 
+discussion or if they speak for longer 
+than asked to, and to create a space for 
+speakers who are less vocal to share 
+their research, views or opinions. The 
+chair should also have a good grasp 
+of the background, field, research and 
+expertise of different presenters and 
+ask relevant and appropriate questions.
+2. If there is only one woman on a panel, try 
+to ensure that they are not consistently 
+last to speak. This should also apply to 
+panellists of BME background, those 
+5 See Hinsley et al. 2017, Pritchard et al. 2014.
+who have a disability or who are early 
+career.
+3. Consider offering less experienced 
+speakers mentoring or free training or 
+guidelines on how to most effectively 
+present their research or work and 
+handle Q&A sessions.
+4. If the panellist or speakers will not be 
+presenting in their native language, 
+it may be worth rephrasing audience 
+questions that use complex or 
+convoluted language. Consider letting 
+speakers know in advance that they 
+can ask for a question to be translated 
+to them in their native language, and 
+that they can respond in their native 
+language.
+Q&A session
+Research shows that men are more likely 
+to ask a question during Q&As; however 
+this changes if the first question is asked 
+by a woman5. Below we suggest some 
+ways to promote greater inclusivity in Q&A 
+sessions:
+1. Take a few questions at a time, ensuring 
+there are questions from a diversity 
+of people (participants from different 
+genders, younger audience members, 
+people with BME background etc.)
+2. If you are taking only one question at 
+a time, try starting with a woman, a 
+participant from BME background, an 
+early career professional, or a member 
+of minority group. At our REACH 2019 
+conference we asked our chairs to 
+follow this practice. As highlighted to us 
+by a number of early career researchers 
+(especially women), this helped create 
+an inclusive environment where they 
+felt welcome and encouraged to 
+participate.
+3. Prior to the event, encourage a few 
+women colleagues to ask questions 
+
+19
+while they are in the audience, if no 
+other woman raises their hand.
+4. Make it clear that no question is too 
+simple or silly, all ideas are welcomed, 
+and the conference is non-judgemental.
+5. Provide a means to raise questions 
+(anonymously or not), for example 
+through a phone app like Slido or via 
+Twitter.
+6. Consider making transcripts of papers 
+available on the day, to enable fuller 
+participation for people with processing 
+issues who may struggle to follow the 
+spoken word.
+Networking sessions
+As discussed above, networking is an 
+essential component of most conferences 
+and plays an important role in gaining 
+visibility, building collaborations and 
+supporting career development. However, 
+networking can be a source of anxiety 
+for some conference participants. As one 
+woman survey respondent said: “I am a 
+leading professor in my field and I still feel 
+intimidated. Networking is awful and we 
+need to get away from that idea.” Whilst 
+we wouldn’t suggest removing networking 
+sessions altogether, we may wish to 
+rethink how they are structured, and it is 
+important to make space for attendees to 
+opt out of them. Providing a framework 
+for networking events or giving them a 
+structure where people have something 
+specific to talk about can be helpful. Some 
+suggestions:
+1. Try different formats for networking: 
+for instance as part of a poster session, 
+a ‘world café’, or an informal ‘ask the 
+expert’ session.
+2. Some conferences have successfully 
+used a traffic light badge system so 
+people can make it clear whether 
+they are happy to network, prefer to 
+be approached by others rather than 
+‘making the first move’, or if they would 
+like some quiet space.
+3. Share guidelines, training or 
+suggestions on how to make the most 
+of networking sessions.
+4. Consider offering attendees the 
+opportunity to see the list of delegates 
+before the event and pre-book short 
+networking meetings to take place 
+during the event, thus eliminating the 
+need for ‘small talk’.
+5. Consider asking more established 
+academics to act as ‘buddies’ or mentors 
+who can support and introduce early 
+career academics.
+6. Try ‘Randomised Coffee Trials’: 
+when booking, give delegates the 
+option to sign up to this, and then 
+randomly split them into groups of 
+three people. During one coffee break 
+people come together in these pre-
+assigned groups to chat and network 
+– thereby eliminating the worry about 
+approaching someone you don’t know 
+and/or someone senior, and hopefully 
+sparking some interesting discussions. 
+7. Think about allocating a specific theme 
+for an overall networking session, 
+or smaller group networking. This 
+would avoid small talk by focusing the 
+conversation on a specific topic.
+
+20
+COMMUNICATING DIVERSITY
+AND INCLUSIVITY
+We recommend that you communicate your 
+efforts to improve inclusivity and diversity 
+at your conference, by clearly stating 
+why diversity matters, and making all key 
+information accessible on the conference 
+website and via emails prior to the conference. 
+Before the conference
+1. Create a clear equality and diversity 
+statement specifically for the 
+conference or event.
+2. Make sure that information is accessible 
+on your different channels – website 
+and social media - and also consider 
+sharing key information and resources 
+in an email or newsletter before the 
+conference. Include full information 
+about the venue, including maps of 
+the layout (eg where toilets and quiet 
+rooms are located) and directions for 
+how to reach the venue on foot, by car 
+and by public transport.
+3. We also recommend sending some 
+tips and recommendations to speakers 
+to ensure their presentations are 
+accessible to all. For instance, if slides 
+are provided, speakers could be asked 
+to ensure that they are written in 
+a font and colour that are easier to 
+read for those with dyslexia or other 
+reading/learning difficulties. Another 
+consideration is to ensure a sufficiently 
+large font size and font colour contrast 
+with the background, to help people 
+with visual impairments.
+Photo credit: ECI’s 1.5 Degrees Conference / John Cairns (2016)
+
+21
+During the conference
+1. We encourage the person who opens 
+the conference to make a statement 
+about the conference’s efforts towards 
+equality, diversity and inclusivity, and 
+mention what attendees themselves 
+can do to support these efforts (respect 
+all, adopt an inclusive attitude, report 
+any incidents, etc) - see image above.
+2. Make sure the on-site signage is clear 
+and can be accessed and read by all 
+participants.
+3. If you hire a photographer or a 
+filmmaker to document the event, we 
+recommend giving them a short briefing 
+to ensure they capture diversity. 
+After the conference
+1. Collect feedback from participants 
+on the inclusivity of the event, and 
+publicise the findings. This will also 
+help you with the planning of your 
+future events.
+Prior, during and after
+1. Prior, during and after the conference 
+make sure to give (at least) 
+equal visibility to women, young 
+professionals, and people with a BME 
+background or with a disability in all 
+communication materials in print and 
+online (website, twitter, facebook and 
+other social media platforms).
+In their opening presentation at our REACH 2019 conference, the REACH programme 
+directors made a mention about inclusivity and diversity to encourage all attendees 
+and speakers to help create an inclusive, participatory and safe environment. 
+
+22
+PREVENTING AND DEALING
+WITH DISCRIMINATION AND 
+HARASSMENT
+Attendance and participation at conferences 
+depends on delegates feeling safe (from both 
+physical and verbal assault); and safety is 
+closely tied with gender, sexual orientation, 
+religion, ethnicity and characteristics of 
+people’s identity. Thus, creating a safe, 
+welcoming and inclusive environment at 
+conferences should be a key priority for 
+organisers. To this end, we encourage 
+conferences to make clear what is, and 
+what is not, appropriate behaviour, and how 
+to report incidents (anonymously) should 
+they arise. Below, we make a number of 
+recommendations that conference organisers 
+can follow to prevent and address incidents 
+of discrimination and harassment.
+1. As discussed above, the selection of 
+venue can play an important role here. 
+Venues with accommodation located 
+nearby should be preferred. 
+2. Develop a code of conduct or a 
+harassment policy that attendees must 
+sign when they register. 
+• The code of conduct could detail 
+what behaviour is expected of 
+participants, how to report an 
+incident of discrimination or 
+harassment and how the institution 
+will deal with a complaint. You can 
+read the REACH code of conduct 
+we asked attendees to agree to at 
+our REACH 2019 conference (itself 
+inspired by SIWI’s World Water Week 
+Code of Conduct)
+• Consider reminding attendees that 
+these guidelines also apply to social 
+media.
+3. Make sure there is a clear process for 
+reporting incidents of discrimination or 
+harassment. We encourage providing 
+more than one way for attendees 
+to report any incident, for instance 
+through an online form, via email, or in 
+person. See an example here of a form 
+developed by the REACH Conference. 
+We also encourage making it available 
+for the victim of an incident and a 
+witness to report an incident.
+4. Make sure this process is clearly 
+communicated with the audience (ie 
+in participant booklet, in conference 
+emails and even, if possible, on signs 
+on the walls in the venue).
+5. At least one person should be trained to 
+respond to a report of discrimination/
+harassment (in terms of hearing the 
+potential victim, collecting the report, 
+knowing what the institution’s policy is 
+on harassment etc)
+6. If relevant, communicate what actions 
+the conference organisers have taken 
+before to effectively address a case of 
+discrimination or harassment.
+“Through answering this survey I have thought more 
+about many aspects of conferences and it makes me 
+quite sad to realise that I have seen harassement and 
+discrimination more than I realised.” Survey respondent
+
+23
+SUPPORTING ATTENDEES WITH
+CARING RESPONSIBILITIES
+Caring responsibilities can be a considerable 
+barrier to attending and participating at 
+conferences for both men and women 
+- although the responsibility is often 
+largely borne by women. When our survey 
+respondents were asked what barriers 
+prevent an equal proportion of speakers 
+who are men and women, the second 
+most ticked response was “Women have 
+more caring responsibilities”. On the other 
+hand, providing childcare at conferences 
+can be a real challenge for organisers due 
+to the associated costs, logistics, liability 
+and the health and safety responsibilities. 
+Besides, crèche facilities are often available 
+for children up to a certain age and are not 
+therefore a solution for parents who have 
+older children or children with specific needs.
+Dr Emily Henderson, Assistant Professor at 
+the University of Warwick has done extensive 
+work on the impact of caring responsibilities 
+in academia, looking at academic conferences 
+among other aspects of academic life.6 
+In 2018, she produced a policy briefing 
+on ‘ creating inclusive conferences for 
+academics with caring responsibilities ’, with 
+key recommendations that are relevant to 
+non-academic conferences too. We have 
+6 See the ‘In two places at once’ research project led by Dr. Henderson
+Photo credit: Quinn Dombrowski
+mentioned some elsewhere in this guide 
+(eg giving plenty of notice of conference 
+schedules; avoiding very long days; live-
+streaming or filming parts of the conference) 
+and others include: 
+1. Ensure reliable Wi-Fi is available, to 
+help delegates keep in touch with 
+family at home.
+2. Offer care bursaries to cover extra 
+care expenses incurred by conference 
+delegates whilst they are away from 
+home – including perhaps bringing 
+a carer with them to look after their 
+children. This will be dependent upon 
+the conference budget and you may 
+need to consider whether offering 
+care bursaries means diverting funding 
+away from other groups who may 
+need financial assistance to attend 
+the conference – eg early career 
+researchers on short-term contracts.
+3. Provide space on the registration form 
+for people to specify any care-related 
+requests (as they would for dietary 
+requirements or access needs).
+4. Consider offering a day-delegate rate 
+for participants who cannot attend the 
+whole conference because of caring 
+responsibilities.
+
+24
+What can institutions do to promote 
+diversity in conference attendance?
+If we are to ensure that conference 
+speakers and delegates reflect the diversity 
+of professionals working in their field, it is 
+not only the responsibility of conference 
+organisers to make their events inclusive and 
+welcoming, but people’s own institutions also 
+have a role to play in making it possible for 
+their staff to attend conferences. This could 
+include:
+1. Offering bursaries to cover additional 
+care costs (for children or elderly 
+relatives) incurred by employees with 
+caring responsibilities when attending 
+conferences. An example is the Carers’ 
+Career Fund at the University of Oxford.
+2. Allowing employees time off from their 
+day-to-day jobs to attend conferences. 
+Given the importance of these events 
+for career development, it is useful to 
+discuss future conference attendance 
+as part of regular appraisal/review 
+meetings between employees and their 
+line managers.
+3. Training or mentoring for employees to 
+help them raise their profile, improve 
+their presentation skills, confidence, 
+and so on, in order to increase their 
+opportunities to speak at conferences.
+Photo credit: ECI’s 1.5 Degrees Conference / John Cairns (2016)
+
+25
+Photo credit: ECI’s 1.5 Degrees Conference / John Cairns (2016)
+References and further reading
+Beede, D.N., Julian, T.A., Langdon, D., 
+McKittrick, G., Khan, B., and Doms, M.E. 
+(2011). ‘Women in STEM: A gender gap to 
+innovation’. 
+Bell, L. (1987). ‘Hearing All Our Voices: 
+Applications of Feminist Pedagogy 
+to Conferences, Speeches, and Panel 
+Presentations’. Women’s Studies Quarterly, 
+15 (3/4), 74-80. 
+Bowles, G. (2002). ‘Putting Our Heads 
+Together: Some Personal Recollections of 
+NWSA National Conventions, 1979-1983’. 
+NWSA Journal, 14 (1), 124. 
+Eden, D. (2016). ‘Women’s participation in 
+academic conferences in Israel’. Journal of 
+Higher Education Policy and Management, 
+38 (4), 406-421.
+European Union. She Figures. (2015). Gender 
+in research and innovation. Statistics and 
+indicators. 
+Isbell, L. A., Young, T. P ., and Harcourt, A. H. 
+(2012). ‘Stag Parties Linger: Continued 
+Gender Bias in a Female-Rich Scientific 
+Discipline’. PLOS ONE 7(11): e49682.
+Jackson, L. (2017). ‘The smiling philosopher: 
+Emotional labor, gender, and harassment 
+in conference spaces’. Educational 
+Philosophy and Theory, 1-9.
+Jones, T. M., Fanson, K. V., Lanfear, R., 
+Symonds, M. R. E. and Higgie, M. (2014). 
+‘Gender differences in conference 
+presentations: a consequence of self-
+selection?’Life & Environment, 1-15. 
+Henderson, E. F. (2019). ‘Academics in two 
+places at once: (not) managing caring 
+responsibilities at conferences’ In R. 
+Finkel, B. Sharp, and M. Sweeney (Eds.), 
+Accessibility, Inclusion, and Diversity 
+in Critical Event Studies (pp. 218-229). 
+London; New York, NY: Routledge.
+Hinsley, A., Sutherland, W. J. and Johnston, 
+A. (2017). ‘Men ask more questions than 
+women at a scientific conference’. PLOS 
+ONE, 12 (10), e0185534.
+Mair, J. and Frew, E. (2016). ‘Academic 
+conferences: a female duo-ethnography’. 
+Current Issues in Tourism, 1-21.
+Nittrouer, C. L., Hebl, M. R., Ashburn-Nardo, L., 
+Trump-Steele, R. C. E., Lane, D. M., Valian, 
+V. (2018). ‘Gender disparities in colloquium 
+speakers at top universities’. PNAS, 115.
+Pritchard, J., Masters, K., Allen, J., Contenta, 
+F., Huckvale, L., Wilkins, S., and Zocchi, 
+A. (2014). ‘Asking gender questions’. 
+Astronomy & Geophysics, 1;55(6):6–8. 
+Saul, J. (1992). ‘Planning a women’s studies 
+conference’. Feminist Teacher, 7(1), 22-25. 
+Sardelis, S., Drew, J.A. (2016). ‘Not “Pulling 
+up the Ladder”: Women Who Organize 
+Conference Symposia Provide Greater 
+Opportunities for Women to Speak at 
+Conservation Conferences’. PloS ONE. 
+28;11(7). 
+Acknowledgments
+This guide was prepared through 
+numerous consultations and conversations 
+with gender and diversity experts, with 
+conference organisers and academics. 
+We are very grateful for their invaluable 
+contributions and support which have 
+made this guide possible. In particular we 
+would like to thank Dr Katrina Charles, Prof 
+Margreet Zwarteveen, Dr Cheryl Doss, Sue 
+Cavill, Dr Emily Henderson, Dr Ilaria Boncori, 
+Dr Marina Korzenevica-Proud, Dr Catherine 
+Grasham, Adrian Puigarnau, Cecilie Hestbaek, 
+Dr Uma Lele, Dr Ali Black, Amita Bhakta, 
+Kanika Thakar, Angela Huston, Aiste Senulyte 
+and Jane Butcher. We are grateful to the 
+Information and Communications Team at the 
+School of Geography and the Environment 
+for their invaluable advice about the content 
+and presentation of this guide. Last but not 
+least we would like to thank all those who 
+took time to answer the survey, sharing their 
+experiences and perspectives.
+
+26
+Thank you for reading
+If you have any questions or comments, 
+please feel free to contact us:
+Alice Chautard: alice.chautard@ouce.ox.ac.uk | @
+alicechautard
+Dr Claire Hann: claire.hann@ouce.ox.ac.uk

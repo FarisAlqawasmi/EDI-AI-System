@@ -1,0 +1,65 @@
+Sign in to your account 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ // Welcome to the University of Leeds Microsoft 365 experience. Please use your university provided credentials to login and access your apps &amp; services. \n","UserIdLabel":"username@leeds.ac.uk (e.g. abcd123@leeds.ac.uk)","KeepMeSignedInDisabled":false,"UseTransparentLightBox":false,"LayoutTemplateConfig":{"showHeader":false,"headerLogo":"","layoutType":1,"hideCantAccessYourAccount":false,"hideForgotMyPassword":false,"hideResetItNow":false,"hideAccountResetCredentials":false,"showFooter":true,"hideTOU":false,"hidePrivacy":false},"Favicon":"https://aadcdn.msftauthimages.net/c1c6b6c8-jlwoteupyzgzni2k6cy-quznhv8wdanfyx1cgcswsdk/logintenantbranding/0/favicon?ts=638611217529682186","FooterPrivacyLink":"https://www.leeds.ac.uk/privacy","FooterPrivacyText":"University of Leeds Privacy &amp; Cookies Policy","FooterTOULink":"https://it.leeds.ac.uk/it?id=kb_article_view&table=kb_knowledge&sys_kb_id=e2737c3e1bfe0e5c10acdd77b04bcbf7","FooterTOUText":"Use of Computer Systems policy","AccessRecoveryLink":"https://passwordreset.microsoftonline.com/passwordreset#!/"}],"oAppCobranding":{},"iBackgroundImage":4,"arrSessions":[],"fApplicationInsightsEnabled":false,"iApplicationInsightsEnabledPercentage":0,"urlSetDebugMode":"https://login.microsoftonline.com/common/debugmode","fEnableCssAnimation":true,"fAllowGrayOutLightBox":true,"fUseMsaSessionState":true,"fIsRemoteNGCSupported":true,"urlLogin":"https://login.microsoftonline.com/bdeaeda8-c81d-45ce-863e-5232a535b7cb/reprocess?ctx=rQQIARAAnVFNaBNBGN3NtquprU0DHrwuPbVuMrOzP5NAD_uTrUVoqhaLLTXMzk7Imp_dZLdNbelFRHrsUbwpiBAQiiBIT56rh4J66cmjimCxHnoRTfDisfj4eLzT-x7vTQkwB4uT4C-QPGAZVKtQpmyg_kEnO5J5clL_dQdwxytvf6c-LD9c7fGoliRRXMznG4z5MdK1XFwjHRaFQSvJ0bCZr1TDTjPO-6xK1hpJjsTRxmueP-T5zzzfS7VVZDl2wbIQQLZiQmQqEGHLxZZTME3bNa2Ca5iqpuqaYahaAchqAdiW67rAgrrhQFQySghgBdiuq0DVVTTVMoCjGZpu9J0gxI7jutAu2bDUf-TAo9R42VxLasqAwk6wyX6k0oOMlSiMk8fCUNkB3Z5wpkpeCpOezwjzCZYphr6sapTJWEdM1hSkEA1pnkG9A0EMI9YK_MMh_nSIfzrcb_Jj6-DSs2-X5x-kX2k_ny9xB8N5V5mtNRYXb-vdsrkZ1eo326hOyFLVXp-PurM2rW5Mz8LOnA3adEYtwl2R3xXFfTF9XshwkmAvwGOR3znH7af_Z5PDC_zRKBxJ09DrkJYf-NlJCD0fA4xkbLB-79DTZM8zsAw8qiKKCWaYHI2qIyJtkKAZZ6e2pMCvJGGdtaTilrTRjCuUDtQ6aayxWCquSP2Q0ur29vb9sTO5vxnjTi--e7_3ovfl0ferX8evmNebSiGow-XmfP7G3AJZnr7lefBeo0vu6knJpLQclNue6reuqTN7Ge5T_ya404nMTpb7Aw2","urlDssoStatus":"https://login.microsoftonline.com/common/instrumentation/dssostatus","fUseSameSite":true,"iAllowedIdentities":2,"uiflavor":1001,"fLoadStringCustomizationPromises":true,"fUseAlternateTextForSwitchToCredPickerLink":true,"fOfflineAccountVisible":false,"fEnableUserStateFix":true,"fAccessPassSupported":true,"fShowAccessPassPeek":true,"fUpdateSessionPollingLogic":true,"fEnableShowPickerCredObservable":true,"fFetchSessionsSkipDsso":true,"fIsCiamUserFlowUxNewLogicEnabled":true,"fUseNonMicrosoftDefaultBrandingForCiam":true,"sCompanyDisplayName":"University of Leeds","fRemoveCustomCss":true,"fFixUICrashForApiRequestHandler":true,"fShowUpdatedKoreanPrivacyFooter":true,"fUsePostCssHotfix":true,"fFixUserFlowBranding":true,"fIsQrCodePinSupported":true,"fEnablePasskeyNullFix":true,"fEnableWebNativeBridgeInterstitialUx":true,"fEnableWindowParentingFix":true,"fEnableNativeBridgeErrors":true,"urlAcmaServerPath":"https://login.microsoftonline.com","sTenantId":"bdeaeda8-c81d-45ce-863e-5232a535b7cb","sMkt":"en-GB","fUpdateConfigInit":true,"fLogDisallowedCssProperties":true,"fDisallowExternalFonts":true,"sFidoChallenge":"O.eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IlBjWDk4R1g0MjBUMVg2c0JEa3poUW1xZ3dNVSJ9.eyJhdWQiOiJ1cm46bWljcm9zb2Z0OmZpZG86Y2hhbGxlbmdlIiwiaXNzIjoiaHR0cHM6Ly9sb2dpbi5taWNyb3NvZnQuY29tIiwiaWF0IjoxNzcwMTQwMTM5LCJuYmYiOjE3NzAxNDAxMzksImV4cCI6MTc3MDE0MDQzOX0.R95dbL0Rp5-_aqnBxCQbd35YaU_3LVeByoEEu4HZuupac17KKWYOiwWXQZXoOF21t6lBUOStrLpBrzfikqOcyB1fR_3FomHFO0lOdOKt8iWRu746q7jb9Ksro4QZLQJMlkDoOG424E8Jbqzq-s3SiTEIgWT10YmNjshoocxjPHTaUSiYUYh3hySSiDLr1G6AQTgSZcY669ms-EpU1fhkklcIYWG7cJUOtqciGTyaTt2o5iWEdaepFOZrqkeVwGydnmyRG1Z4Z7v8O8MrR2l8ljAuJhmxjzRKgBx2O6HUSYrxLZjILOPndnsE97RIB4byyhU5wsloM8rLO-tZVM2hUA","scid":1013,"hpgact":1800,"hpgid":1104,"pgid":"ConvergedSignIn","apiCanary":"PAQABDgEAAACvnsHKEvvRQb3Bz3Qc7wnaChW2g5sgqyZxPB4L2P6dPtmccDGFUmiUA-BGkAscQ5Fz0fBsSLGjG7QB90b5TGCZtcon_zq1Qtgj9Wte8xpcsnE6TGRjgR5by1_UvKRq04ft0JuZKVsa7CJfnlMHKiAB8qnTsd0uUhadz6YtFh1BZW2K7sCe22haFSVYjt43xDZgf-6iFZwH5cyHyOY7TKr536I5noNWZS4-cd_daGKrSCAA","canary":"F2GhlTTY6wOAzphkSq3kaaWfCvNpwGCcfx+G1rIC0qc=4:1:CANARY:AQm29ik1ZmN/RIPaZ+Vbb1ylwaj6tEAccOiOqb4dnK4=","sCanaryTokenName":"canary","fSkipRenderingNewCanaryToken":false,"fEnableNewCsrfProtection":true,"correlationId":"fd6bf3a1-305e-f000-5bcb-ff02d45a865d","sessionId":"15ca6ed5-eca5-4e19-8409-b535f4a75700","sRingId":"R6","locale":{"mkt":"en-GB","lcid":2057},"slMaxRetry":2,"slReportFailure":true,"strings":{"desktopsso":{"authenticatingmessage":"Trying to sign you in"}},"enums":{"ClientMetricsModes":{"None":0,"SubmitOnPost":1,"SubmitOnRedirect":2,"InstrumentPlt":4}},"urls":{"instr":{"pageload":"https://login.microsoftonline.com/common/instrumentation/reportpageload","dssostatus":"https://login.microsoftonline.com/common/instrumentation/dssostatus"}},"browser":{"ltr":1,"_Other":1,"Full":1,"RE_Other":1,"b":{"name":"Other","major":-1,"minor":-1},"os":{"name":"Unknown","version":""},"V":-1},"watson":{"url":"/common/handlers/watson","bundle":"https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/watson.min_q5ptmu8aniymd4ftuqdkda2.js","sbundle":"https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/watsonsupportwithjquery.3.5.min_dc940oomzau4rsu8qesnvg2.js","fbundle":"https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/frameworksupport.min_oadrnc13magb009k4d20lg2.js","resetErrorPeriod":5,"maxCorsErrors":-1,"maxInjectErrors":5,"maxErrors":10,"maxTotalErrors":3,"expSrcs":["https://login.microsoftonline.com","https://aadcdn.msauth.net/","https://aadcdn.msftauth.net/",".login.microsoftonline.com"],"envErrorRedirect":true,"envErrorUrl":"/common/handlers/enverror"},"loader":{"cdnRoots":["https://aadcdn.msauth.net/","https://aadcdn.msftauth.net/"],"logByThrowing":true,"tenantBrandingCdnRoots":["aadcdn.msauthimages.net","aadcdn.msftauthimages.net"]},"serverDetails":{"slc":"ProdSlices","dc":"NEULR1","ri":"DU6XXXX","ver":{"v":[2,1,23276,2]},"rt":"2026-02-03T17:35:39","et":41},"clientEvents":{"enabled":true,"telemetryEnabled":true,"useOneDSEventApi":true,"flush":60000,"autoPost":true,"autoPostDelay":1000,"minEvents":1,"maxEvents":1,"pltDelay":500,"appInsightsConfig":{"instrumentationKey":"b0c252808e614e949086e019ae1cb300-e0c02060-e3b3-4965-bd7c-415e1a7a9fde-6951","webAnalyticsConfiguration":{"autoCapture":{"jsError":true}}},"defaultEventName":"IDUX_ESTSClientTelemetryEvent_WebWatson","serviceID":3,"endpointUrl":"https://eu-mobile.events.data.microsoft.com/OneCollector/1.0/"},"fApplyAsciiRegexOnInput":true,"country":"GB","fBreakBrandingSigninString":true,"bsso":{"type":"none","reason":"Chrome: Pull suppressed as UserAgent did not meet required criteria, Other: Pull suppressed as UserAgent did not meet required criteria"},"urlNoCookies":"https://login.microsoftonline.com/cookiesdisabled","fTrimChromeBssoUrl":true,"inlineMode":5,"fTenantBrandingCdnAddEventHandlers":true,"fAddTryCatchForIFrameRedirects":true};
+//]]> 
+ // r&&n.shift(),o++},r.getLogs=function(){return n}}}(),function(){function e(e,r){function t(i){var a=e[i];if(i 0){for(var d=a.length,l=0;l 3){i.extraArgs=[];for(var a=3;a -1?r:e.length,n=e.lastIndexOf(".",t);return e.substring(n,n+v.length).toLowerCase()===v}function i(){var r=e();return(r.loader||{}).slReportFailure||r.slReportFailure||!1}function a(){return(e().loader||{}).redirectToErrorPageOnLoadFailure||!1}function s(){return(e().loader||{}).logByThrowing||!1}function u(e){if(!t()&&!n()){return!1}var r=e.src||e.href||"";if(!r){return!0}if(o(r)){var i,a,s;try{i=e.sheet,a=i&&i.cssRules,s=!1}catch(e){s=!0}if(i&&!a&&s){return!0}
+if(i&&a&&0===a.length){return!0}}return!1}function c(){function t(e){g.getElementsByTagName("head")[0].appendChild(e)}function n(e,r,t,n){var u=null;return u=o(e)?i(e):"script"===n.toLowerCase()?a(e):s(e,n),r&&(u.id=r),"function"==typeof u.setAttribute&&(u.setAttribute("crossorigin","anonymous"),t&&"string"==typeof t&&u.setAttribute("integrity",t)),u}function i(e){var r=g.createElement("link");return r.rel="stylesheet",r.type="text/css",r.href=e,r}function a(e){
+var r=g.createElement("script"),t=g.querySelector("script[nonce]");if(r.type="text/javascript",r.src=e,r.defer=!1,r.async=!1,t){var n=t.nonce||t.getAttribute("nonce");r.setAttribute("nonce",n)}return r}function s(e,r){var t=g.createElement(r);return t.src=e,t}function d(e,r){if(e&&e.length>0&&r){for(var t=0;t 1)){return r}for(var n=0;n 1)){return r}for(var a=0;a 0&&(a.srcPath=l(a.srcPath),a.origId||(a.origId=a.id),a.id=a.origId+"_Retry_"+a.retry);var s=n(a.srcPath,a.id,a.integrity,a.tagName);s.onload=function(){v(e,o,i,s)},s.onerror=function(){f(e,o,i,s)},s.onreadystatechange=function(){
+"loaded"===s.readyState?setTimeout(function(){v(e,o,i,s)},500):"complete"===s.readyState&&v(e,o,i,s)},t(s),r("[$Loader]: Loading '"+(a.srcPath||"")+"', id:"+(a.id||""))}else{o&&o()}}var p=e(),y=p.slMaxRetry||2,m=p.loader||{},b=m.cdnRoots||[],E=m.tenantBrandingCdnRoots||[],L=this,w=[];L.retryOnError=!0,L.successMessage="Loaded",L.failMessage="Error",L.Add=function(e,r,t,n,o,i){e&&w.push({"srcPath":e,"id":r,"retry":n||0,"integrity":t,"tagName":o||"script","onSuccess":i})},L.AddForReload=function(e,r){
+var t=e.src||e.href||"";L.Add(t,"AddForReload",e.integrity,1,e.tagName,r)},L.AddIf=function(e,r,t){e&&L.Add(r,t)},L.Load=function(e,r){h(0,e,r)}}var d,l,f=window,g=f.document,v=".css";c.On=function(e,r,t){if(!e){throw"The target element must be provided and cannot be null."}r?c.OnError(e,t):c.OnSuccess(e,t)},c.OnSuccess=function(e,t){if(!e){throw"The target element must be provided and cannot be null."}if(u(e)){return c.OnError(e,t)}var n=e.src||e.href||"",o=i(),s=a();r("[$Loader]: Loaded",e);var d=new c
+;d.failMessage="Reload Failed",d.successMessage="Reload Success",d.Load(null,function(){if(o){throw"Unexpected state. ResourceLoader.Load() failed despite initial load success. ['"+n+"']"}s&&(document.location.href="/error.aspx?err=504")})},c.OnError=function(e,t){var n=e.src||e.href||"",o=i(),s=a();if(!e){throw"The target element must be provided and cannot be null."}r("[$Loader]: Failed",e);var u=new c;u.failMessage="Reload Failed",u.successMessage="Reload Success",u.AddForReload(e,t),
+u.Load(null,function(){if(o){throw"Failed to load external resource ['"+n+"']"}s&&(document.location.href="/error.aspx?err=504")}),c._ReportFailure(0,n)},c._ReportFailure=function(e,r){if(s()&&!t()){throw"[Retry "+e+"] Failed to load external resource ['"+r+"'], reloading from fallback CDN endpoint"}},f.$Loader=c}(),function(){function e(){if(!E){var e=new h.$Loader;e.AddIf(!h.jQuery,y.sbundle,"WebWatson_DemandSupport"),y.sbundle=null,delete y.sbundle,e.AddIf(!h.$Api,y.fbundle,"WebWatson_DemandFramework"),
+y.fbundle=null,delete y.fbundle,e.Add(y.bundle,"WebWatson_DemandLoaded"),e.Load(r,t),E=!0}}function r(){if(h.$WebWatson){if(h.$WebWatson.isProxy){return void t()}m.when("$WebWatson.full",function(){for(;b.length>0;){var e=b.shift();e&&h.$WebWatson[e.cmdName].apply(h.$WebWatson,e.args)}})}}function t(){if(!h.$WebWatson||h.$WebWatson.isProxy){if(!L&&JSON){try{var e=new XMLHttpRequest;e.open("POST",y.url),e.setRequestHeader("Accept","application/json"),
+e.setRequestHeader("Content-Type","application/json; charset=UTF-8"),e.setRequestHeader("canary",p.apiCanary),e.setRequestHeader("client-request-id",p.correlationId),e.setRequestHeader("hpgid",p.hpgid||0),e.setRequestHeader("hpgact",p.hpgact||0);for(var r=-1,t=0;t 0;){n=n?n.caller:n,r--}for(var o=0;n&&o 1?t[1]:""}catch(e){}}return""}function g(e){if(e){try{if("string"!=typeof e&&JSON&&JSON.stringify){var r=f(e),t=JSON.stringify(e);return t&&"{}"!==t||(e.error&&(e=e.error,r=f(e)),(t=JSON.stringify(e))&&"{}"!==t||(t=e.toString())),r+":"+t}}catch(e){}}return""+(e||"")}function v(e){var r=[];try{
+if(jQuery?(r.push("jQuery v:"+jQuery().jquery),jQuery.easing?r.push("jQuery.easing:"+JSON.stringify(jQuery.easing)):r.push("jQuery.easing is not defined")):r.push("jQuery is not defined"),e&&e.expectedVersion&&r.push("Expected jQuery v:"+e.expectedVersion),m){var t,n="";for(t=0;t 0&&(r=r.concat(o))}if(b){
+for(var i=0;i 0&&e(n[0],"click",t)}var n=window;n.AddListener=e,n.ClickEventListenerById=r,n.ClickEventListenerByName=t}();
+//]]> 
+ // 
+
+ 
+ 
+ 
+
+ 
+ ServerData = $Config;
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ // t?"?":"&",o=o.substr(0,n)+d+"iframe-request-id="+i.sessionId+o.substr(n),e.top.location=o}catch(e){}}else{o=e.self.location.href,t=o.indexOf("#"),r=-1!==t,f=o.indexOf("?"),n=r?t:o.length,d=-1===f||r&&f>t?"?":"&",
+o=o.substr(0,n)+d+"iframe-request-id="+i.sessionId+o.substr(n),e.top.location=o}}}();
+//]]>
