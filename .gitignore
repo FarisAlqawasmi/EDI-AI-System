@@ -12,3 +12,5 @@ __pycache__/
 .DS_Store
 .vscode/
 
+# Flask session files (runtime)
+data/processed/flask_sessions/
