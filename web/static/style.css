@@ -1165,6 +1165,23 @@ mark.extract-search-mark.current {
     flex-wrap: wrap;
 }
 
+.sources-modal-main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    min-width: 0;
+    flex: 1;
+}
+
+.sources-modal-score {
+    flex-shrink: 0;
+    color: var(--text-muted);
+    font-size: 0.875rem;
+    white-space: nowrap;
+    text-align: right;
+}
+
 .sources-modal-row:last-child {
     border-bottom: none;
 }

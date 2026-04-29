@@ -300,11 +300,19 @@ def _slim_sources(sources):
     """Keep only doc_id, title, score, chunk_id for session/modal (no full chunk text)."""
     if not sources:
         return []
+    def _safe_score(val):
+        # Preserve missing scores so UI can show "N/A".
+        if val is None:
+            return None
+        try:
+            return float(val)
+        except Exception:
+            return None
     return [
         {
             "doc_id": s.get("doc_id") if isinstance(s, dict) else getattr(s, "doc_id", ""),
             "title": s.get("title") if isinstance(s, dict) else getattr(s, "title", "Untitled"),
-            "score": float(s.get("score", 0)) if isinstance(s, dict) else float(getattr(s, "score", 0)),
+            "score": _safe_score(s.get("score")) if isinstance(s, dict) else _safe_score(getattr(s, "score", None)),
             "chunk_id": s.get("chunk_id") if isinstance(s, dict) else getattr(s, "chunk_id", ""),
         }
         for s in sources

@@ -86,8 +86,12 @@ function renderAssistantMessage(content) {
         var escaped = withBold.replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/\n/g, '<br>');
         return escaped.replace(/\u0001S\u0002/g, '<strong>').replace(/\u0001S\u0003/g, '</strong>');
     }
+    // Ensure readable Markdown rendering (preserve single newlines as <br> and keep GFM lists).
+    if (typeof marked.setOptions === 'function') {
+        marked.setOptions({ gfm: true, breaks: true });
+    }
     var html = typeof marked.parse === 'function' ? marked.parse(raw, { async: false }) : (marked(raw) || raw);
-    return DOMPurify.sanitize(html, { ALLOWED_TAGS: ['p', 'br', 'strong', 'em', 'b', 'i', 'u', 'ul', 'ol', 'li', 'h1', 'h2', 'h3', 'code', 'pre', 'blockquote', 'hr'] });
+    return DOMPurify.sanitize(html, { ALLOWED_TAGS: ['p', 'br', 'strong', 'em', 'b', 'i', 'u', 'ul', 'ol', 'li', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'code', 'pre', 'blockquote', 'hr'] });
 }
 
 function addBubble(role, content, sources, isAppend) {
@@ -125,6 +129,12 @@ function addBubble(role, content, sources, isAppend) {
 }
 
 var LINK_ICON_SVG = '<svg class="sources-modal-link-icon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>';
+function formatScore(val) {
+    if (val == null || val === '') return 'N/A';
+    var n = Number(val);
+    if (!isFinite(n)) return 'N/A';
+    return n.toFixed(2);
+}
 function openSourcesModal(sources) {
     sourcesModalBody.innerHTML = '';
     sourcesModal.hidden = false;
@@ -143,6 +153,8 @@ function openSourcesModal(sources) {
         rankEl.textContent = String(rank);
         rankEl.setAttribute('aria-hidden', 'true');
         li.appendChild(rankEl);
+        const main = document.createElement('div');
+        main.className = 'sources-modal-main';
         const linkWrap = document.createElement('span');
         linkWrap.className = 'sources-modal-cell sources-modal-link-wrap';
         const a = document.createElement('a');
@@ -158,7 +170,14 @@ function openSourcesModal(sources) {
         linkIcon.setAttribute('aria-hidden', 'true');
         a.appendChild(linkIcon);
         linkWrap.appendChild(a);
-        li.appendChild(linkWrap);
+        main.appendChild(linkWrap);
+
+        const scoreWrap = document.createElement('span');
+        scoreWrap.className = 'sources-modal-score';
+        scoreWrap.textContent = 'Score: ' + formatScore(s.score);
+        main.appendChild(scoreWrap);
+
+        li.appendChild(main);
         list.appendChild(li);
     });
     sourcesModalBody.appendChild(list);

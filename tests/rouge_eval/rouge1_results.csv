@@ -1,0 +1,7 @@
+Resource ID,Generated File,EDI Reference File,ROUGE-1 F1
+9,generated/resource9.txt,edi_generated/resource9.txt,0.457711
+40,generated/resource40.txt,edi_generated/resource40.txt,0.438095
+52,generated/resource52.txt,edi_generated/resource52.txt,0.398010
+54,generated/resource54.txt,edi_generated/resource54.txt,0.566210
+62,generated/resource62.txt,edi_generated/resource62.txt,0.622449
+76,generated/resource76.txt,edi_generated/resource76.txt,0.448430
